@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
 json_file_path = 'web/public/hackathons.json'   # Path to the JSON file where the results are stored
-max_results = 100    # Maximum number of search results to fetch
+max_results = 10    # Maximum number of search results to fetch
 
 months = ['gennaio', 'febbraio', 'marzo', 'aprile', 'maggio', 'giugno', 'luglio', 'agosto', 'settembre', 'ottobre', 'novembre', 'dicembre']
 current_year = str(datetime.now().year)
@@ -56,7 +56,7 @@ def process_results(results, month_data):
     for index, result in enumerate(results):
         try:
             # Print progress
-            print(f"Processing {index + 1}/{len(results)} search result.", end='\r')
+            print(f"Processing {index + 1}/{len(results)} search result.")
 
             content = requests.get(result['href']).text
 
