@@ -30,7 +30,7 @@ export default {
         };
     },
     mounted() {
-        fetch('/hackathons.json')
+        fetch(`${import.meta.env.BASE_URL}hackathons.json`)
             .then(response => response.json())
             .then(data => {
                 this.hackathonsData = data;
