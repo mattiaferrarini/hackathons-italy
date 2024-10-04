@@ -56,7 +56,7 @@ def process_results(results, month_data):
     for index, result in enumerate(results):
         try:
             # Print progress
-            print(f"Processing {index + 1}/{len(results)} search result.")
+            print(f"Processing {index + 1}/{len(results)} search result.", end='\r')
 
             content = requests.get(result['href']).text
 

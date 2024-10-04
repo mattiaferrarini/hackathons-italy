@@ -13,7 +13,7 @@ def generate_rss():
     fg = FeedGenerator()
     fg.title('Feed degli hackathon in Italia')
     fg.description('Ultimi hackathon trovati')
-    fg.link(href='http://mattiaferrarini.github.io/hackathons-italy/rss.xml', rel='self')
+    fg.link(href='http://mattiaferrarini.com/hackathons-italy/rss.xml', rel='self')
     fg.language('it')
 
     # Add items to the RSS feed
