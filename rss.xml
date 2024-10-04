@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 04 Oct 2024 17:29:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 19:23:00 +0000</lastBuildDate>
     <item>
       <title>Hackathon Copernicus Bari 2022 - Planetek Italia (dicembre)</title>
       <link>https://www.planetek.it/news_eventi/tutti_gli_eventi/2022/05/hackathon_copernicus_bari_2022</link>
@@ -146,6 +146,18 @@
       <link>https://www.superando.it/2024/10/04/hackathon-synlab-studenti-in-gara-per-innovare-il-mondo-della-salute/</link>
       <description>"Hackathon SYNLAB": studenti in gara per innovare il mondo della salute</description>
       <pubDate>Fri, 04 Oct 2024 16:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Economia e finanza: gli avvenimenti di DOMENICA 6 ottobre (ottobre)</title>
+      <link>https://ntplusentilocaliedilizia.ilsole24ore.com/radiocor/nRC_04.10.2024_07.20_8</link>
+      <description>Economia e finanza: gli avvenimenti di DOMENICA 6 ottobre</description>
+      <pubDate>Fri, 04 Oct 2024 19:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS Hackathon 2024: c'è tempo fino al 30 agosto per candidarsi (ottobre)</title>
+      <link>https://www.lineaedp.it/featured/sas-hackathon-2024-ce-tempo-fino-al-30-agosto-per-candidarsi/</link>
+      <description>SAS Hackathon 2024: c'è tempo fino al 30 agosto per candidarsi</description>
+      <pubDate>Fri, 04 Oct 2024 19:22:53 +0000</pubDate>
     </item>
     <item>
       <title>Hackathon 5/6 ottobre 2024 - AssoSoftware (ottobre)</title>
@@ -322,6 +334,18 @@
       <pubDate>Fri, 04 Oct 2024 16:49:13 +0000</pubDate>
     </item>
     <item>
+      <title>SAS Hackathon 2024: c'è tempo fino al 30 agosto per candidarsi (settembre)</title>
+      <link>https://www.lineaedp.it/featured/sas-hackathon-2024-ce-tempo-fino-al-30-agosto-per-candidarsi/</link>
+      <description>SAS Hackathon 2024: c'è tempo fino al 30 agosto per candidarsi</description>
+      <pubDate>Fri, 04 Oct 2024 19:22:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>HACKATHON: che cos'è, come si organizza e perchè - Office Jam (settembre)</title>
+      <link>https://www.officejam.it/hackhathon-che-cosa-e-come-si-organizza-perche-evento-officejam/</link>
+      <description>HACKATHON: che cos'è, come si organizza e perchè - Office Jam</description>
+      <pubDate>Fri, 04 Oct 2024 19:22:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Hackathon 5/6 ottobre 2024 - AssoSoftware (settembre)</title>
       <link>https://www.assosoftware.it/hackathon-5-6-ottobre-2024/</link>
       <description>Hackathon 5/6 ottobre 2024 - AssoSoftware</description>
@@ -434,6 +458,12 @@
       <link>https://www.assosoftware.it/hackathon-5-6-ottobre-2024/</link>
       <description>Hackathon 5/6 ottobre 2024 - AssoSoftware</description>
       <pubDate>Fri, 04 Oct 2024 16:49:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS Hackathon 2024: c'è tempo fino al 30 agosto per candidarsi (agosto)</title>
+      <link>https://www.lineaedp.it/featured/sas-hackathon-2024-ce-tempo-fino-al-30-agosto-per-candidarsi/</link>
+      <description>SAS Hackathon 2024: c'è tempo fino al 30 agosto per candidarsi</description>
+      <pubDate>Fri, 04 Oct 2024 19:22:53 +0000</pubDate>
     </item>
     <item>
       <title>Hackathon Copernicus Bari 2022 - Planetek Italia (agosto)</title>
@@ -844,6 +874,18 @@
       <pubDate>Fri, 04 Oct 2024 16:49:17 +0000</pubDate>
     </item>
     <item>
+      <title>RomeCup 2024: premio di 20mila euro per il miglior giovane ricercatore ... (marzo)</title>
+      <link>https://www.repubblica.it/tecnologia/2024/02/09/news/romecup_2024_scuole_italiane_robotica-422098593/</link>
+      <description>RomeCup 2024: premio di 20mila euro per il miglior giovane ricercatore ...</description>
+      <pubDate>Fri, 04 Oct 2024 19:22:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hilti Italia e AIS Presentano le Prospettive per il futuro all ... (marzo)</title>
+      <link>https://www.adnkronos.com/economia/hilti-italia-e-ais-presentano-le-prospettive-per-il-futuro-allinfrastructure-academy-2024_3dKigvEzqixLvqIkOuznLT</link>
+      <description>Hilti Italia e AIS Presentano le Prospettive per il futuro all ...</description>
+      <pubDate>Fri, 04 Oct 2024 19:21:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Hack4SDS 2024 - seconda edizione dell'hackathon nazionale del Gruppo di ... (marzo)</title>
       <link>https://www.unifg.it/it/servizi-e-opportunita/opportunita/bandi-studenti/hack4sds-2024-seconda-edizione-dellhackathon-nazionale-del-gruppo-di-statistica-data-science-sds-della-societa-italiana-di-statistica-sis</link>
       <description>Hack4SDS 2024 - seconda edizione dell'hackathon nazionale del Gruppo di ...</description>
@@ -938,6 +980,18 @@
       <link>https://www.digitech.news/learning/25/03/2024/ai-for-inclusion-lhackathon-di-microsoft-italia-per-startup-e-aziende/</link>
       <description>AI for Inclusion: l'hackathon di Microsoft Italia per startup e aziende</description>
       <pubDate>Fri, 04 Oct 2024 16:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>HACKATHON: che cos'è, come si organizza e perchè - Office Jam (febbraio)</title>
+      <link>https://www.officejam.it/hackhathon-che-cosa-e-come-si-organizza-perche-evento-officejam/</link>
+      <description>HACKATHON: che cos'è, come si organizza e perchè - Office Jam</description>
+      <pubDate>Fri, 04 Oct 2024 19:22:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>RomeCup 2024: premio di 20mila euro per il miglior giovane ricercatore ... (febbraio)</title>
+      <link>https://www.repubblica.it/tecnologia/2024/02/09/news/romecup_2024_scuole_italiane_robotica-422098593/</link>
+      <description>RomeCup 2024: premio di 20mila euro per il miglior giovane ricercatore ...</description>
+      <pubDate>Fri, 04 Oct 2024 19:22:22 +0000</pubDate>
     </item>
     <item>
       <title>Hack4SDS 2024 - seconda edizione dell'hackathon nazionale del Gruppo di ... (febbraio)</title>
