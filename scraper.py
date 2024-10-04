@@ -87,8 +87,8 @@ def process_results(results, month_data):
                     'scraped_date': datetime.now(timezone.utc).isoformat()
                 }
                 for month in mentioned_months:
-                    # Check if the entry is already present
-                    if entry not in month_data[month]:
+                    # Check if an entry with the same 'title' and 'href' already exists
+                    if not any(existing_entry['title'] == entry['title'] and existing_entry['href'] == entry['href'] for existing_entry in month_data[month]):
                         month_data[month].append(entry)
                         is_new = True
             
