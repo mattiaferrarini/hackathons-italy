@@ -1,6 +1,6 @@
 # Hackathons Italy
 
-A simple aggregator for hackathons in Italy, featuring a website and an RSS feed. The data is automatically updated every Sunday.
+This is a simple aggregator of hackathons in Italy, featuring a website and an RSS feed. The data is automatically updated every Sunday.
 
 This project aims to make it easier to discover hackathon opportunities and is not affiliated with any organization.
 
