@@ -16,7 +16,7 @@
             </p>
         </header>
         <div class="flex gap-8 max-w-[1200px] justify-center w-full">
-            <div class="hidden md:block sticky top-0 self-start h-full pt-4 flex-1 max-w-[200px]">
+            <div class="hidden md:block sticky top-0 self-start h-full pt-2 flex-1 max-w-[200px]">
                 <NavList ref="navListRef" @scrollToMonth="scrollToMonth" />
             </div>
             <main class="w-full">

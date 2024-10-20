@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
 json_file_path = 'web/public/hackathons.json'   # Path to the JSON file where the results are stored
-max_results = 100    # Maximum number of search results to fetch
+max_results = 50    # Maximum number of search results to fetch
 
 months = ['gennaio', 'febbraio', 'marzo', 'aprile', 'maggio', 'giugno', 'luglio', 'agosto', 'settembre', 'ottobre', 'novembre', 'dicembre']
 current_year = str(datetime.now().year)
