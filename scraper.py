@@ -9,6 +9,7 @@ json_file_path = 'web/public/hackathons.json'   # Path to the JSON file where th
 max_results = 50    # Maximum number of search results to fetch
 
 months = ['gennaio', 'febbraio', 'marzo', 'aprile', 'maggio', 'giugno', 'luglio', 'agosto', 'settembre', 'ottobre', 'novembre', 'dicembre']
+eng_months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december']
 current_year = str(datetime.now().year)
 
 
@@ -56,7 +57,7 @@ def process_results(results, month_data):
     for index, result in enumerate(results):
         try:
             # Print progress
-            print(f"Processing {index + 1}/{len(results)} search result.", end='\r')
+            print(f"Processing {index + 1}/{len(results)} search result: {result['href']}")
 
             content = requests.get(result['href']).text
 
@@ -74,7 +75,11 @@ def process_results(results, month_data):
             # Check if the text mentions any month and if it mentions the current year
             for word in words:
                 if word in months and word not in mentioned_months:
+                    print(f"Added {result['title']} to {word}")
                     mentioned_months.append(word)
+                if word in eng_months and months[eng_months.index(word)] not in mentioned_months:
+                    print(f"Added {result['title']} to {word}")
+                    mentioned_months.append(months[eng_months.index(word)])
                 if word == current_year:
                     in_current_year = True
 
