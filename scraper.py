@@ -4,6 +4,7 @@ from duckduckgo_search import DDGS
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
+import sys
 
 json_file_path = 'web/public/hackathons.json'   # Path to the JSON file where the results are stored
 max_results = 50    # Maximum number of search results to fetch
@@ -28,7 +29,7 @@ def load_existing_data():
         return {month: [] for month in months}
 
 
-def fetch_search_results():
+def fetch_search_results(max_results=max_results):
     """
     Fetch search results from DuckDuckGo.
 
@@ -120,8 +121,14 @@ def save_data(month_data):
         json.dump(month_data, json_file, ensure_ascii=False, indent=2)
 
 if __name__ == '__main__':
+    
     month_data = load_existing_data()
-    results = fetch_search_results()
+
+    if len(sys.argv) > 1:
+        results = fetch_search_results(int(sys.argv[1]))
+    else:
+        results = fetch_search_results()
+    
     month_data, not_processed, new_count = process_results(results, month_data)
     save_data(month_data)
 

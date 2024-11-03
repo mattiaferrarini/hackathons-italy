@@ -7,7 +7,7 @@
                     automatico</span> di hackathon elencati online.
                 Il progetto nasce dal desiderio di facilitare la scoperta di eventi e non è in alcun modo affiliato
                 a nessuna organizzazione.
-                Gli elementi elencati sono selezionati dai <span class="text-emerald-600">primi 100 risultati di
+                Gli elementi elencati sono selezionati dai <span class="text-emerald-600">primi 50 risultati di
                     ricerca su DuckDuckGo</span> per la query <i>hackathon italia {anno_corrente}</i>
                 ed organizzati per mese in base all'esplicita menzione di uno o più mesi nei siti degli eventi.
                 Quindi: (1) alcuni elementi potrebbero non essere hackathon, (2) alcuni eventi potrebbero non essere
@@ -49,4 +49,6 @@ const updateNavList = (month) => {
 
 </script>
 
-<style scoped></style>
+<style scoped>
+/* Add your styles here */
+</style>
