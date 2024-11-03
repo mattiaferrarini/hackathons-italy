@@ -1,0 +1,1045 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Feed degli hackathon in Italia</title>
+    <link>http://mattiaferrarini.com/hackathons-italy/rss.xml</link>
+    <description>Ultimi hackathon trovati</description>
+    <atom:link href="http://mattiaferrarini.com/hackathons-italy/rss.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>it</language>
+    <lastBuildDate>Sun, 03 Nov 2024 01:27:48 +0000</lastBuildDate>
+    <item>
+      <title>Cagliari ospita il primo hackathon italiano dedicato alle smart city (dicembre)</title>
+      <link>https://www.unicaradio.it/blog/2024/10/04/cagliari-ospita-il-primo-hackathon-italiano-dedicato-alle-smart-city/</link>
+      <description>Cagliari ospita il primo hackathon italiano dedicato alle smart city</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon (dicembre)</title>
+      <link>https://blog.fabric.microsoft.com/en-us/blog/announcing-the-microsoft-fabric-ai-learning-hackathon?ft=08-2024:date</link>
+      <description>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER (dicembre)</title>
+      <link>https://www.diculther.it/hackcultura24-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana (dicembre)</title>
+      <link>https://www.industriaitaliana.it/al-via-le-iscrizioni-per-il-sas-hackathon-2023/</link>
+      <description>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ... (dicembre)</title>
+      <link>https://startupitalia.eu/startup/lagenda-dellinnovazione-gli-eventi-tech-da-non-perdere-tra-gennaio-e-dicembre-2024/</link>
+      <description>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Hackathons of 2024 and 2025 - Airmeet (dicembre)</title>
+      <link>https://www.airmeet.com/hub/blog/major-hackathons/</link>
+      <description>Major Hackathons of 2024 and 2025 - Airmeet</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER (dicembre)</title>
+      <link>https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackZ 2024 (novembre)</title>
+      <link>https://hackz.cseaceg.org.in/</link>
+      <description>HackZ 2024</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cagliari ospita il primo hackathon italiano dedicato alle smart city (novembre)</title>
+      <link>https://www.unicaradio.it/blog/2024/10/04/cagliari-ospita-il-primo-hackathon-italiano-dedicato-alle-smart-city/</link>
+      <description>Cagliari ospita il primo hackathon italiano dedicato alle smart city</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ITALIA ECONOMY - Digital Evolution Hackathon (novembre)</title>
+      <link>https://italiaeconomy.it/digital-evolution-hackathon/</link>
+      <description>ITALIA ECONOMY - Digital Evolution Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon 2024 | Forum Visionaria (novembre)</title>
+      <link>https://www.forumvisionaria.it/hackathon-2024/</link>
+      <description>Hackathon 2024 | Forum Visionaria</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon (novembre)</title>
+      <link>https://blog.fabric.microsoft.com/en-us/blog/announcing-the-microsoft-fabric-ai-learning-hackathon?ft=08-2024:date</link>
+      <description>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud Budget Revolution: l'Hackathon di Aruba e Codemotion (novembre)</title>
+      <link>https://www.bitmat.it/tecnologie/cloud/cloud-budget-revolution-lhackathon-di-aruba-e-codemotion/</link>
+      <description>Cloud Budget Revolution: l'Hackathon di Aruba e Codemotion</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>UNICEF e IAIA: al via l'Hackathon per il Clima 2024 in collaborazione ... (novembre)</title>
+      <link>https://www.unicef.it/media/unicef-e-iaia-al-via-l-hackathon-per-il-clima-2024/</link>
+      <description>UNICEF e IAIA: al via l'Hackathon per il Clima 2024 in collaborazione ...</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER (novembre)</title>
+      <link>https://www.diculther.it/hackcultura24-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accenture Digital Hackathon: contest per studenti ... - TiConsiglio (novembre)</title>
+      <link>https://www.ticonsiglio.com/accenture-digital-hackathon/</link>
+      <description>Accenture Digital Hackathon: contest per studenti ... - TiConsiglio</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI for Inclusion: l'hackathon di Microsoft Italia per startup e aziende (novembre)</title>
+      <link>https://www.digitech.news/learning/25/03/2024/ai-for-inclusion-lhackathon-di-microsoft-italia-per-startup-e-aziende/</link>
+      <description>AI for Inclusion: l'hackathon di Microsoft Italia per startup e aziende</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackInBo (novembre)</title>
+      <link>https://www.hackinbo.it/</link>
+      <description>HackInBo</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>CASSINI Hackathons - EU Agency for the Space Programme (novembre)</title>
+      <link>https://www.cassini.eu/hackathons/</link>
+      <description>CASSINI Hackathons - EU Agency for the Space Programme</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeCifris home (novembre)</title>
+      <link>https://www.decifris.it/</link>
+      <description>DeCifris home</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>CASSINI Hackathons | Italy | EU Space for Defence &amp; Security (novembre)</title>
+      <link>https://www.cassini.eu/hackathons/italy</link>
+      <description>CASSINI Hackathons | Italy | EU Space for Defence &amp; Security</description>
+      <pubDate>Sun, 27 Oct 2024 01:26:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana (novembre)</title>
+      <link>https://www.industriaitaliana.it/al-via-le-iscrizioni-per-il-sas-hackathon-2023/</link>
+      <description>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bolzano: Game Ground 2024, inizia la settimana ricca di tornei, panel ... (novembre)</title>
+      <link>https://lamilano.it/eventi/bolzano-game-ground-2024-inizia-la-settimana-ricca-di-tornei-panel-hackathon-e-stunt-show/</link>
+      <description>Bolzano: Game Ground 2024, inizia la settimana ricca di tornei, panel ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ... (novembre)</title>
+      <link>https://startupitalia.eu/startup/lagenda-dellinnovazione-gli-eventi-tech-da-non-perdere-tra-gennaio-e-dicembre-2024/</link>
+      <description>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Hackathons of 2024 and 2025 - Airmeet (novembre)</title>
+      <link>https://www.airmeet.com/hub/blog/major-hackathons/</link>
+      <description>Major Hackathons of 2024 and 2025 - Airmeet</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>India Hackathon 2024 | Mercuria Hackathons (novembre)</title>
+      <link>https://hackathon.mercuria.com/india-2024/</link>
+      <description>India Hackathon 2024 | Mercuria Hackathons</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>London Hackathon 2024 - Man Group (novembre)</title>
+      <link>https://www.man.com/london-hackathon-2024</link>
+      <description>London Hackathon 2024 - Man Group</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS Hackathon 2024 - From start to finish! (novembre)</title>
+      <link>https://communities.sas.com/t5/SAS-Hacker-s-Hub/SAS-Hackathon-2024-From-start-to-finish/ba-p/898159</link>
+      <description>SAS Hackathon 2024 - From start to finish!</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>NOI Hackathon SFSCON Edition - Hackathon (novembre)</title>
+      <link>https://www.hackathon.bz.it/</link>
+      <description>NOI Hackathon SFSCON Edition - Hackathon</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Hackathon SYNLAB": studenti in gara per innovare il mondo della salute (novembre)</title>
+      <link>https://www.superando.it/2024/10/04/hackathon-synlab-studenti-in-gara-per-innovare-il-mondo-della-salute/</link>
+      <description>"Hackathon SYNLAB": studenti in gara per innovare il mondo della salute</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER (novembre)</title>
+      <link>https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Re-think Taranto 2024 - Tondo (ottobre)</title>
+      <link>https://www.tondo.tech/it/eventi/re-think/taranto-2024/</link>
+      <description>Re-think Taranto 2024 - Tondo</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>IA: oltre cinquanta partecipanti e molte le applicazioni innovative ... (ottobre)</title>
+      <link>https://www.assosoftware.it/comunicati-stampa/oltre-cinquanta-partecipantihackathon-assosoftware071024/</link>
+      <description>IA: oltre cinquanta partecipanti e molte le applicazioni innovative ...</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cagliari ospita il primo hackathon italiano dedicato alle smart city (ottobre)</title>
+      <link>https://www.unicaradio.it/blog/2024/10/04/cagliari-ospita-il-primo-hackathon-italiano-dedicato-alle-smart-city/</link>
+      <description>Cagliari ospita il primo hackathon italiano dedicato alle smart city</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Il primo hackathon a Catania della comunità tecnica italiana (ottobre)</title>
+      <link>https://www.wikimedia.it/news/il-primo-hackathon-a-catania-della-comunita-tecnica-italiana/</link>
+      <description>Il primo hackathon a Catania della comunità tecnica italiana</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>OutSystems Build for the Future Hackathon 2024 - taikai.network (ottobre)</title>
+      <link>https://taikai.network/en/outsystems/hackathons/build-for-the-future-2024/overview</link>
+      <description>OutSystems Build for the Future Hackathon 2024 - taikai.network</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon (ottobre)</title>
+      <link>https://blog.fabric.microsoft.com/en-us/blog/announcing-the-microsoft-fabric-ai-learning-hackathon?ft=08-2024:date</link>
+      <description>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon "IA nei software gestionali" - confindustria.it (ottobre)</title>
+      <link>https://www.confindustria.it/home/appuntamenti/eventi-associazioni/dettaglio-evento/Hackathon-IA-AssoSoftware-5-6-ottobre-2024</link>
+      <description>Hackathon "IA nei software gestionali" - confindustria.it</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud Budget Revolution: l'Hackathon di Aruba e Codemotion (ottobre)</title>
+      <link>https://www.bitmat.it/tecnologie/cloud/cloud-budget-revolution-lhackathon-di-aruba-e-codemotion/</link>
+      <description>Cloud Budget Revolution: l'Hackathon di Aruba e Codemotion</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER (ottobre)</title>
+      <link>https://www.diculther.it/hackcultura24-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing Appwrite's Hacktoberfest 2024 Hackathon: Build, innovate ... (ottobre)</title>
+      <link>https://appwrite.io/blog/post/appwrite-hacktoberfest-hackathon-2024</link>
+      <description>Announcing Appwrite's Hacktoberfest 2024 Hackathon: Build, innovate ...</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>IA: il 15 ottobre al via l'Hackathon organizzato da AssoSoftware (ottobre)</title>
+      <link>https://askanews.it/2024/10/07/ia-il-15-ottobre-al-via-lhackathon-organizzato-da-assosoftware/</link>
+      <description>IA: il 15 ottobre al via l'Hackathon organizzato da AssoSoftware</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana (ottobre)</title>
+      <link>https://www.industriaitaliana.it/al-via-le-iscrizioni-per-il-sas-hackathon-2023/</link>
+      <description>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>TechXchange 2024 - Hackathon - IBM TechXchange Community (ottobre)</title>
+      <link>https://www.ibm.com/community/ibm-techxchange-conference-hackathon/</link>
+      <description>TechXchange 2024 - Hackathon - IBM TechXchange Community</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bolzano: Game Ground 2024, inizia la settimana ricca di tornei, panel ... (ottobre)</title>
+      <link>https://lamilano.it/eventi/bolzano-game-ground-2024-inizia-la-settimana-ricca-di-tornei-panel-hackathon-e-stunt-show/</link>
+      <description>Bolzano: Game Ground 2024, inizia la settimana ricca di tornei, panel ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ... (ottobre)</title>
+      <link>https://startupitalia.eu/startup/lagenda-dellinnovazione-gli-eventi-tech-da-non-perdere-tra-gennaio-e-dicembre-2024/</link>
+      <description>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ITALIA ECONOMY - Digital Evolution Hackathon (ottobre)</title>
+      <link>https://italiaeconomy.it/digital-evolution-hackathon/</link>
+      <description>ITALIA ECONOMY - Digital Evolution Hackathon</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Hackathons of 2024 and 2025 - Airmeet (ottobre)</title>
+      <link>https://www.airmeet.com/hub/blog/major-hackathons/</link>
+      <description>Major Hackathons of 2024 and 2025 - Airmeet</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>India Hackathon 2024 | Mercuria Hackathons (ottobre)</title>
+      <link>https://hackathon.mercuria.com/india-2024/</link>
+      <description>India Hackathon 2024 | Mercuria Hackathons</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS Hackathon 2024 - From start to finish! (ottobre)</title>
+      <link>https://communities.sas.com/t5/SAS-Hacker-s-Hub/SAS-Hackathon-2024-From-start-to-finish/ba-p/898159</link>
+      <description>SAS Hackathon 2024 - From start to finish!</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>BCG Platinion Hackathon | Climate &amp; Sustainability | October 25-26, 2024 (ottobre)</title>
+      <link>https://www.bcgplatinion.com/hackathon</link>
+      <description>BCG Platinion Hackathon | Climate &amp; Sustainability | October 25-26, 2024</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un hackathon per il sociale: riduciamo le disuguaglianze legate alla ... (ottobre)</title>
+      <link>https://www.vita.it/un-hackathon-per-il-sociale-riduciamo-le-disuguaglianze-legate-alla-disabilita/</link>
+      <description>Un hackathon per il sociale: riduciamo le disuguaglianze legate alla ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Hackathon SYNLAB": studenti in gara per innovare il mondo della salute (ottobre)</title>
+      <link>https://www.superando.it/2024/10/04/hackathon-synlab-studenti-in-gara-per-innovare-il-mondo-della-salute/</link>
+      <description>"Hackathon SYNLAB": studenti in gara per innovare il mondo della salute</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER (ottobre)</title>
+      <link>https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Code Week - Hackathons (ottobre)</title>
+      <link>https://codeweek.eu/hackathons</link>
+      <description>EU Code Week - Hackathons</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>POLI HACK DAYS 2024: 5 progetti in lizza per il finanziamento (ottobre)</title>
+      <link>https://www.polito.it/ateneo/comunicazione-e-ufficio-stampa/poliflash/poli-hack-days-2024-5-progetti-in-lizza-per-il-finanziamento</link>
+      <description>POLI HACK DAYS 2024: 5 progetti in lizza per il finanziamento</description>
+      <pubDate>Sun, 20 Oct 2024 08:50:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AssoSoftware organizza il primo Hackathon su scala nazionale dedicato ... (ottobre)</title>
+      <link>https://www.assosoftware.it/comunicati-stampa/assosoftware-organizza-il-primo-hackathon-10-settembre-2024/</link>
+      <description>AssoSoftware organizza il primo Hackathon su scala nazionale dedicato ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:50:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon 5/6 ottobre 2024 - AssoSoftware (ottobre)</title>
+      <link>https://www.assosoftware.it/hackathon-5-6-ottobre-2024/</link>
+      <description>Hackathon 5/6 ottobre 2024 - AssoSoftware</description>
+      <pubDate>Sun, 20 Oct 2024 08:50:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackZ 2024 (settembre)</title>
+      <link>https://hackz.cseaceg.org.in/</link>
+      <description>HackZ 2024</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infor Community Hackathon 2024 | Opening Ceremony (settembre)</title>
+      <link>https://developer.infor.com/2024/09/18/7199/</link>
+      <description>Infor Community Hackathon 2024 | Opening Ceremony</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cagliari ospita il primo hackathon italiano dedicato alle smart city (settembre)</title>
+      <link>https://www.unicaradio.it/blog/2024/10/04/cagliari-ospita-il-primo-hackathon-italiano-dedicato-alle-smart-city/</link>
+      <description>Cagliari ospita il primo hackathon italiano dedicato alle smart city</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>OutSystems Build for the Future Hackathon 2024 - taikai.network (settembre)</title>
+      <link>https://taikai.network/en/outsystems/hackathons/build-for-the-future-2024/overview</link>
+      <description>OutSystems Build for the Future Hackathon 2024 - taikai.network</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon (settembre)</title>
+      <link>https://blog.fabric.microsoft.com/en-us/blog/announcing-the-microsoft-fabric-ai-learning-hackathon?ft=08-2024:date</link>
+      <description>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon "IA nei software gestionali" - confindustria.it (settembre)</title>
+      <link>https://www.confindustria.it/home/appuntamenti/eventi-associazioni/dettaglio-evento/Hackathon-IA-AssoSoftware-5-6-ottobre-2024</link>
+      <description>Hackathon "IA nei software gestionali" - confindustria.it</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER (settembre)</title>
+      <link>https://www.diculther.it/hackcultura24-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeCifris home (settembre)</title>
+      <link>https://www.decifris.it/</link>
+      <description>DeCifris home</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana (settembre)</title>
+      <link>https://www.industriaitaliana.it/al-via-le-iscrizioni-per-il-sas-hackathon-2023/</link>
+      <description>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bolzano: Game Ground 2024, inizia la settimana ricca di tornei, panel ... (settembre)</title>
+      <link>https://lamilano.it/eventi/bolzano-game-ground-2024-inizia-la-settimana-ricca-di-tornei-panel-hackathon-e-stunt-show/</link>
+      <description>Bolzano: Game Ground 2024, inizia la settimana ricca di tornei, panel ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ... (settembre)</title>
+      <link>https://startupitalia.eu/startup/lagenda-dellinnovazione-gli-eventi-tech-da-non-perdere-tra-gennaio-e-dicembre-2024/</link>
+      <description>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ITALIA ECONOMY - Digital Evolution Hackathon (settembre)</title>
+      <link>https://italiaeconomy.it/digital-evolution-hackathon/</link>
+      <description>ITALIA ECONOMY - Digital Evolution Hackathon</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Hackathons of 2024 and 2025 - Airmeet (settembre)</title>
+      <link>https://www.airmeet.com/hub/blog/major-hackathons/</link>
+      <description>Major Hackathons of 2024 and 2025 - Airmeet</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS Hackathon 2024 - From start to finish! (settembre)</title>
+      <link>https://communities.sas.com/t5/SAS-Hacker-s-Hub/SAS-Hackathon-2024-From-start-to-finish/ba-p/898159</link>
+      <description>SAS Hackathon 2024 - From start to finish!</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>BCG Platinion Hackathon | Climate &amp; Sustainability | October 25-26, 2024 (settembre)</title>
+      <link>https://www.bcgplatinion.com/hackathon</link>
+      <description>BCG Platinion Hackathon | Climate &amp; Sustainability | October 25-26, 2024</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER (settembre)</title>
+      <link>https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>AssoSoftware organizza il primo Hackathon su scala nazionale dedicato ... (settembre)</title>
+      <link>https://www.assosoftware.it/comunicati-stampa/assosoftware-organizza-il-primo-hackathon-10-settembre-2024/</link>
+      <description>AssoSoftware organizza il primo Hackathon su scala nazionale dedicato ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:50:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon 5/6 ottobre 2024 - AssoSoftware (settembre)</title>
+      <link>https://www.assosoftware.it/hackathon-5-6-ottobre-2024/</link>
+      <description>Hackathon 5/6 ottobre 2024 - AssoSoftware</description>
+      <pubDate>Sun, 20 Oct 2024 08:50:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cagliari ospita il primo hackathon italiano dedicato alle smart city (agosto)</title>
+      <link>https://www.unicaradio.it/blog/2024/10/04/cagliari-ospita-il-primo-hackathon-italiano-dedicato-alle-smart-city/</link>
+      <description>Cagliari ospita il primo hackathon italiano dedicato alle smart city</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon (agosto)</title>
+      <link>https://blog.fabric.microsoft.com/en-us/blog/announcing-the-microsoft-fabric-ai-learning-hackathon?ft=08-2024:date</link>
+      <description>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon Camp 2024: scopri - Rete Rurale Nazionale (agosto)</title>
+      <link>https://www.reterurale.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/25980/</link>
+      <description>Hackathon Camp 2024: scopri - Rete Rurale Nazionale</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana (agosto)</title>
+      <link>https://www.industriaitaliana.it/al-via-le-iscrizioni-per-il-sas-hackathon-2023/</link>
+      <description>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bolzano: Game Ground 2024, inizia la settimana ricca di tornei, panel ... (agosto)</title>
+      <link>https://lamilano.it/eventi/bolzano-game-ground-2024-inizia-la-settimana-ricca-di-tornei-panel-hackathon-e-stunt-show/</link>
+      <description>Bolzano: Game Ground 2024, inizia la settimana ricca di tornei, panel ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Hackathons of 2024 and 2025 - Airmeet (agosto)</title>
+      <link>https://www.airmeet.com/hub/blog/major-hackathons/</link>
+      <description>Major Hackathons of 2024 and 2025 - Airmeet</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS Hackathon 2024 - From start to finish! (agosto)</title>
+      <link>https://communities.sas.com/t5/SAS-Hacker-s-Hub/SAS-Hackathon-2024-From-start-to-finish/ba-p/898159</link>
+      <description>SAS Hackathon 2024 - From start to finish!</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon 2024 - Supreme Court of India (agosto)</title>
+      <link>https://www.sci.gov.in/hackathon-2024/</link>
+      <description>Hackathon 2024 - Supreme Court of India</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cagliari ospita il primo hackathon italiano dedicato alle smart city (luglio)</title>
+      <link>https://www.unicaradio.it/blog/2024/10/04/cagliari-ospita-il-primo-hackathon-italiano-dedicato-alle-smart-city/</link>
+      <description>Cagliari ospita il primo hackathon italiano dedicato alle smart city</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon (luglio)</title>
+      <link>https://blog.fabric.microsoft.com/en-us/blog/announcing-the-microsoft-fabric-ai-learning-hackathon?ft=08-2024:date</link>
+      <description>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bharatiya Antariksh Hackathon 2024 - Hack2skill (luglio)</title>
+      <link>https://isro.hack2skill.com/2024/</link>
+      <description>Bharatiya Antariksh Hackathon 2024 - Hack2skill</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana (luglio)</title>
+      <link>https://www.industriaitaliana.it/al-via-le-iscrizioni-per-il-sas-hackathon-2023/</link>
+      <description>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social Hackathon Umbria 2024 (#SHU2024) - ISS (luglio)</title>
+      <link>https://www.iss.it/en/-/social-hackathon-umbria-2024-shu2024-</link>
+      <description>Social Hackathon Umbria 2024 (#SHU2024) - ISS</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social Hackathon Umbria 2024 (#SHU2024) - ISS (luglio)</title>
+      <link>https://www.iss.it/-/social-hackathon-umbria-2024-shu2024-</link>
+      <description>Social Hackathon Umbria 2024 (#SHU2024) - ISS</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cagliari ospita il primo hackathon italiano dedicato alle smart city (giugno)</title>
+      <link>https://www.unicaradio.it/blog/2024/10/04/cagliari-ospita-il-primo-hackathon-italiano-dedicato-alle-smart-city/</link>
+      <description>Cagliari ospita il primo hackathon italiano dedicato alle smart city</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon (giugno)</title>
+      <link>https://blog.fabric.microsoft.com/en-us/blog/announcing-the-microsoft-fabric-ai-learning-hackathon?ft=08-2024:date</link>
+      <description>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bharatiya Antariksh Hackathon 2024 - Hack2skill (giugno)</title>
+      <link>https://isro.hack2skill.com/2024/</link>
+      <description>Bharatiya Antariksh Hackathon 2024 - Hack2skill</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeCifris home (giugno)</title>
+      <link>https://www.decifris.it/</link>
+      <description>DeCifris home</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana (giugno)</title>
+      <link>https://www.industriaitaliana.it/al-via-le-iscrizioni-per-il-sas-hackathon-2023/</link>
+      <description>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming hackathons in 2024 - Medium (giugno)</title>
+      <link>https://medium.com/@JatinChhabra.content/upcoming-hackathons-in-2024-70d32c8d5d53</link>
+      <description>Upcoming hackathons in 2024 - Medium</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ... (giugno)</title>
+      <link>https://startupitalia.eu/startup/lagenda-dellinnovazione-gli-eventi-tech-da-non-perdere-tra-gennaio-e-dicembre-2024/</link>
+      <description>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Hackathons of 2024 and 2025 - Airmeet (giugno)</title>
+      <link>https://www.airmeet.com/hub/blog/major-hackathons/</link>
+      <description>Major Hackathons of 2024 and 2025 - Airmeet</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cagliari ospita il primo hackathon italiano dedicato alle smart city (maggio)</title>
+      <link>https://www.unicaradio.it/blog/2024/10/04/cagliari-ospita-il-primo-hackathon-italiano-dedicato-alle-smart-city/</link>
+      <description>Cagliari ospita il primo hackathon italiano dedicato alle smart city</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>NOI Hackathon Summer Edition - Hackathon (maggio)</title>
+      <link>https://hackathon.bz.it/edition/summer-2024</link>
+      <description>NOI Hackathon Summer Edition - Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Il primo hackathon a Catania della comunità tecnica italiana (maggio)</title>
+      <link>https://www.wikimedia.it/news/il-primo-hackathon-a-catania-della-comunita-tecnica-italiana/</link>
+      <description>Il primo hackathon a Catania della comunità tecnica italiana</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - Digitizing Africa 2024 (maggio)</title>
+      <link>https://africadigitrans.com/hackathon/</link>
+      <description>Hackathon - Digitizing Africa 2024</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon (maggio)</title>
+      <link>https://blog.fabric.microsoft.com/en-us/blog/announcing-the-microsoft-fabric-ai-learning-hackathon?ft=08-2024:date</link>
+      <description>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER (maggio)</title>
+      <link>https://www.diculther.it/hackcultura24-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon 2024 - Pronea (maggio)</title>
+      <link>https://pronea.sk/hackathon-2024/</link>
+      <description>Hackathon 2024 - Pronea</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackIndia 2024 - India's Biggest Web3 Hackathon (maggio)</title>
+      <link>https://hackindia.xyz/</link>
+      <description>HackIndia 2024 - India's Biggest Web3 Hackathon</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI for Inclusion: l'hackathon di Microsoft Italia per startup e aziende (maggio)</title>
+      <link>https://www.digitech.news/learning/25/03/2024/ai-for-inclusion-lhackathon-di-microsoft-italia-per-startup-e-aziende/</link>
+      <description>AI for Inclusion: l'hackathon di Microsoft Italia per startup e aziende</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeCifris home (maggio)</title>
+      <link>https://www.decifris.it/</link>
+      <description>DeCifris home</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana (maggio)</title>
+      <link>https://www.industriaitaliana.it/al-via-le-iscrizioni-per-il-sas-hackathon-2023/</link>
+      <description>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Concluso Power the Change! Hackathon 2024 - LinkedIn Italia (maggio)</title>
+      <link>https://it.linkedin.com/pulse/concluso-power-change-hackathon-2024-unibergamo-avhdf</link>
+      <description>Concluso Power the Change! Hackathon 2024 - LinkedIn Italia</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ... (maggio)</title>
+      <link>https://startupitalia.eu/startup/lagenda-dellinnovazione-gli-eventi-tech-da-non-perdere-tra-gennaio-e-dicembre-2024/</link>
+      <description>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social Hackathon Umbria 2024 (#SHU2024) - ISS (maggio)</title>
+      <link>https://www.iss.it/en/-/social-hackathon-umbria-2024-shu2024-</link>
+      <description>Social Hackathon Umbria 2024 (#SHU2024) - ISS</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Hackathons of 2024 and 2025 - Airmeet (maggio)</title>
+      <link>https://www.airmeet.com/hub/blog/major-hackathons/</link>
+      <description>Major Hackathons of 2024 and 2025 - Airmeet</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tensor Network Hackaton (20-24 May 2024): Overview · DFA Indico (maggio)</title>
+      <link>https://indico.dfa.unipd.it/event/1008/</link>
+      <description>Tensor Network Hackaton (20-24 May 2024): Overview · DFA Indico</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>India Hackathon 2024 | Mercuria Hackathons (maggio)</title>
+      <link>https://hackathon.mercuria.com/india-2024/</link>
+      <description>India Hackathon 2024 | Mercuria Hackathons</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>London Hackathon 2024 - Man Group (maggio)</title>
+      <link>https://www.man.com/london-hackathon-2024</link>
+      <description>London Hackathon 2024 - Man Group</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS Hackathon 2024 - From start to finish! (maggio)</title>
+      <link>https://communities.sas.com/t5/SAS-Hacker-s-Hub/SAS-Hackathon-2024-From-start-to-finish/ba-p/898159</link>
+      <description>SAS Hackathon 2024 - From start to finish!</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>HACKATHON - ISSA PULIRE | 9-11 MAGGIO 2023 | Milano Italia (maggio)</title>
+      <link>https://www.issapulire.com/it/eventi/hackathon.html</link>
+      <description>HACKATHON - ISSA PULIRE | 9-11 MAGGIO 2023 | Milano Italia</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP | SAP Build Hackathon 2024 (NA) (maggio)</title>
+      <link>https://events.sap.com/noam/sapbuildhackathon-na/en/home</link>
+      <description>SAP | SAP Build Hackathon 2024 (NA)</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS Hackathon | SAS (maggio)</title>
+      <link>https://www.sas.com/sas/events/hackathon.html</link>
+      <description>SAS Hackathon | SAS</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>NOI Hackathon SFSCON Edition - Hackathon (maggio)</title>
+      <link>https://www.hackathon.bz.it/</link>
+      <description>NOI Hackathon SFSCON Edition - Hackathon</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Risorse lancia Smart&amp;Hack 2024, sfida per attrarre i talenti: hackathon ... (maggio)</title>
+      <link>https://www.venetoeconomia.it/2024/04/risorse-lancia-smarthack-2024-sfida-per-attrarre-i-talenti-hackathon-con-universita-di-padova-e-sei-aziende-venete/</link>
+      <description>Risorse lancia Smart&amp;Hack 2024, sfida per attrarre i talenti: hackathon ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER (maggio)</title>
+      <link>https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>FaterAward 2024 | Partecipa all'hackathon del 21-22 Maggio (maggio)</title>
+      <link>https://fateraward.com/</link>
+      <description>FaterAward 2024 | Partecipa all'hackathon del 21-22 Maggio</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social Hackathon Umbria 2024 (#SHU2024) - ISS (maggio)</title>
+      <link>https://www.iss.it/-/social-hackathon-umbria-2024-shu2024-</link>
+      <description>Social Hackathon Umbria 2024 (#SHU2024) - ISS</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cagliari ospita il primo hackathon italiano dedicato alle smart city (aprile)</title>
+      <link>https://www.unicaradio.it/blog/2024/10/04/cagliari-ospita-il-primo-hackathon-italiano-dedicato-alle-smart-city/</link>
+      <description>Cagliari ospita il primo hackathon italiano dedicato alle smart city</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Il primo hackathon a Catania della comunità tecnica italiana (aprile)</title>
+      <link>https://www.wikimedia.it/news/il-primo-hackathon-a-catania-della-comunita-tecnica-italiana/</link>
+      <description>Il primo hackathon a Catania della comunità tecnica italiana</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - Digitizing Africa 2024 (aprile)</title>
+      <link>https://africadigitrans.com/hackathon/</link>
+      <description>Hackathon - Digitizing Africa 2024</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon (aprile)</title>
+      <link>https://blog.fabric.microsoft.com/en-us/blog/announcing-the-microsoft-fabric-ai-learning-hackathon?ft=08-2024:date</link>
+      <description>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER (aprile)</title>
+      <link>https://www.diculther.it/hackcultura24-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeCifris home (aprile)</title>
+      <link>https://www.decifris.it/</link>
+      <description>DeCifris home</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hack4SDS 2024 - seconda edizione dell'hackathon nazionale del Gruppo di ... (aprile)</title>
+      <link>https://www.unifg.it/it/servizi-e-opportunita/opportunita/bandi-studenti/hack4sds-2024-seconda-edizione-dellhackathon-nazionale-del-gruppo-di-statistica-data-science-sds-della-societa-italiana-di-statistica-sis</link>
+      <description>Hack4SDS 2024 - seconda edizione dell'hackathon nazionale del Gruppo di ...</description>
+      <pubDate>Sun, 27 Oct 2024 01:26:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana (aprile)</title>
+      <link>https://www.industriaitaliana.it/al-via-le-iscrizioni-per-il-sas-hackathon-2023/</link>
+      <description>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ... (aprile)</title>
+      <link>https://startupitalia.eu/startup/lagenda-dellinnovazione-gli-eventi-tech-da-non-perdere-tra-gennaio-e-dicembre-2024/</link>
+      <description>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Hackathons of 2024 and 2025 - Airmeet (aprile)</title>
+      <link>https://www.airmeet.com/hub/blog/major-hackathons/</link>
+      <description>Major Hackathons of 2024 and 2025 - Airmeet</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS Hackathon 2024 - From start to finish! (aprile)</title>
+      <link>https://communities.sas.com/t5/SAS-Hacker-s-Hub/SAS-Hackathon-2024-From-start-to-finish/ba-p/898159</link>
+      <description>SAS Hackathon 2024 - From start to finish!</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP | SAP Build Hackathon 2024 (NA) (aprile)</title>
+      <link>https://events.sap.com/noam/sapbuildhackathon-na/en/home</link>
+      <description>SAP | SAP Build Hackathon 2024 (NA)</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Risorse lancia Smart&amp;Hack 2024, sfida per attrarre i talenti: hackathon ... (aprile)</title>
+      <link>https://www.venetoeconomia.it/2024/04/risorse-lancia-smarthack-2024-sfida-per-attrarre-i-talenti-hackathon-con-universita-di-padova-e-sei-aziende-venete/</link>
+      <description>Risorse lancia Smart&amp;Hack 2024, sfida per attrarre i talenti: hackathon ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER (aprile)</title>
+      <link>https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manuthon - ManuThon è un evento Hackathon che ti permetterà di ... (aprile)</title>
+      <link>https://www.manuthon.it/</link>
+      <description>Manuthon - ManuThon è un evento Hackathon che ti permetterà di ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:50:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cagliari ospita il primo hackathon italiano dedicato alle smart city (marzo)</title>
+      <link>https://www.unicaradio.it/blog/2024/10/04/cagliari-ospita-il-primo-hackathon-italiano-dedicato-alle-smart-city/</link>
+      <description>Cagliari ospita il primo hackathon italiano dedicato alle smart city</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - Digitizing Africa 2024 (marzo)</title>
+      <link>https://africadigitrans.com/hackathon/</link>
+      <description>Hackathon - Digitizing Africa 2024</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon (marzo)</title>
+      <link>https://blog.fabric.microsoft.com/en-us/blog/announcing-the-microsoft-fabric-ai-learning-hackathon?ft=08-2024:date</link>
+      <description>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER (marzo)</title>
+      <link>https://www.diculther.it/hackcultura24-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>IITM HACKATHON - Indian Institute of Technology Madras (marzo)</title>
+      <link>https://code.iitm.ac.in/code-programs/HACKATHON2024/about.html</link>
+      <description>IITM HACKATHON - Indian Institute of Technology Madras</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI for Inclusion: l'hackathon di Microsoft Italia per startup e aziende (marzo)</title>
+      <link>https://www.digitech.news/learning/25/03/2024/ai-for-inclusion-lhackathon-di-microsoft-italia-per-startup-e-aziende/</link>
+      <description>AI for Inclusion: l'hackathon di Microsoft Italia per startup e aziende</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hack4SDS 2024 - seconda edizione dell'hackathon nazionale del Gruppo di ... (marzo)</title>
+      <link>https://www.unifg.it/it/servizi-e-opportunita/opportunita/bandi-studenti/hack4sds-2024-seconda-edizione-dellhackathon-nazionale-del-gruppo-di-statistica-data-science-sds-della-societa-italiana-di-statistica-sis</link>
+      <description>Hack4SDS 2024 - seconda edizione dell'hackathon nazionale del Gruppo di ...</description>
+      <pubDate>Sun, 27 Oct 2024 01:26:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana (marzo)</title>
+      <link>https://www.industriaitaliana.it/al-via-le-iscrizioni-per-il-sas-hackathon-2023/</link>
+      <description>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming hackathons in 2024 - Medium (marzo)</title>
+      <link>https://medium.com/@JatinChhabra.content/upcoming-hackathons-in-2024-70d32c8d5d53</link>
+      <description>Upcoming hackathons in 2024 - Medium</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ... (marzo)</title>
+      <link>https://startupitalia.eu/startup/lagenda-dellinnovazione-gli-eventi-tech-da-non-perdere-tra-gennaio-e-dicembre-2024/</link>
+      <description>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>START Hack | EUROPE'S MOST ENTREPRENEURIAL HACKATHON - START Global (marzo)</title>
+      <link>https://www.startglobal.org/start-hack/home/</link>
+      <description>START Hack | EUROPE'S MOST ENTREPRENEURIAL HACKATHON - START Global</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Hackathons of 2024 and 2025 - Airmeet (marzo)</title>
+      <link>https://www.airmeet.com/hub/blog/major-hackathons/</link>
+      <description>Major Hackathons of 2024 and 2025 - Airmeet</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Home | Women in Tech Hackathon 2024 (marzo)</title>
+      <link>https://withack24.hacktribe.co/</link>
+      <description>Home | Women in Tech Hackathon 2024</description>
+      <pubDate>Sun, 20 Oct 2024 08:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER (marzo)</title>
+      <link>https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>#HackCultura2024, l'Hackathon delle studentesse e degli ... - #DICULTHER</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Code Week - Hackathons (marzo)</title>
+      <link>https://codeweek.eu/hackathons</link>
+      <description>EU Code Week - Hackathons</description>
+      <pubDate>Sun, 20 Oct 2024 08:51:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hack-AI-thon 2024 - Artificial Intelligence For a Better Future (marzo)</title>
+      <link>http://events.dii.univpm.it/HackUNIVPM/</link>
+      <description>Hack-AI-thon 2024 - Artificial Intelligence For a Better Future</description>
+      <pubDate>Sun, 20 Oct 2024 08:50:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cagliari ospita il primo hackathon italiano dedicato alle smart city (febbraio)</title>
+      <link>https://www.unicaradio.it/blog/2024/10/04/cagliari-ospita-il-primo-hackathon-italiano-dedicato-alle-smart-city/</link>
+      <description>Cagliari ospita il primo hackathon italiano dedicato alle smart city</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon (febbraio)</title>
+      <link>https://blog.fabric.microsoft.com/en-us/blog/announcing-the-microsoft-fabric-ai-learning-hackathon?ft=08-2024:date</link>
+      <description>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeCifris home (febbraio)</title>
+      <link>https://www.decifris.it/</link>
+      <description>DeCifris home</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hack4SDS 2024 - seconda edizione dell'hackathon nazionale del Gruppo di ... (febbraio)</title>
+      <link>https://www.unifg.it/it/servizi-e-opportunita/opportunita/bandi-studenti/hack4sds-2024-seconda-edizione-dellhackathon-nazionale-del-gruppo-di-statistica-data-science-sds-della-societa-italiana-di-statistica-sis</link>
+      <description>Hack4SDS 2024 - seconda edizione dell'hackathon nazionale del Gruppo di ...</description>
+      <pubDate>Sun, 27 Oct 2024 01:26:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana (febbraio)</title>
+      <link>https://www.industriaitaliana.it/al-via-le-iscrizioni-per-il-sas-hackathon-2023/</link>
+      <description>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeveloperWeek 2024 Hackathon: Join the nation's largest challenge ... (febbraio)</title>
+      <link>https://developerweek-2024-hackathon.devpost.com/</link>
+      <description>DeveloperWeek 2024 Hackathon: Join the nation's largest challenge ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming hackathons in 2024 - Medium (febbraio)</title>
+      <link>https://medium.com/@JatinChhabra.content/upcoming-hackathons-in-2024-70d32c8d5d53</link>
+      <description>Upcoming hackathons in 2024 - Medium</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ... (febbraio)</title>
+      <link>https://startupitalia.eu/startup/lagenda-dellinnovazione-gli-eventi-tech-da-non-perdere-tra-gennaio-e-dicembre-2024/</link>
+      <description>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Hackathons of 2024 and 2025 - Airmeet (febbraio)</title>
+      <link>https://www.airmeet.com/hub/blog/major-hackathons/</link>
+      <description>Major Hackathons of 2024 and 2025 - Airmeet</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cagliari ospita il primo hackathon italiano dedicato alle smart city (gennaio)</title>
+      <link>https://www.unicaradio.it/blog/2024/10/04/cagliari-ospita-il-primo-hackathon-italiano-dedicato-alle-smart-city/</link>
+      <description>Cagliari ospita il primo hackathon italiano dedicato alle smart city</description>
+      <pubDate>Sun, 03 Nov 2024 01:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon (gennaio)</title>
+      <link>https://blog.fabric.microsoft.com/en-us/blog/announcing-the-microsoft-fabric-ai-learning-hackathon?ft=08-2024:date</link>
+      <description>Announcing: The Microsoft Fabric &amp; AI Learning Hackathon</description>
+      <pubDate>Sun, 03 Nov 2024 01:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>IA: il 15 ottobre al via l'Hackathon organizzato da AssoSoftware (gennaio)</title>
+      <link>https://askanews.it/2024/10/07/ia-il-15-ottobre-al-via-lhackathon-organizzato-da-assosoftware/</link>
+      <description>IA: il 15 ottobre al via l'Hackathon organizzato da AssoSoftware</description>
+      <pubDate>Sun, 27 Oct 2024 01:27:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hack4SDS 2024 - seconda edizione dell'hackathon nazionale del Gruppo di ... (gennaio)</title>
+      <link>https://www.unifg.it/it/servizi-e-opportunita/opportunita/bandi-studenti/hack4sds-2024-seconda-edizione-dellhackathon-nazionale-del-gruppo-di-statistica-data-science-sds-della-societa-italiana-di-statistica-sis</link>
+      <description>Hack4SDS 2024 - seconda edizione dell'hackathon nazionale del Gruppo di ...</description>
+      <pubDate>Sun, 27 Oct 2024 01:26:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana (gennaio)</title>
+      <link>https://www.industriaitaliana.it/al-via-le-iscrizioni-per-il-sas-hackathon-2023/</link>
+      <description>Al via le iscrizioni per il Sas Hackathon 2023 - Industria Italiana</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ... (gennaio)</title>
+      <link>https://startupitalia.eu/startup/lagenda-dellinnovazione-gli-eventi-tech-da-non-perdere-tra-gennaio-e-dicembre-2024/</link>
+      <description>L'agenda dell'innovazione: gli eventi tech da non perdere tra gennaio e ...</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Hackathons of 2024 and 2025 - Airmeet (gennaio)</title>
+      <link>https://www.airmeet.com/hub/blog/major-hackathons/</link>
+      <description>Major Hackathons of 2024 and 2025 - Airmeet</description>
+      <pubDate>Sun, 20 Oct 2024 08:54:06 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
