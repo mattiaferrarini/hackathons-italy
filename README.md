@@ -28,7 +28,7 @@ Install the requirements:
 pip install -r requirements.txt
 ```
 
-Run the parser and the RSS feed generator:
+Run the scraper and the RSS feed generator (in this order):
 ```bash
 python scraper.py
 python rss_generator.py
