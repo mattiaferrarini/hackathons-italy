@@ -492,6 +492,11 @@
       "title": "codeweek.it - Il coding è per tutti, come la scuola",
       "href": "https://www.codeweek.it/",
       "scraped_date": "2024-11-17T01:36:40.115103+00:00"
+    },
+    {
+      "title": "SAS Hackathon 2024: 145 team in gara per il premio finale",
+      "href": "https://www.bitmat.it/vertical/startup/sas-hackathon-2024-145-team-in-gara-per-il-premio-finale/",
+      "scraped_date": "2024-12-15T01:41:54.284507+00:00"
     }
   ],
   "giugno": [
@@ -1189,6 +1194,11 @@
       "title": "IXH24 - Italian XRPL Hackathon 2024 - Università Roma Tre",
       "href": "https://www.uniroma3.it/en/articoli/ixh24-italian-xrpl-hackathon-2024-464787/",
       "scraped_date": "2024-12-08T01:42:04.282467+00:00"
+    },
+    {
+      "title": "IXH24 - Italian XRPL Hackathon 2024 - Portale dello Studente",
+      "href": "https://portalestudente.uniroma3.it/en/articoli/ixh24-italian-xrpl-hackathon-2024-464787/",
+      "scraped_date": "2024-12-15T01:41:57.488996+00:00"
     }
   ],
   "dicembre": [
@@ -1276,6 +1286,11 @@
       "title": "Aindo lancia \"Synthetic Data Hackathon: Accelerate AI\" a ... - Askanews",
       "href": "https://askanews.it/2024/01/22/aindo-lancia-synthetic-data-hackathon-accelerate-ai-a-roma-e-a-trieste/",
       "scraped_date": "2024-12-08T01:42:12.274841+00:00"
+    },
+    {
+      "title": "CDP Cyber Challenge 2024/ Innovazione e cybersecurity per i talenti del ...",
+      "href": "https://www.ilsussidiario.net/news/cdp-cyber-challenge-2024-innovazione-e-cybersecurity-per-i-talenti-del-futuro/2779097/",
+      "scraped_date": "2024-12-15T01:41:33.763649+00:00"
     }
   ]
 }
