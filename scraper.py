@@ -16,13 +16,16 @@ current_year = str(datetime.now().year)
 
 def load_existing_data():
     """
-    Load existing data from the JSON file.
+    Load existing data from the JSON file, or initialize empty data if the script is run in the first seven days of the year.
 
     Returns:
         dict: A dictionary containing the existing data.
     """
 
-    if os.path.exists(json_file_path):
+    today = datetime.now()
+    if today.month == 1 and today.day <= 7:
+        return {month: [] for month in months}
+    elif os.path.exists(json_file_path):
         with open(json_file_path, 'r') as json_file:
             return json.load(json_file)
     else:
