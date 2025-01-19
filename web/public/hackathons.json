@@ -1,14 +1,311 @@
 {
-  "gennaio": [],
-  "febbraio": [],
-  "marzo": [],
-  "aprile": [],
-  "maggio": [],
-  "giugno": [],
-  "luglio": [],
-  "agosto": [],
-  "settembre": [],
-  "ottobre": [],
-  "novembre": [],
-  "dicembre": []
+  "gennaio": [
+    {
+      "title": "Hackathon - March 2025 (Online / Distributed) - nf-core",
+      "href": "https://nf-co.re/events/2025/hackathon-march-2025",
+      "scraped_date": "2025-01-19T01:24:43.240132+00:00"
+    },
+    {
+      "title": "Tech Events in Italy - Tech Community Calendar",
+      "href": "https://techcommunitycalendar.com/country/italy/",
+      "scraped_date": "2025-01-19T01:24:45.042639+00:00"
+    },
+    {
+      "title": "Dirac & Rucio mini-workshop and hackathon - CERN Indico",
+      "href": "https://indico.cern.ch/event/1443765/",
+      "scraped_date": "2025-01-19T01:24:51.308689+00:00"
+    },
+    {
+      "title": "Hackathons - MediaWiki",
+      "href": "https://www.mediawiki.org/wiki/Hackathons",
+      "scraped_date": "2025-01-19T01:25:27.427269+00:00"
+    }
+  ],
+  "febbraio": [
+    {
+      "title": "Tech Events in Italy - Tech Community Calendar",
+      "href": "https://techcommunitycalendar.com/country/italy/",
+      "scraped_date": "2025-01-19T01:24:45.042639+00:00"
+    },
+    {
+      "title": "Alpine Climate Data Challenge 2025: Only 54 Days Left Until ...",
+      "href": "https://www.linkedin.com/pulse/alpine-climate-data-challenge-2025-only-54-days-left-ast0f",
+      "scraped_date": "2025-01-19T01:24:47.860286+00:00"
+    },
+    {
+      "title": "The European Robotics Hackathon: ENRICH",
+      "href": "https://enrich.european-robotics.eu/",
+      "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    },
+    {
+      "title": "Odoo x CHARUSAT Hackathon '25",
+      "href": "https://www.odoo.com/event/odooxcharusathackathon-6910/register",
+      "scraped_date": "2025-01-19T01:25:12.467161+00:00"
+    }
+  ],
+  "marzo": [
+    {
+      "title": "Hackathon - March 2025 (Online / Distributed) - nf-core",
+      "href": "https://nf-co.re/events/2025/hackathon-march-2025",
+      "scraped_date": "2025-01-19T01:24:43.240132+00:00"
+    },
+    {
+      "title": "Tech Events in Italy - Tech Community Calendar",
+      "href": "https://techcommunitycalendar.com/country/italy/",
+      "scraped_date": "2025-01-19T01:24:45.042639+00:00"
+    },
+    {
+      "title": "Alpine Climate Data Challenge 2025: Only 54 Days Left Until ...",
+      "href": "https://www.linkedin.com/pulse/alpine-climate-data-challenge-2025-only-54-days-left-ast0f",
+      "scraped_date": "2025-01-19T01:24:47.860286+00:00"
+    },
+    {
+      "title": "The European Robotics Hackathon: ENRICH",
+      "href": "https://enrich.european-robotics.eu/",
+      "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    },
+    {
+      "title": "Snakemake Hackathon March 2025 - CERN Indico",
+      "href": "https://indico.cern.ch/e/snakemake2025",
+      "scraped_date": "2025-01-19T01:24:54.111792+00:00"
+    },
+    {
+      "title": "HackCultura2025, l'hackathon delle studentesse e degli ...",
+      "href": "https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
+      "scraped_date": "2025-01-19T01:25:02.698767+00:00"
+    },
+    {
+      "title": "Odoo x CHARUSAT Hackathon '25",
+      "href": "https://www.odoo.com/event/odooxcharusathackathon-6910/register",
+      "scraped_date": "2025-01-19T01:25:12.467161+00:00"
+    },
+    {
+      "title": "Hackathons - MediaWiki",
+      "href": "https://www.mediawiki.org/wiki/Hackathons",
+      "scraped_date": "2025-01-19T01:25:27.427269+00:00"
+    }
+  ],
+  "aprile": [
+    {
+      "title": "Tech Events in Italy - Tech Community Calendar",
+      "href": "https://techcommunitycalendar.com/country/italy/",
+      "scraped_date": "2025-01-19T01:24:45.042639+00:00"
+    },
+    {
+      "title": "The European Robotics Hackathon: ENRICH",
+      "href": "https://enrich.european-robotics.eu/",
+      "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    },
+    {
+      "title": "HackCultura2025, l'hackathon delle studentesse e degli ...",
+      "href": "https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
+      "scraped_date": "2025-01-19T01:25:02.698767+00:00"
+    }
+  ],
+  "maggio": [
+    {
+      "title": "Expression of Interest – EAA Hackathon 2025, Rome",
+      "href": "https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/",
+      "scraped_date": "2025-01-19T01:24:40.879570+00:00"
+    },
+    {
+      "title": "Hackathon - March 2025 (Online / Distributed) - nf-core",
+      "href": "https://nf-co.re/events/2025/hackathon-march-2025",
+      "scraped_date": "2025-01-19T01:24:43.240132+00:00"
+    },
+    {
+      "title": "Hackathon",
+      "href": "https://hackathon.bz.it/",
+      "scraped_date": "2025-01-19T01:24:45.776149+00:00"
+    },
+    {
+      "title": "Alpine Climate Data Challenge 2025: Only 54 Days Left Until ...",
+      "href": "https://www.linkedin.com/pulse/alpine-climate-data-challenge-2025-only-54-days-left-ast0f",
+      "scraped_date": "2025-01-19T01:24:47.860286+00:00"
+    },
+    {
+      "title": "The European Robotics Hackathon: ENRICH",
+      "href": "https://enrich.european-robotics.eu/",
+      "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    },
+    {
+      "title": "HackCultura2025, l'hackathon delle studentesse e degli ...",
+      "href": "https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
+      "scraped_date": "2025-01-19T01:25:02.698767+00:00"
+    },
+    {
+      "title": "HACKATHON - ISSA PULIRE | 9-11 MAY 2023 | Milano Italy",
+      "href": "https://www.issapulire.com/en/events/hackathon.html",
+      "scraped_date": "2025-01-19T01:25:10.975456+00:00"
+    },
+    {
+      "title": "Odoo x CHARUSAT Hackathon '25",
+      "href": "https://www.odoo.com/event/odooxcharusathackathon-6910/register",
+      "scraped_date": "2025-01-19T01:25:12.467161+00:00"
+    },
+    {
+      "title": "Events | Microsoft Reactor",
+      "href": "https://developer.microsoft.com/en-us/reactor/events/23705/",
+      "scraped_date": "2025-01-19T01:25:24.380839+00:00"
+    },
+    {
+      "title": "Hackathons - MediaWiki",
+      "href": "https://www.mediawiki.org/wiki/Hackathons",
+      "scraped_date": "2025-01-19T01:25:27.427269+00:00"
+    }
+  ],
+  "giugno": [
+    {
+      "title": "Hackathon - March 2025 (Online / Distributed) - nf-core",
+      "href": "https://nf-co.re/events/2025/hackathon-march-2025",
+      "scraped_date": "2025-01-19T01:24:43.240132+00:00"
+    },
+    {
+      "title": "The European Robotics Hackathon: ENRICH",
+      "href": "https://enrich.european-robotics.eu/",
+      "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    }
+  ],
+  "luglio": [
+    {
+      "title": "Hackathon - March 2025 (Online / Distributed) - nf-core",
+      "href": "https://nf-co.re/events/2025/hackathon-march-2025",
+      "scraped_date": "2025-01-19T01:24:43.240132+00:00"
+    },
+    {
+      "title": "#SHU2025 Social Hackathon Umbria 2025",
+      "href": "https://www.socialhackathonumbria.info/en/",
+      "scraped_date": "2025-01-19T01:24:44.404280+00:00"
+    },
+    {
+      "title": "Alpine Climate Data Challenge 2025: Only 54 Days Left Until ...",
+      "href": "https://www.linkedin.com/pulse/alpine-climate-data-challenge-2025-only-54-days-left-ast0f",
+      "scraped_date": "2025-01-19T01:24:47.860286+00:00"
+    },
+    {
+      "title": "The European Robotics Hackathon: ENRICH",
+      "href": "https://enrich.european-robotics.eu/",
+      "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    }
+  ],
+  "agosto": [
+    {
+      "title": "Reserve your spot – ITADATAHack 2025 - Hackathon Online ...",
+      "href": "https://www.tickettailor.com/events/opendataplayground/1494183",
+      "scraped_date": "2025-01-19T01:24:41.151775+00:00"
+    },
+    {
+      "title": "The European Robotics Hackathon: ENRICH",
+      "href": "https://enrich.european-robotics.eu/",
+      "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    }
+  ],
+  "settembre": [
+    {
+      "title": "Reserve your spot – ITADATAHack 2025 - Hackathon Online ...",
+      "href": "https://www.tickettailor.com/events/opendataplayground/1494183",
+      "scraped_date": "2025-01-19T01:24:41.151775+00:00"
+    },
+    {
+      "title": "Hackathon - March 2025 (Online / Distributed) - nf-core",
+      "href": "https://nf-co.re/events/2025/hackathon-march-2025",
+      "scraped_date": "2025-01-19T01:24:43.240132+00:00"
+    },
+    {
+      "title": "The European Robotics Hackathon: ENRICH",
+      "href": "https://enrich.european-robotics.eu/",
+      "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    },
+    {
+      "title": "HackCultura2025, l'hackathon delle studentesse e degli ...",
+      "href": "https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
+      "scraped_date": "2025-01-19T01:25:02.698767+00:00"
+    },
+    {
+      "title": "ITADATA 2025",
+      "href": "https://www.itadata.it/",
+      "scraped_date": "2025-01-19T01:25:15.657952+00:00"
+    }
+  ],
+  "ottobre": [
+    {
+      "title": "Hackathon - March 2025 (Online / Distributed) - nf-core",
+      "href": "https://nf-co.re/events/2025/hackathon-march-2025",
+      "scraped_date": "2025-01-19T01:24:43.240132+00:00"
+    },
+    {
+      "title": "Hackathon",
+      "href": "https://hackathon.bz.it/",
+      "scraped_date": "2025-01-19T01:24:45.776149+00:00"
+    },
+    {
+      "title": "The European Robotics Hackathon: ENRICH",
+      "href": "https://enrich.european-robotics.eu/",
+      "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    },
+    {
+      "title": "HackCultura2025, l'hackathon delle studentesse e degli ...",
+      "href": "https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
+      "scraped_date": "2025-01-19T01:25:02.698767+00:00"
+    }
+  ],
+  "novembre": [
+    {
+      "title": "Hackathon - March 2025 (Online / Distributed) - nf-core",
+      "href": "https://nf-co.re/events/2025/hackathon-march-2025",
+      "scraped_date": "2025-01-19T01:24:43.240132+00:00"
+    },
+    {
+      "title": "Hackathon",
+      "href": "https://hackathon.bz.it/",
+      "scraped_date": "2025-01-19T01:24:45.776149+00:00"
+    },
+    {
+      "title": "The European Robotics Hackathon: ENRICH",
+      "href": "https://enrich.european-robotics.eu/",
+      "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    },
+    {
+      "title": "HackCultura2025, l'hackathon delle studentesse e degli ...",
+      "href": "https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
+      "scraped_date": "2025-01-19T01:25:02.698767+00:00"
+    }
+  ],
+  "dicembre": [
+    {
+      "title": "Expression of Interest – EAA Hackathon 2025, Rome",
+      "href": "https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/",
+      "scraped_date": "2025-01-19T01:24:40.879570+00:00"
+    },
+    {
+      "title": "Hackathon - March 2025 (Online / Distributed) - nf-core",
+      "href": "https://nf-co.re/events/2025/hackathon-march-2025",
+      "scraped_date": "2025-01-19T01:24:43.240132+00:00"
+    },
+    {
+      "title": "Tech Events in Italy - Tech Community Calendar",
+      "href": "https://techcommunitycalendar.com/country/italy/",
+      "scraped_date": "2025-01-19T01:24:45.042639+00:00"
+    },
+    {
+      "title": "Alpine Climate Data Challenge 2025: Only 54 Days Left Until ...",
+      "href": "https://www.linkedin.com/pulse/alpine-climate-data-challenge-2025-only-54-days-left-ast0f",
+      "scraped_date": "2025-01-19T01:24:47.860286+00:00"
+    },
+    {
+      "title": "The European Robotics Hackathon: ENRICH",
+      "href": "https://enrich.european-robotics.eu/",
+      "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    },
+    {
+      "title": "HackCultura2025, l'hackathon delle studentesse e degli ...",
+      "href": "https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
+      "scraped_date": "2025-01-19T01:25:02.698767+00:00"
+    },
+    {
+      "title": "Odoo x CHARUSAT Hackathon '25",
+      "href": "https://www.odoo.com/event/odooxcharusathackathon-6910/register",
+      "scraped_date": "2025-01-19T01:25:12.467161+00:00"
+    }
+  ]
 }
