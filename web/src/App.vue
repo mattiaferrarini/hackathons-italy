@@ -1,8 +1,8 @@
 <template>
     <div class="flex flex-col items-center justify-center">
-        <header class="w-full max-w-[1200px] mt-8 mb-8">
+        <header class="w-full max-w-[1000px] mt-8 mb-8">
             <h1 class="text-4xl font-bold mb-8">HACKATHONS IN ITALIA {{ currentYear }}</h1>
-            <p class="text-gray-700">
+            <p class="text-gray-700 text-justify">
                 <strong>DISCLAIMER(S):</strong> Questo sito è un semplice <span class="text-emerald-600">aggregatore
                     automatico</span> di hackathon elencati online.
                 Il progetto nasce dal desiderio di facilitare la scoperta di eventi e non è in alcun modo affiliato
@@ -15,7 +15,7 @@
                 (3) alcuni eventi potrebbero essere elencati in mesi sbagliati o in molteplici mesi.
             </p>
         </header>
-        <div class="flex gap-8 max-w-[1200px] justify-center w-full">
+        <div class="flex gap-8 max-w-[1000px] justify-center w-full">
             <div class="hidden md:block sticky top-0 self-start h-full pt-2 flex-1 max-w-[200px]">
                 <NavList ref="navListRef" @scrollToMonth="scrollToMonth" />
             </div>
