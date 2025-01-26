@@ -19,6 +19,11 @@
       "title": "Hackathons - MediaWiki",
       "href": "https://www.mediawiki.org/wiki/Hackathons",
       "scraped_date": "2025-01-19T01:25:27.427269+00:00"
+    },
+    {
+      "title": "Tech Community Events in Italy",
+      "href": "https://techcommunitycalendar.com/country/italy/",
+      "scraped_date": "2025-01-26T01:21:42.275998+00:00"
     }
   ],
   "febbraio": [
@@ -41,6 +46,11 @@
       "title": "Odoo x CHARUSAT Hackathon '25",
       "href": "https://www.odoo.com/event/odooxcharusathackathon-6910/register",
       "scraped_date": "2025-01-19T01:25:12.467161+00:00"
+    },
+    {
+      "title": "Tech Community Events in Italy",
+      "href": "https://techcommunitycalendar.com/country/italy/",
+      "scraped_date": "2025-01-26T01:21:42.275998+00:00"
     }
   ],
   "marzo": [
@@ -83,6 +93,11 @@
       "title": "Hackathons - MediaWiki",
       "href": "https://www.mediawiki.org/wiki/Hackathons",
       "scraped_date": "2025-01-19T01:25:27.427269+00:00"
+    },
+    {
+      "title": "Tech Community Events in Italy",
+      "href": "https://techcommunitycalendar.com/country/italy/",
+      "scraped_date": "2025-01-26T01:21:42.275998+00:00"
     }
   ],
   "aprile": [
@@ -100,6 +115,11 @@
       "title": "HackCultura2025, l'hackathon delle studentesse e degli ...",
       "href": "https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
       "scraped_date": "2025-01-19T01:25:02.698767+00:00"
+    },
+    {
+      "title": "Tech Community Events in Italy",
+      "href": "https://techcommunitycalendar.com/country/italy/",
+      "scraped_date": "2025-01-26T01:21:42.275998+00:00"
     }
   ],
   "maggio": [
@@ -152,6 +172,11 @@
       "title": "Hackathons - MediaWiki",
       "href": "https://www.mediawiki.org/wiki/Hackathons",
       "scraped_date": "2025-01-19T01:25:27.427269+00:00"
+    },
+    {
+      "title": "WCRP global km-scale hackathon || 12 - 17 May 2025 - Indico",
+      "href": "https://events.mpimet.mpg.de/e/wcrp-global-hacking",
+      "scraped_date": "2025-01-26T01:21:53.196977+00:00"
     }
   ],
   "giugno": [
@@ -164,6 +189,11 @@
       "title": "The European Robotics Hackathon: ENRICH",
       "href": "https://enrich.european-robotics.eu/",
       "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    },
+    {
+      "title": "Connectathon: Home",
+      "href": "https://connectathon.ihe-europe.net/",
+      "scraped_date": "2025-01-26T01:22:09.181997+00:00"
     }
   ],
   "luglio": [
@@ -247,6 +277,11 @@
       "title": "HackCultura2025, l'hackathon delle studentesse e degli ...",
       "href": "https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
       "scraped_date": "2025-01-19T01:25:02.698767+00:00"
+    },
+    {
+      "title": "What the hack? - ITCILO",
+      "href": "https://www.itcilo.org/stories/what-hack",
+      "scraped_date": "2025-01-26T01:22:15.807819+00:00"
     }
   ],
   "novembre": [
@@ -269,6 +304,11 @@
       "title": "HackCultura2025, l'hackathon delle studentesse e degli ...",
       "href": "https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
       "scraped_date": "2025-01-19T01:25:02.698767+00:00"
+    },
+    {
+      "title": "What the hack? - ITCILO",
+      "href": "https://www.itcilo.org/stories/what-hack",
+      "scraped_date": "2025-01-26T01:22:15.807819+00:00"
     }
   ],
   "dicembre": [
@@ -306,6 +346,16 @@
       "title": "Odoo x CHARUSAT Hackathon '25",
       "href": "https://www.odoo.com/event/odooxcharusathackathon-6910/register",
       "scraped_date": "2025-01-19T01:25:12.467161+00:00"
+    },
+    {
+      "title": "Tech Community Events in Italy",
+      "href": "https://techcommunitycalendar.com/country/italy/",
+      "scraped_date": "2025-01-26T01:21:42.275998+00:00"
+    },
+    {
+      "title": "What the hack? - ITCILO",
+      "href": "https://www.itcilo.org/stories/what-hack",
+      "scraped_date": "2025-01-26T01:22:15.807819+00:00"
     }
   ]
 }
