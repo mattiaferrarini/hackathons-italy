@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 26 Jan 2025 01:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 01:23:59 +0000</lastBuildDate>
     <item>
       <title>What the hack? - ITCILO (dicembre)</title>
       <link>https://www.itcilo.org/stories/what-hack</link>
@@ -124,6 +124,12 @@
       <pubDate>Sun, 19 Jan 2025 01:24:43 +0000</pubDate>
     </item>
     <item>
+      <title>Best Upcoming Python and Hackathon Conferences in 2025 (settembre)</title>
+      <link>https://www.eventyco.com/events/conferences/tech~python~hackathon</link>
+      <description>Best Upcoming Python and Hackathon Conferences in 2025</description>
+      <pubDate>Sun, 02 Feb 2025 01:23:25 +0000</pubDate>
+    </item>
+    <item>
       <title>ITADATA 2025 (settembre)</title>
       <link>https://www.itadata.it/</link>
       <description>ITADATA 2025</description>
@@ -206,6 +212,18 @@
       <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
       <description>Hackathon - March 2025 (Online / Distributed) - nf-core</description>
       <pubDate>Sun, 19 Jan 2025 01:24:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best Upcoming Python and Hackathon Conferences in 2025 (maggio)</title>
+      <link>https://www.eventyco.com/events/conferences/tech~python~hackathon</link>
+      <description>Best Upcoming Python and Hackathon Conferences in 2025</description>
+      <pubDate>Sun, 02 Feb 2025 01:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tech Events in Italy - Tech Community Calendar (maggio)</title>
+      <link>https://techcommunitycalendar.com/country/italy/</link>
+      <description>Tech Events in Italy - Tech Community Calendar</description>
+      <pubDate>Sun, 02 Feb 2025 01:23:18 +0000</pubDate>
     </item>
     <item>
       <title>WCRP global km-scale hackathon || 12 - 17 May 2025 - Indico (maggio)</title>
@@ -350,6 +368,12 @@
       <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
       <description>Hackathon - March 2025 (Online / Distributed) - nf-core</description>
       <pubDate>Sun, 19 Jan 2025 01:24:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best Upcoming Python and Hackathon Conferences in 2025 (febbraio)</title>
+      <link>https://www.eventyco.com/events/conferences/tech~python~hackathon</link>
+      <description>Best Upcoming Python and Hackathon Conferences in 2025</description>
+      <pubDate>Sun, 02 Feb 2025 01:23:25 +0000</pubDate>
     </item>
     <item>
       <title>Tech Community Events in Italy (febbraio)</title>
