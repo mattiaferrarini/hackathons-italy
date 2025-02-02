@@ -51,6 +51,11 @@
       "title": "Tech Community Events in Italy",
       "href": "https://techcommunitycalendar.com/country/italy/",
       "scraped_date": "2025-01-26T01:21:42.275998+00:00"
+    },
+    {
+      "title": "Best Upcoming Python and Hackathon Conferences in 2025",
+      "href": "https://www.eventyco.com/events/conferences/tech~python~hackathon",
+      "scraped_date": "2025-02-02T01:23:25.168604+00:00"
     }
   ],
   "marzo": [
@@ -177,6 +182,16 @@
       "title": "WCRP global km-scale hackathon || 12 - 17 May 2025 - Indico",
       "href": "https://events.mpimet.mpg.de/e/wcrp-global-hacking",
       "scraped_date": "2025-01-26T01:21:53.196977+00:00"
+    },
+    {
+      "title": "Tech Events in Italy - Tech Community Calendar",
+      "href": "https://techcommunitycalendar.com/country/italy/",
+      "scraped_date": "2025-02-02T01:23:18.903667+00:00"
+    },
+    {
+      "title": "Best Upcoming Python and Hackathon Conferences in 2025",
+      "href": "https://www.eventyco.com/events/conferences/tech~python~hackathon",
+      "scraped_date": "2025-02-02T01:23:25.168604+00:00"
     }
   ],
   "giugno": [
@@ -255,6 +270,11 @@
       "title": "ITADATA 2025",
       "href": "https://www.itadata.it/",
       "scraped_date": "2025-01-19T01:25:15.657952+00:00"
+    },
+    {
+      "title": "Best Upcoming Python and Hackathon Conferences in 2025",
+      "href": "https://www.eventyco.com/events/conferences/tech~python~hackathon",
+      "scraped_date": "2025-02-02T01:23:25.168604+00:00"
     }
   ],
   "ottobre": [
