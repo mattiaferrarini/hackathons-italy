@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 02 Feb 2025 01:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 01:27:45 +0000</lastBuildDate>
     <item>
       <title>What the hack? - ITCILO (dicembre)</title>
       <link>https://www.itcilo.org/stories/what-hack</link>
@@ -94,6 +94,12 @@
       <pubDate>Sun, 19 Jan 2025 01:24:43 +0000</pubDate>
     </item>
     <item>
+      <title>NEED NEXT HACKATHON - Master Italy (ottobre)</title>
+      <link>https://www.masteritaly.com/need-next-hackathon-innoviamo-e-costruiamo-le-finestre-del-futuro/</link>
+      <description>NEED NEXT HACKATHON - Master Italy</description>
+      <pubDate>Sun, 16 Feb 2025 01:27:37 +0000</pubDate>
+    </item>
+    <item>
       <title>What the hack? - ITCILO (ottobre)</title>
       <link>https://www.itcilo.org/stories/what-hack</link>
       <description>What the hack? - ITCILO</description>
@@ -172,6 +178,18 @@
       <pubDate>Sun, 19 Jan 2025 01:24:41 +0000</pubDate>
     </item>
     <item>
+      <title>#SHU2025 Social Hackathon Umbria 2025 (luglio)</title>
+      <link>https://www.socialhackathonumbria.info/</link>
+      <description>#SHU2025 Social Hackathon Umbria 2025</description>
+      <pubDate>Sun, 16 Feb 2025 01:27:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Events | Python.org (luglio)</title>
+      <link>https://www.python.org/events/</link>
+      <description>Our Events | Python.org</description>
+      <pubDate>Sun, 16 Feb 2025 01:27:33 +0000</pubDate>
+    </item>
+    <item>
       <title>The European Robotics Hackathon: ENRICH (luglio)</title>
       <link>https://enrich.european-robotics.eu/</link>
       <description>The European Robotics Hackathon: ENRICH</description>
@@ -196,6 +214,12 @@
       <pubDate>Sun, 19 Jan 2025 01:24:43 +0000</pubDate>
     </item>
     <item>
+      <title>Our Events | Python.org (giugno)</title>
+      <link>https://www.python.org/events/</link>
+      <description>Our Events | Python.org</description>
+      <pubDate>Sun, 16 Feb 2025 01:27:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Connectathon: Home (giugno)</title>
       <link>https://connectathon.ihe-europe.net/</link>
       <description>Connectathon: Home</description>
@@ -212,6 +236,18 @@
       <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
       <description>Hackathon - March 2025 (Online / Distributed) - nf-core</description>
       <pubDate>Sun, 19 Jan 2025 01:24:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wikimedia Hackathon 2025/Satellite Events/Palermo (maggio)</title>
+      <link>https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2025/Satellite_Events/Palermo</link>
+      <description>Wikimedia Hackathon 2025/Satellite Events/Palermo</description>
+      <pubDate>Sun, 16 Feb 2025 01:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Events | Python.org (maggio)</title>
+      <link>https://www.python.org/events/</link>
+      <description>Our Events | Python.org</description>
+      <pubDate>Sun, 16 Feb 2025 01:27:33 +0000</pubDate>
     </item>
     <item>
       <title>Best Upcoming Python and Hackathon Conferences in 2025 (maggio)</title>
@@ -292,6 +328,18 @@
       <pubDate>Sun, 19 Jan 2025 01:24:40 +0000</pubDate>
     </item>
     <item>
+      <title>Wikimedia Hackathon 2025/Satellite Events/Palermo (aprile)</title>
+      <link>https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2025/Satellite_Events/Palermo</link>
+      <description>Wikimedia Hackathon 2025/Satellite Events/Palermo</description>
+      <pubDate>Sun, 16 Feb 2025 01:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Events | Python.org (aprile)</title>
+      <link>https://www.python.org/events/</link>
+      <description>Our Events | Python.org</description>
+      <pubDate>Sun, 16 Feb 2025 01:27:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Tech Community Events in Italy (aprile)</title>
       <link>https://techcommunitycalendar.com/country/italy/</link>
       <description>Tech Community Events in Italy</description>
@@ -314,6 +362,18 @@
       <link>https://techcommunitycalendar.com/country/italy/</link>
       <description>Tech Events in Italy - Tech Community Calendar</description>
       <pubDate>Sun, 19 Jan 2025 01:24:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wikimedia Hackathon 2025/Satellite Events/Palermo (marzo)</title>
+      <link>https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2025/Satellite_Events/Palermo</link>
+      <description>Wikimedia Hackathon 2025/Satellite Events/Palermo</description>
+      <pubDate>Sun, 16 Feb 2025 01:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Events | Python.org (marzo)</title>
+      <link>https://www.python.org/events/</link>
+      <description>Our Events | Python.org</description>
+      <pubDate>Sun, 16 Feb 2025 01:27:33 +0000</pubDate>
     </item>
     <item>
       <title>Tech Community Events in Italy (marzo)</title>
@@ -370,6 +430,18 @@
       <pubDate>Sun, 19 Jan 2025 01:24:43 +0000</pubDate>
     </item>
     <item>
+      <title>Wikimedia Hackathon 2025/Satellite Events/Palermo (febbraio)</title>
+      <link>https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2025/Satellite_Events/Palermo</link>
+      <description>Wikimedia Hackathon 2025/Satellite Events/Palermo</description>
+      <pubDate>Sun, 16 Feb 2025 01:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - March 2025 (Online / Distributed) - nf-core (febbraio)</title>
+      <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
+      <description>Hackathon - March 2025 (Online / Distributed) - nf-core</description>
+      <pubDate>Sun, 16 Feb 2025 01:26:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Best Upcoming Python and Hackathon Conferences in 2025 (febbraio)</title>
       <link>https://www.eventyco.com/events/conferences/tech~python~hackathon</link>
       <description>Best Upcoming Python and Hackathon Conferences in 2025</description>
@@ -404,6 +476,12 @@
       <link>https://techcommunitycalendar.com/country/italy/</link>
       <description>Tech Events in Italy - Tech Community Calendar</description>
       <pubDate>Sun, 19 Jan 2025 01:24:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wikimedia Hackathon 2025/Satellite Events/Palermo (gennaio)</title>
+      <link>https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2025/Satellite_Events/Palermo</link>
+      <description>Wikimedia Hackathon 2025/Satellite Events/Palermo</description>
+      <pubDate>Sun, 16 Feb 2025 01:27:39 +0000</pubDate>
     </item>
     <item>
       <title>Tech Community Events in Italy (gennaio)</title>
