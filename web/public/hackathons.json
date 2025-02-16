@@ -24,6 +24,11 @@
       "title": "Tech Community Events in Italy",
       "href": "https://techcommunitycalendar.com/country/italy/",
       "scraped_date": "2025-01-26T01:21:42.275998+00:00"
+    },
+    {
+      "title": "Wikimedia Hackathon 2025/Satellite Events/Palermo",
+      "href": "https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2025/Satellite_Events/Palermo",
+      "scraped_date": "2025-02-16T01:27:39.816894+00:00"
     }
   ],
   "febbraio": [
@@ -56,6 +61,16 @@
       "title": "Best Upcoming Python and Hackathon Conferences in 2025",
       "href": "https://www.eventyco.com/events/conferences/tech~python~hackathon",
       "scraped_date": "2025-02-02T01:23:25.168604+00:00"
+    },
+    {
+      "title": "Hackathon - March 2025 (Online / Distributed) - nf-core",
+      "href": "https://nf-co.re/events/2025/hackathon-march-2025",
+      "scraped_date": "2025-02-16T01:26:59.821749+00:00"
+    },
+    {
+      "title": "Wikimedia Hackathon 2025/Satellite Events/Palermo",
+      "href": "https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2025/Satellite_Events/Palermo",
+      "scraped_date": "2025-02-16T01:27:39.816894+00:00"
     }
   ],
   "marzo": [
@@ -103,6 +118,16 @@
       "title": "Tech Community Events in Italy",
       "href": "https://techcommunitycalendar.com/country/italy/",
       "scraped_date": "2025-01-26T01:21:42.275998+00:00"
+    },
+    {
+      "title": "Our Events | Python.org",
+      "href": "https://www.python.org/events/",
+      "scraped_date": "2025-02-16T01:27:33.843732+00:00"
+    },
+    {
+      "title": "Wikimedia Hackathon 2025/Satellite Events/Palermo",
+      "href": "https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2025/Satellite_Events/Palermo",
+      "scraped_date": "2025-02-16T01:27:39.816894+00:00"
     }
   ],
   "aprile": [
@@ -125,6 +150,16 @@
       "title": "Tech Community Events in Italy",
       "href": "https://techcommunitycalendar.com/country/italy/",
       "scraped_date": "2025-01-26T01:21:42.275998+00:00"
+    },
+    {
+      "title": "Our Events | Python.org",
+      "href": "https://www.python.org/events/",
+      "scraped_date": "2025-02-16T01:27:33.843732+00:00"
+    },
+    {
+      "title": "Wikimedia Hackathon 2025/Satellite Events/Palermo",
+      "href": "https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2025/Satellite_Events/Palermo",
+      "scraped_date": "2025-02-16T01:27:39.816894+00:00"
     }
   ],
   "maggio": [
@@ -192,6 +227,16 @@
       "title": "Best Upcoming Python and Hackathon Conferences in 2025",
       "href": "https://www.eventyco.com/events/conferences/tech~python~hackathon",
       "scraped_date": "2025-02-02T01:23:25.168604+00:00"
+    },
+    {
+      "title": "Our Events | Python.org",
+      "href": "https://www.python.org/events/",
+      "scraped_date": "2025-02-16T01:27:33.843732+00:00"
+    },
+    {
+      "title": "Wikimedia Hackathon 2025/Satellite Events/Palermo",
+      "href": "https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2025/Satellite_Events/Palermo",
+      "scraped_date": "2025-02-16T01:27:39.816894+00:00"
     }
   ],
   "giugno": [
@@ -209,6 +254,11 @@
       "title": "Connectathon: Home",
       "href": "https://connectathon.ihe-europe.net/",
       "scraped_date": "2025-01-26T01:22:09.181997+00:00"
+    },
+    {
+      "title": "Our Events | Python.org",
+      "href": "https://www.python.org/events/",
+      "scraped_date": "2025-02-16T01:27:33.843732+00:00"
     }
   ],
   "luglio": [
@@ -231,6 +281,16 @@
       "title": "The European Robotics Hackathon: ENRICH",
       "href": "https://enrich.european-robotics.eu/",
       "scraped_date": "2025-01-19T01:24:52.499304+00:00"
+    },
+    {
+      "title": "Our Events | Python.org",
+      "href": "https://www.python.org/events/",
+      "scraped_date": "2025-02-16T01:27:33.843732+00:00"
+    },
+    {
+      "title": "#SHU2025 Social Hackathon Umbria 2025",
+      "href": "https://www.socialhackathonumbria.info/",
+      "scraped_date": "2025-02-16T01:27:44.762431+00:00"
     }
   ],
   "agosto": [
@@ -302,6 +362,11 @@
       "title": "What the hack? - ITCILO",
       "href": "https://www.itcilo.org/stories/what-hack",
       "scraped_date": "2025-01-26T01:22:15.807819+00:00"
+    },
+    {
+      "title": "NEED NEXT HACKATHON - Master Italy",
+      "href": "https://www.masteritaly.com/need-next-hackathon-innoviamo-e-costruiamo-le-finestre-del-futuro/",
+      "scraped_date": "2025-02-16T01:27:37.450064+00:00"
     }
   ],
   "novembre": [
