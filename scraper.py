@@ -1,17 +1,20 @@
 import os
 import json
 import re
-from duckduckgo_search import DDGS
+from googleapiclient.discovery import build
+from dotenv import load_dotenv
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 import sys
 
 json_file_path = 'web/public/hackathons.json'   # Path to the JSON file where the results are stored
-max_results = 50    # Maximum number of search results to fetch
+max_results = 100    # Maximum number of search results to fetch
 
 months = ['gennaio', 'febbraio', 'marzo', 'aprile', 'maggio', 'giugno', 'luglio', 'agosto', 'settembre', 'ottobre', 'novembre', 'dicembre']
+it_months_short = ['gen', 'feb', 'mar', 'apr', 'mag', 'giu', 'lug', 'ago', 'set', 'ott', 'nov', 'dic']
 eng_months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december']
+eng_months_short = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
 current_year = str(datetime.now().year)
 
 
@@ -35,13 +38,46 @@ def load_existing_data():
 
 def fetch_search_results(max_results=max_results):
     """
-    Fetch search results from DuckDuckGo.
-
+    Fetch search results from Google Custom Search API.
+    
+    Args:
+        max_results (int): Maximum number of search results to fetch.
+        
     Returns:
         list: A list of search results.
     """
-
-    return DDGS().text(f"hackathon italia {current_year}", region='it-it', safesearch='off', max_results=max_results)
+    
+    # Get API credentials from environment variables
+    api_key = os.environ.get('GOOGLE_API_KEY')
+    cse_id = os.environ.get('GOOGLE_CSE_ID')
+    
+    if not api_key or not cse_id:
+        raise ValueError("Missing required environment variables: GOOGLE_API_KEY and GOOGLE_CSE_ID")
+    
+    # Build the service
+    service = build("customsearch", "v1", developerKey=api_key, cache_discovery=False)
+    
+    results = []
+    # Google API returns max 10 results per request, we may need multiple requests
+    for i in range(0, min(max_results, 100), 10):
+        search_results = service.cse().list(
+            q=f"Hackathons Italia {current_year}",
+            cx=cse_id,
+            num=min(10, max_results - i),
+            start=i + 1
+        ).execute()
+        
+        if 'items' in search_results:
+            for item in search_results['items']:
+                results.append({
+                    'title': item['title'],
+                    'href': item['link']
+                })
+                
+        if len(results) >= max_results or 'items' not in search_results:
+            break
+    
+    return results
 
 
 def get_months_and_year(text):
@@ -60,10 +96,22 @@ def get_months_and_year(text):
     in_current_year = False
 
     for word in words:
+        # Check Italian full month names
         if word in months and word not in mentioned_months:
             mentioned_months.append(word)
+        
+        # Check English full month names
         if word in eng_months and months[eng_months.index(word)] not in mentioned_months:
             mentioned_months.append(months[eng_months.index(word)])
+        
+        # Check Italian month abbreviations
+        if word in it_months_short and months[it_months_short.index(word)] not in mentioned_months:
+            mentioned_months.append(months[it_months_short.index(word)])
+        
+        # Check English month abbreviations
+        if word in eng_months_short and months[eng_months_short.index(word)] not in mentioned_months:
+            mentioned_months.append(months[eng_months_short.index(word)])
+            
         if word == current_year:
             in_current_year = True
             
@@ -126,6 +174,45 @@ def add_entry(month_data, result, mentioned_months):
     return is_new
 
 
+def check_hackathon_mention(text):
+    """
+    Check if the given text mentions the word 'hackathon'.
+    Args:
+        text (str): The input text to be analyzed.
+    Returns:
+        bool: True if the text mentions the word 'hackathon', False otherwise.
+    """
+    return 'hackathon' in text
+
+
+def parse_html(content):
+    """
+    Parses the given HTML content, removes footer elements, and extracts the text.
+    Args:
+        content (str): The HTML content to be parsed.
+    Returns:
+        str: The extracted text from the HTML content, converted to lowercase.
+    """
+
+    # Parse the HTML content
+    soup = BeautifulSoup(content, 'html.parser')
+            
+    # Remove footer elements
+    for footer in soup.find_all('footer'):
+        footer.decompose()
+                
+    # Remove elements with footer in class or id
+    for element in soup.find_all(class_=lambda x: x and 'footer' in x.lower()):
+        element.decompose()
+    for element in soup.find_all(id=lambda x: x and 'footer' in x.lower()):
+        element.decompose()
+
+    # Extract the text from the parsed HTML and convert it to lowercase
+    text = soup.get_text().lower()
+
+    return text
+
+
 def process_results(results, month_data):
     """
     Process the search results and update the month data.
@@ -147,19 +234,19 @@ def process_results(results, month_data):
             # Print progress
             print(f"Processing {index + 1}/{len(results)} search result: {result['href']}")
 
-            # Parse the HTML content
-            content = requests.get(result['href']).text
-            soup = BeautifulSoup(content, 'html.parser')
-
-            # Extract the text from the parsed HTML and convert it to lowercase
-            text = soup.get_text().lower()
+            # Get and parse the HTML content
+            content = requests.get(result['href'], timeout=20).text
+            text = parse_html(content)
             
+            # Check if the text mentions the word 'hackathon'
+            mentions_hackathon = check_hackathon_mention(text)
+
             # Check if the text mentions any month and if it mentions the current year
             mentioned_months, in_current_year = get_months_and_year(text)
 
             # If the current year is mentioned, proceed with further processing
             is_new = False
-            if in_current_year:
+            if in_current_year and mentions_hackathon:
 
                 # Check if the text mentions any city
                 mentioned_locations = get_mentioned_locations(text, locations)
@@ -193,13 +280,18 @@ def save_data(month_data):
 
 if __name__ == '__main__':
     
+    # Load environment variables from .env file
+    load_dotenv()
+
+    # Load existing data from the JSON file
     month_data = load_existing_data()
 
     if len(sys.argv) > 1:
         results = fetch_search_results(int(sys.argv[1]))
     else:
         results = fetch_search_results()
-    
+
+    # Process the search results and save them
     month_data, not_processed, new_count = process_results(results, month_data)
     save_data(month_data)
 
