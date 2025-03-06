@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Feed degli hackathon in Italia</title>
+    <link>http://mattiaferrarini.com/hackathons-italy/rss.xml</link>
+    <description>Ultimi hackathon trovati</description>
+    <atom:link href="http://mattiaferrarini.com/hackathons-italy/rss.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>it</language>
+    <lastBuildDate>Thu, 06 Mar 2025 13:23:09 +0000</lastBuildDate>
+    <item>
+      <title>Upcoming Developer Events &amp; Conferences - Google for Developers (dicembre)</title>
+      <link>https://developers.google.com/events</link>
+      <description>Upcoming Developer Events &amp; Conferences - Google for Developers</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackCultura2025, l'hackathon delle studentesse e degli studenti per ... (dicembre)</title>
+      <link>https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>HackCultura2025, l'hackathon delle studentesse e degli studenti per ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The European Robotics Hackathon: ENRICH (dicembre)</title>
+      <link>https://enrich.european-robotics.eu/</link>
+      <description>The European Robotics Hackathon: ENRICH</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ECIU University Forum 2025 (dicembre)</title>
+      <link>https://www.eciu.eu/events/eciu-university-forum-2025</link>
+      <description>ECIU University Forum 2025</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - March 2025 (Online / Distributed) (dicembre)</title>
+      <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
+      <description>Hackathon - March 2025 (Online / Distributed)</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expression of Interest – EAA Hackathon 2025, Rome - EAA ... (dicembre)</title>
+      <link>https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/</link>
+      <description>Expression of Interest – EAA Hackathon 2025, Rome - EAA ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:20:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Developer Events &amp; Conferences - Google for Developers (novembre)</title>
+      <link>https://developers.google.com/events</link>
+      <description>Upcoming Developer Events &amp; Conferences - Google for Developers</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackCultura2025, l'hackathon delle studentesse e degli studenti per ... (novembre)</title>
+      <link>https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>HackCultura2025, l'hackathon delle studentesse e degli studenti per ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The European Robotics Hackathon: ENRICH (novembre)</title>
+      <link>https://enrich.european-robotics.eu/</link>
+      <description>The European Robotics Hackathon: ENRICH</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snakemake Hackathon March 2025 (10-14 March 2025): Registration (novembre)</title>
+      <link>https://indico.cern.ch/event/1441041/registrations/</link>
+      <description>Snakemake Hackathon March 2025 (10-14 March 2025): Registration</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon (novembre)</title>
+      <link>https://hackathon.bz.it/</link>
+      <description>Hackathon</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - March 2025 (Online / Distributed) (novembre)</title>
+      <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
+      <description>Hackathon - March 2025 (Online / Distributed)</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Developer Events &amp; Conferences - Google for Developers (ottobre)</title>
+      <link>https://developers.google.com/events</link>
+      <description>Upcoming Developer Events &amp; Conferences - Google for Developers</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackCultura2025, l'hackathon delle studentesse e degli studenti per ... (ottobre)</title>
+      <link>https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>HackCultura2025, l'hackathon delle studentesse e degli studenti per ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The European Robotics Hackathon: ENRICH (ottobre)</title>
+      <link>https://enrich.european-robotics.eu/</link>
+      <description>The European Robotics Hackathon: ENRICH</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snakemake Hackathon March 2025 (10-14 March 2025): Registration (ottobre)</title>
+      <link>https://indico.cern.ch/event/1441041/registrations/</link>
+      <description>Snakemake Hackathon March 2025 (10-14 March 2025): Registration</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon (ottobre)</title>
+      <link>https://hackathon.bz.it/</link>
+      <description>Hackathon</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - March 2025 (Online / Distributed) (ottobre)</title>
+      <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
+      <description>Hackathon - March 2025 (Online / Distributed)</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Developer Events &amp; Conferences - Google for Developers (settembre)</title>
+      <link>https://developers.google.com/events</link>
+      <description>Upcoming Developer Events &amp; Conferences - Google for Developers</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>ITADATA 2025 (settembre)</title>
+      <link>https://www.itadata.it/</link>
+      <description>ITADATA 2025</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>TELT Lyon Turin • Open Data Playground launches the Alpine ... (settembre)</title>
+      <link>http://www.telt.eu/en/hackathon-alpine-climate-data-challenge-2025/</link>
+      <description>TELT Lyon Turin • Open Data Playground launches the Alpine ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackCultura2025, l'hackathon delle studentesse e degli studenti per ... (settembre)</title>
+      <link>https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>HackCultura2025, l'hackathon delle studentesse e degli studenti per ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The European Robotics Hackathon: ENRICH (settembre)</title>
+      <link>https://enrich.european-robotics.eu/</link>
+      <description>The European Robotics Hackathon: ENRICH</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ECIU University Forum 2025 (settembre)</title>
+      <link>https://www.eciu.eu/events/eciu-university-forum-2025</link>
+      <description>ECIU University Forum 2025</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon (settembre)</title>
+      <link>https://hackathon.bz.it/</link>
+      <description>Hackathon</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS Innovate 2025 | SAS (settembre)</title>
+      <link>https://www.sas.com/en/events/sas-innovate.html</link>
+      <description>SAS Innovate 2025 | SAS</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - March 2025 (Online / Distributed) (settembre)</title>
+      <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
+      <description>Hackathon - March 2025 (Online / Distributed)</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Developer Events &amp; Conferences - Google for Developers (agosto)</title>
+      <link>https://developers.google.com/events</link>
+      <description>Upcoming Developer Events &amp; Conferences - Google for Developers</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>TELT Lyon Turin • Open Data Playground launches the Alpine ... (agosto)</title>
+      <link>http://www.telt.eu/en/hackathon-alpine-climate-data-challenge-2025/</link>
+      <description>TELT Lyon Turin • Open Data Playground launches the Alpine ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>The European Robotics Hackathon: ENRICH (agosto)</title>
+      <link>https://enrich.european-robotics.eu/</link>
+      <description>The European Robotics Hackathon: ENRICH</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon (agosto)</title>
+      <link>https://hackathon.bz.it/</link>
+      <description>Hackathon</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Developer Events &amp; Conferences - Google for Developers (luglio)</title>
+      <link>https://developers.google.com/events</link>
+      <description>Upcoming Developer Events &amp; Conferences - Google for Developers</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>TELT Lyon Turin • Open Data Playground launches the Alpine ... (luglio)</title>
+      <link>http://www.telt.eu/en/hackathon-alpine-climate-data-challenge-2025/</link>
+      <description>TELT Lyon Turin • Open Data Playground launches the Alpine ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>The European Robotics Hackathon: ENRICH (luglio)</title>
+      <link>https://enrich.european-robotics.eu/</link>
+      <description>The European Robotics Hackathon: ENRICH</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>#SHU2025 Social Hackathon Umbria 2025 (luglio)</title>
+      <link>https://www.socialhackathonumbria.info/en/</link>
+      <description>#SHU2025 Social Hackathon Umbria 2025</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - March 2025 (Online / Distributed) (luglio)</title>
+      <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
+      <description>Hackathon - March 2025 (Online / Distributed)</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Developer Events &amp; Conferences - Google for Developers (giugno)</title>
+      <link>https://developers.google.com/events</link>
+      <description>Upcoming Developer Events &amp; Conferences - Google for Developers</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>The European Robotics Hackathon: ENRICH (giugno)</title>
+      <link>https://enrich.european-robotics.eu/</link>
+      <description>The European Robotics Hackathon: ENRICH</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ECIU University Forum 2025 (giugno)</title>
+      <link>https://www.eciu.eu/events/eciu-university-forum-2025</link>
+      <description>ECIU University Forum 2025</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - March 2025 (Online / Distributed) (giugno)</title>
+      <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
+      <description>Hackathon - March 2025 (Online / Distributed)</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Developer Events &amp; Conferences - Google for Developers (maggio)</title>
+      <link>https://developers.google.com/events</link>
+      <description>Upcoming Developer Events &amp; Conferences - Google for Developers</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>WCRP global km-scale hackathon || 12 - 17 May 2025 (maggio)</title>
+      <link>https://events.mpimet.mpg.de/e/wcrp-global-hacking</link>
+      <description>WCRP global km-scale hackathon || 12 - 17 May 2025</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackCultura2025, l'hackathon delle studentesse e degli studenti per ... (maggio)</title>
+      <link>https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>HackCultura2025, l'hackathon delle studentesse e degli studenti per ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The European Robotics Hackathon: ENRICH (maggio)</title>
+      <link>https://enrich.european-robotics.eu/</link>
+      <description>The European Robotics Hackathon: ENRICH</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathons - MediaWiki (maggio)</title>
+      <link>https://www.mediawiki.org/wiki/Hackathons</link>
+      <description>Hackathons - MediaWiki</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>ECIU University Forum 2025 (maggio)</title>
+      <link>https://www.eciu.eu/events/eciu-university-forum-2025</link>
+      <description>ECIU University Forum 2025</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon (maggio)</title>
+      <link>https://hackathon.bz.it/</link>
+      <description>Hackathon</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS Innovate 2025 | SAS (maggio)</title>
+      <link>https://www.sas.com/en/events/sas-innovate.html</link>
+      <description>SAS Innovate 2025 | SAS</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - March 2025 (Online / Distributed) (maggio)</title>
+      <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
+      <description>Hackathon - March 2025 (Online / Distributed)</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>HACKATHON (maggio)</title>
+      <link>https://www.issapulire.com/en/events/hackathon.html</link>
+      <description>HACKATHON</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expression of Interest – EAA Hackathon 2025, Rome - EAA ... (maggio)</title>
+      <link>https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/</link>
+      <description>Expression of Interest – EAA Hackathon 2025, Rome - EAA ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:20:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Developer Events &amp; Conferences - Google for Developers (aprile)</title>
+      <link>https://developers.google.com/events</link>
+      <description>Upcoming Developer Events &amp; Conferences - Google for Developers</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackCultura2025, l'hackathon delle studentesse e degli studenti per ... (aprile)</title>
+      <link>https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>HackCultura2025, l'hackathon delle studentesse e degli studenti per ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The European Robotics Hackathon: ENRICH (aprile)</title>
+      <link>https://enrich.european-robotics.eu/</link>
+      <description>The European Robotics Hackathon: ENRICH</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ECIU University Forum 2025 (aprile)</title>
+      <link>https://www.eciu.eu/events/eciu-university-forum-2025</link>
+      <description>ECIU University Forum 2025</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>HACKATHON (aprile)</title>
+      <link>https://www.issapulire.com/en/events/hackathon.html</link>
+      <description>HACKATHON</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Developer Events &amp; Conferences - Google for Developers (marzo)</title>
+      <link>https://developers.google.com/events</link>
+      <description>Upcoming Developer Events &amp; Conferences - Google for Developers</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appuntamento a Palermo per il Wikimedia Hackathon 2025 ... (marzo)</title>
+      <link>https://www.wikimedia.it/news/appuntamento-a-palermo-per-il-wikimedia-hackathon-2025/</link>
+      <description>Appuntamento a Palermo per il Wikimedia Hackathon 2025 ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Open Data Days 2025 | data.europa.eu (marzo)</title>
+      <link>https://data.europa.eu/en/euopendatadays</link>
+      <description>EU Open Data Days 2025 | data.europa.eu</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>TELT Lyon Turin • Open Data Playground launches the Alpine ... (marzo)</title>
+      <link>http://www.telt.eu/en/hackathon-alpine-climate-data-challenge-2025/</link>
+      <description>TELT Lyon Turin • Open Data Playground launches the Alpine ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackCultura2025, l'hackathon delle studentesse e degli studenti per ... (marzo)</title>
+      <link>https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/</link>
+      <description>HackCultura2025, l'hackathon delle studentesse e degli studenti per ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The European Robotics Hackathon: ENRICH (marzo)</title>
+      <link>https://enrich.european-robotics.eu/</link>
+      <description>The European Robotics Hackathon: ENRICH</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snakemake Hackathon March 2025 (10-14 March 2025): Registration (marzo)</title>
+      <link>https://indico.cern.ch/event/1441041/registrations/</link>
+      <description>Snakemake Hackathon March 2025 (10-14 March 2025): Registration</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathons - MediaWiki (marzo)</title>
+      <link>https://www.mediawiki.org/wiki/Hackathons</link>
+      <description>Hackathons - MediaWiki</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>ECIU University Forum 2025 (marzo)</title>
+      <link>https://www.eciu.eu/events/eciu-university-forum-2025</link>
+      <description>ECIU University Forum 2025</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - March 2025 (Online / Distributed) (marzo)</title>
+      <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
+      <description>Hackathon - March 2025 (Online / Distributed)</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>HACKATHON (marzo)</title>
+      <link>https://www.issapulire.com/en/events/hackathon.html</link>
+      <description>HACKATHON</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Developer Events &amp; Conferences - Google for Developers (febbraio)</title>
+      <link>https://developers.google.com/events</link>
+      <description>Upcoming Developer Events &amp; Conferences - Google for Developers</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appuntamento a Palermo per il Wikimedia Hackathon 2025 ... (febbraio)</title>
+      <link>https://www.wikimedia.it/news/appuntamento-a-palermo-per-il-wikimedia-hackathon-2025/</link>
+      <description>Appuntamento a Palermo per il Wikimedia Hackathon 2025 ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon ad Economia 2025 | Area didattica di Economia - Sede ... (febbraio)</title>
+      <link>https://web.uniroma1.it/economia_lt/news/hackathon-ad-economia-2025</link>
+      <description>Hackathon ad Economia 2025 | Area didattica di Economia - Sede ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>TELT Lyon Turin • Open Data Playground launches the Alpine ... (febbraio)</title>
+      <link>http://www.telt.eu/en/hackathon-alpine-climate-data-challenge-2025/</link>
+      <description>TELT Lyon Turin • Open Data Playground launches the Alpine ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>The European Robotics Hackathon: ENRICH (febbraio)</title>
+      <link>https://enrich.european-robotics.eu/</link>
+      <description>The European Robotics Hackathon: ENRICH</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ECIU University Forum 2025 (febbraio)</title>
+      <link>https://www.eciu.eu/events/eciu-university-forum-2025</link>
+      <description>ECIU University Forum 2025</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hack_In Cremona 2025 - Build Your Idea (febbraio)</title>
+      <link>https://buildyouridea.it/call/hack-in-cremona-2025</link>
+      <description>Hack_In Cremona 2025 - Build Your Idea</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAS Innovate 2025 | SAS (febbraio)</title>
+      <link>https://www.sas.com/en/events/sas-innovate.html</link>
+      <description>SAS Innovate 2025 | SAS</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - March 2025 (Online / Distributed) (febbraio)</title>
+      <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
+      <description>Hackathon - March 2025 (Online / Distributed)</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>HACKATHON (febbraio)</title>
+      <link>https://www.issapulire.com/en/events/hackathon.html</link>
+      <description>HACKATHON</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming Developer Events &amp; Conferences - Google for Developers (gennaio)</title>
+      <link>https://developers.google.com/events</link>
+      <description>Upcoming Developer Events &amp; Conferences - Google for Developers</description>
+      <pubDate>Thu, 06 Mar 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Open Data Days 2025 | data.europa.eu (gennaio)</title>
+      <link>https://data.europa.eu/en/euopendatadays</link>
+      <description>EU Open Data Days 2025 | data.europa.eu</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>TELT Lyon Turin • Open Data Playground launches the Alpine ... (gennaio)</title>
+      <link>http://www.telt.eu/en/hackathon-alpine-climate-data-challenge-2025/</link>
+      <description>TELT Lyon Turin • Open Data Playground launches the Alpine ...</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ECIU University Forum 2025 (gennaio)</title>
+      <link>https://www.eciu.eu/events/eciu-university-forum-2025</link>
+      <description>ECIU University Forum 2025</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hack_In Cremona 2025 - Build Your Idea (gennaio)</title>
+      <link>https://buildyouridea.it/call/hack-in-cremona-2025</link>
+      <description>Hack_In Cremona 2025 - Build Your Idea</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon - March 2025 (Online / Distributed) (gennaio)</title>
+      <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
+      <description>Hackathon - March 2025 (Online / Distributed)</description>
+      <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
