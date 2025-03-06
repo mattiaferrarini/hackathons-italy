@@ -24,6 +24,9 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run scraper
+      env:
+        GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        GOOGLE_CSE_ID: ${{ secrets.GOOGLE_CSE_ID }}
       run: python scraper.py
 
     - name: Run RSS generator
