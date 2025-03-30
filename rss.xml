@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 23 Mar 2025 01:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 01:42:58 +0000</lastBuildDate>
     <item>
       <title>Events | Copernicus (dicembre)</title>
       <link>http://www.copernicus.eu/en/events/events</link>
@@ -346,6 +346,12 @@
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
     </item>
     <item>
+      <title>Codemotion Events (maggio)</title>
+      <link>https://events.codemotion.com/</link>
+      <description>Codemotion Events</description>
+      <pubDate>Sun, 30 Mar 2025 01:42:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Events | Copernicus (maggio)</title>
       <link>http://www.copernicus.eu/en/events/events</link>
       <description>Events | Copernicus</description>
@@ -430,6 +436,24 @@
       <pubDate>Thu, 06 Mar 2025 13:20:55 +0000</pubDate>
     </item>
     <item>
+      <title>Artificial Intelligence Student Society: Hackathon 2025 | University of ... (aprile)</title>
+      <link>https://portale.units.it/en/events/artificial-intelligence-student-society-hackathon-2025</link>
+      <description>Artificial Intelligence Student Society: Hackathon 2025 | University of ...</description>
+      <pubDate>Sun, 30 Mar 2025 01:42:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ambiente: Unicef e Iaia Italia, al via Hackathon per il Clima 2025 ... (aprile)</title>
+      <link>https://www.agensir.it/quotidiano/2025/3/26/ambiente-unicef-e-iaia-italia-al-via-hackathon-per-il-clima-2025/</link>
+      <description>Ambiente: Unicef e Iaia Italia, al via Hackathon per il Clima 2025 ...</description>
+      <pubDate>Sun, 30 Mar 2025 01:42:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codemotion Events (aprile)</title>
+      <link>https://events.codemotion.com/</link>
+      <description>Codemotion Events</description>
+      <pubDate>Sun, 30 Mar 2025 01:42:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Events | Copernicus (aprile)</title>
       <link>http://www.copernicus.eu/en/events/events</link>
       <description>Events | Copernicus</description>
@@ -488,6 +512,18 @@
       <link>https://www.issapulire.com/en/events/hackathon.html</link>
       <description>HACKATHON</description>
       <pubDate>Thu, 06 Mar 2025 13:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ambiente: Unicef e Iaia Italia, al via Hackathon per il Clima 2025 ... (marzo)</title>
+      <link>https://www.agensir.it/quotidiano/2025/3/26/ambiente-unicef-e-iaia-italia-al-via-hackathon-per-il-clima-2025/</link>
+      <description>Ambiente: Unicef e Iaia Italia, al via Hackathon per il Clima 2025 ...</description>
+      <pubDate>Sun, 30 Mar 2025 01:42:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codemotion Events (marzo)</title>
+      <link>https://events.codemotion.com/</link>
+      <description>Codemotion Events</description>
+      <pubDate>Sun, 30 Mar 2025 01:42:05 +0000</pubDate>
     </item>
     <item>
       <title>Events | Copernicus (marzo)</title>
@@ -586,6 +622,12 @@
       <pubDate>Thu, 06 Mar 2025 13:21:03 +0000</pubDate>
     </item>
     <item>
+      <title>Ambiente: Unicef e Iaia Italia, al via Hackathon per il Clima 2025 ... (febbraio)</title>
+      <link>https://www.agensir.it/quotidiano/2025/3/26/ambiente-unicef-e-iaia-italia-al-via-hackathon-per-il-clima-2025/</link>
+      <description>Ambiente: Unicef e Iaia Italia, al via Hackathon per il Clima 2025 ...</description>
+      <pubDate>Sun, 30 Mar 2025 01:42:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Events | Copernicus (febbraio)</title>
       <link>http://www.copernicus.eu/en/events/events</link>
       <description>Events | Copernicus</description>
@@ -674,6 +716,18 @@
       <link>https://www.issapulire.com/en/events/hackathon.html</link>
       <description>HACKATHON</description>
       <pubDate>Thu, 06 Mar 2025 13:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codemotion Events (gennaio)</title>
+      <link>https://events.codemotion.com/</link>
+      <description>Codemotion Events</description>
+      <pubDate>Sun, 30 Mar 2025 01:42:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>UCSD SMASH &amp; NSF HDR ML Challenge Hackathon (11-12 ... (gennaio)</title>
+      <link>https://indico.cern.ch/e/ucsdhack</link>
+      <description>UCSD SMASH &amp; NSF HDR ML Challenge Hackathon (11-12 ...</description>
+      <pubDate>Sun, 30 Mar 2025 01:41:37 +0000</pubDate>
     </item>
     <item>
       <title>Events | Copernicus (gennaio)</title>
