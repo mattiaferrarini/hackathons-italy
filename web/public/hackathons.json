@@ -49,6 +49,16 @@
       "title": "Events | Copernicus",
       "href": "http://www.copernicus.eu/en/events/events",
       "scraped_date": "2025-03-23T01:40:42.714645+00:00"
+    },
+    {
+      "title": "UCSD SMASH & NSF HDR ML Challenge Hackathon (11-12 ...",
+      "href": "https://indico.cern.ch/e/ucsdhack",
+      "scraped_date": "2025-03-30T01:41:37.982071+00:00"
+    },
+    {
+      "title": "Codemotion Events",
+      "href": "https://events.codemotion.com/",
+      "scraped_date": "2025-03-30T01:42:05.593455+00:00"
     }
   ],
   "febbraio": [
@@ -126,6 +136,11 @@
       "title": "Events | Copernicus",
       "href": "http://www.copernicus.eu/en/events/events",
       "scraped_date": "2025-03-23T01:40:42.714645+00:00"
+    },
+    {
+      "title": "Ambiente: Unicef e Iaia Italia, al via Hackathon per il Clima 2025 ...",
+      "href": "https://www.agensir.it/quotidiano/2025/3/26/ambiente-unicef-e-iaia-italia-al-via-hackathon-per-il-clima-2025/",
+      "scraped_date": "2025-03-30T01:42:39.245846+00:00"
     }
   ],
   "marzo": [
@@ -208,6 +223,16 @@
       "title": "Events | Copernicus",
       "href": "http://www.copernicus.eu/en/events/events",
       "scraped_date": "2025-03-23T01:40:42.714645+00:00"
+    },
+    {
+      "title": "Codemotion Events",
+      "href": "https://events.codemotion.com/",
+      "scraped_date": "2025-03-30T01:42:05.593455+00:00"
+    },
+    {
+      "title": "Ambiente: Unicef e Iaia Italia, al via Hackathon per il Clima 2025 ...",
+      "href": "https://www.agensir.it/quotidiano/2025/3/26/ambiente-unicef-e-iaia-italia-al-via-hackathon-per-il-clima-2025/",
+      "scraped_date": "2025-03-30T01:42:39.245846+00:00"
     }
   ],
   "aprile": [
@@ -260,6 +285,21 @@
       "title": "Events | Copernicus",
       "href": "http://www.copernicus.eu/en/events/events",
       "scraped_date": "2025-03-23T01:40:42.714645+00:00"
+    },
+    {
+      "title": "Codemotion Events",
+      "href": "https://events.codemotion.com/",
+      "scraped_date": "2025-03-30T01:42:05.593455+00:00"
+    },
+    {
+      "title": "Ambiente: Unicef e Iaia Italia, al via Hackathon per il Clima 2025 ...",
+      "href": "https://www.agensir.it/quotidiano/2025/3/26/ambiente-unicef-e-iaia-italia-al-via-hackathon-per-il-clima-2025/",
+      "scraped_date": "2025-03-30T01:42:39.245846+00:00"
+    },
+    {
+      "title": "Artificial Intelligence Student Society: Hackathon 2025 | University of ...",
+      "href": "https://portale.units.it/en/events/artificial-intelligence-student-society-hackathon-2025",
+      "scraped_date": "2025-03-30T01:42:46.634734+00:00"
     }
   ],
   "maggio": [
@@ -332,6 +372,11 @@
       "title": "Events | Copernicus",
       "href": "http://www.copernicus.eu/en/events/events",
       "scraped_date": "2025-03-23T01:40:42.714645+00:00"
+    },
+    {
+      "title": "Codemotion Events",
+      "href": "https://events.codemotion.com/",
+      "scraped_date": "2025-03-30T01:42:05.593455+00:00"
     }
   ],
   "giugno": [
