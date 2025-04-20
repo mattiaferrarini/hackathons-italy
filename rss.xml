@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 13 Apr 2025 02:58:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 01:44:27 +0000</lastBuildDate>
     <item>
       <title>List of gamedev events, conferences (more than 50 events ... (dicembre)</title>
       <link>https://ingamejob.com/en/events</link>
@@ -478,6 +478,12 @@
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
     </item>
     <item>
+      <title>HACKATHON (maggio)</title>
+      <link>https://www.issapulire.com/it/eventi/hackathon.html</link>
+      <description>HACKATHON</description>
+      <pubDate>Sun, 20 Apr 2025 01:42:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Hackathon “InnovAction” 2025 promosso da Giovani Industriali Napoli (maggio)</title>
       <link>https://www.dicea.unina.it/9413-2/</link>
       <description>Hackathon “InnovAction” 2025 promosso da Giovani Industriali Napoli</description>
@@ -610,6 +616,18 @@
       <pubDate>Thu, 06 Mar 2025 13:20:55 +0000</pubDate>
     </item>
     <item>
+      <title>Meet the Global Winners of DigiEduHack 2024 | European ... (aprile)</title>
+      <link>https://education.ec.europa.eu/news/meet-the-global-winners-of-digieduhack-2024</link>
+      <description>Meet the Global Winners of DigiEduHack 2024 | European ...</description>
+      <pubDate>Sun, 20 Apr 2025 01:43:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>HACKATHON (aprile)</title>
+      <link>https://www.issapulire.com/it/eventi/hackathon.html</link>
+      <description>HACKATHON</description>
+      <pubDate>Sun, 20 Apr 2025 01:42:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Hackathon “InnovAction” 2025 promosso da Giovani Industriali Napoli (aprile)</title>
       <link>https://www.dicea.unina.it/9413-2/</link>
       <description>Hackathon “InnovAction” 2025 promosso da Giovani Industriali Napoli</description>
@@ -710,6 +728,12 @@
       <link>https://www.issapulire.com/en/events/hackathon.html</link>
       <description>HACKATHON</description>
       <pubDate>Thu, 06 Mar 2025 13:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>HACKATHON (marzo)</title>
+      <link>https://www.issapulire.com/it/eventi/hackathon.html</link>
+      <description>HACKATHON</description>
+      <pubDate>Sun, 20 Apr 2025 01:42:33 +0000</pubDate>
     </item>
     <item>
       <title>Hackathon “InnovAction” 2025 promosso da Giovani Industriali Napoli (marzo)</title>
@@ -854,6 +878,12 @@
       <link>https://www.issapulire.com/en/events/hackathon.html</link>
       <description>HACKATHON</description>
       <pubDate>Thu, 06 Mar 2025 13:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>HACKATHON (febbraio)</title>
+      <link>https://www.issapulire.com/it/eventi/hackathon.html</link>
+      <description>HACKATHON</description>
+      <pubDate>Sun, 20 Apr 2025 01:42:33 +0000</pubDate>
     </item>
     <item>
       <title>List of gamedev events, conferences (more than 50 events ... (febbraio)</title>
