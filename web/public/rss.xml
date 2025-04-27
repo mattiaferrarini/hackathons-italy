@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 20 Apr 2025 01:44:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 01:44:17 +0000</lastBuildDate>
+    <item>
+      <title>Linux Foundation Events (dicembre)</title>
+      <link>https://events.linuxfoundation.org/</link>
+      <description>Linux Foundation Events</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:17 +0000</pubDate>
+    </item>
     <item>
       <title>List of gamedev events, conferences (more than 50 events ... (dicembre)</title>
       <link>https://ingamejob.com/en/events</link>
@@ -70,6 +76,18 @@
       <pubDate>Thu, 06 Mar 2025 13:20:55 +0000</pubDate>
     </item>
     <item>
+      <title>Biennale Architettura 2025: GENS Public Programme (novembre)</title>
+      <link>https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme</link>
+      <description>Biennale Architettura 2025: GENS Public Programme</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Foundation Events (novembre)</title>
+      <link>https://events.linuxfoundation.org/</link>
+      <description>Linux Foundation Events</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:17 +0000</pubDate>
+    </item>
+    <item>
       <title>List of gamedev events, conferences (more than 50 events ... (novembre)</title>
       <link>https://ingamejob.com/en/events</link>
       <description>List of gamedev events, conferences (more than 50 events ...</description>
@@ -128,6 +146,12 @@
       <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
       <description>Hackathon - March 2025 (Online / Distributed)</description>
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Foundation Events (ottobre)</title>
+      <link>https://events.linuxfoundation.org/</link>
+      <description>Linux Foundation Events</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:17 +0000</pubDate>
     </item>
     <item>
       <title>Hackathon “InnovAction” 2025 promosso da Giovani Industriali Napoli (ottobre)</title>
@@ -194,6 +218,30 @@
       <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
       <description>Hackathon - March 2025 (Online / Distributed)</description>
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hack for SDGs - The first ever FAO&amp;FFI Hackathon for Sustainable ... (settembre)</title>
+      <link>https://futurefoodinstitute.org/2019/04/11/hack-sdgs-the-first-hackathon-on-united-nations-2030-agenda-sustainable-development-goals/</link>
+      <description>Hack for SDGs - The first ever FAO&amp;FFI Hackathon for Sustainable ...</description>
+      <pubDate>Sun, 27 Apr 2025 01:44:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biennale Architettura 2025: GENS Public Programme (settembre)</title>
+      <link>https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme</link>
+      <description>Biennale Architettura 2025: GENS Public Programme</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Foundation Events (settembre)</title>
+      <link>https://events.linuxfoundation.org/</link>
+      <description>Linux Foundation Events</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wikimedia CH/Grant apply/Italian speaking hackathon in Palermo ... (settembre)</title>
+      <link>https://meta.wikimedia.org/wiki/Wikimedia_CH/Grant_apply/Italian_speaking_hackathon_in_Palermo,_March_2025</link>
+      <description>Wikimedia CH/Grant apply/Italian speaking hackathon in Palermo ...</description>
+      <pubDate>Sun, 27 Apr 2025 01:42:57 +0000</pubDate>
     </item>
     <item>
       <title>Hackathon “InnovAction” 2025 promosso da Giovani Industriali Napoli (settembre)</title>
@@ -310,6 +358,12 @@
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
     </item>
     <item>
+      <title>Linux Foundation Events (agosto)</title>
+      <link>https://events.linuxfoundation.org/</link>
+      <description>Linux Foundation Events</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:17 +0000</pubDate>
+    </item>
+    <item>
       <title>List of gamedev events, conferences (more than 50 events ... (agosto)</title>
       <link>https://ingamejob.com/en/events</link>
       <description>List of gamedev events, conferences (more than 50 events ...</description>
@@ -364,6 +418,18 @@
       <pubDate>Thu, 06 Mar 2025 13:21:20 +0000</pubDate>
     </item>
     <item>
+      <title>#SHU2025 Social Hackathon Umbria 2025 – Digital co-creation ... (luglio)</title>
+      <link>https://www.socialhackathonumbria.info/en/</link>
+      <description>#SHU2025 Social Hackathon Umbria 2025 – Digital co-creation ...</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Foundation Events (luglio)</title>
+      <link>https://events.linuxfoundation.org/</link>
+      <description>Linux Foundation Events</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:17 +0000</pubDate>
+    </item>
+    <item>
       <title>List of gamedev events, conferences (more than 50 events ... (luglio)</title>
       <link>https://ingamejob.com/en/events</link>
       <description>List of gamedev events, conferences (more than 50 events ...</description>
@@ -416,6 +482,18 @@
       <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
       <description>Hackathon - March 2025 (Online / Distributed)</description>
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biennale Architettura 2025: GENS Public Programme (giugno)</title>
+      <link>https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme</link>
+      <description>Biennale Architettura 2025: GENS Public Programme</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Foundation Events (giugno)</title>
+      <link>https://events.linuxfoundation.org/</link>
+      <description>Linux Foundation Events</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:17 +0000</pubDate>
     </item>
     <item>
       <title>List of gamedev events, conferences (more than 50 events ... (giugno)</title>
@@ -476,6 +554,30 @@
       <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
       <description>Hackathon - March 2025 (Online / Distributed)</description>
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hack for SDGs - The first ever FAO&amp;FFI Hackathon for Sustainable ... (maggio)</title>
+      <link>https://futurefoodinstitute.org/2019/04/11/hack-sdgs-the-first-hackathon-on-united-nations-2030-agenda-sustainable-development-goals/</link>
+      <description>Hack for SDGs - The first ever FAO&amp;FFI Hackathon for Sustainable ...</description>
+      <pubDate>Sun, 27 Apr 2025 01:44:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biennale Architettura 2025: GENS Public Programme (maggio)</title>
+      <link>https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme</link>
+      <description>Biennale Architettura 2025: GENS Public Programme</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Foundation Events (maggio)</title>
+      <link>https://events.linuxfoundation.org/</link>
+      <description>Linux Foundation Events</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wikimedia CH/Grant apply/Italian speaking hackathon in Palermo ... (maggio)</title>
+      <link>https://meta.wikimedia.org/wiki/Wikimedia_CH/Grant_apply/Italian_speaking_hackathon_in_Palermo,_March_2025</link>
+      <description>Wikimedia CH/Grant apply/Italian speaking hackathon in Palermo ...</description>
+      <pubDate>Sun, 27 Apr 2025 01:42:57 +0000</pubDate>
     </item>
     <item>
       <title>HACKATHON (maggio)</title>
@@ -616,6 +718,24 @@
       <pubDate>Thu, 06 Mar 2025 13:20:55 +0000</pubDate>
     </item>
     <item>
+      <title>Hack for SDGs - The first ever FAO&amp;FFI Hackathon for Sustainable ... (aprile)</title>
+      <link>https://futurefoodinstitute.org/2019/04/11/hack-sdgs-the-first-hackathon-on-united-nations-2030-agenda-sustainable-development-goals/</link>
+      <description>Hack for SDGs - The first ever FAO&amp;FFI Hackathon for Sustainable ...</description>
+      <pubDate>Sun, 27 Apr 2025 01:44:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biennale Architettura 2025: GENS Public Programme (aprile)</title>
+      <link>https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme</link>
+      <description>Biennale Architettura 2025: GENS Public Programme</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Foundation Events (aprile)</title>
+      <link>https://events.linuxfoundation.org/</link>
+      <description>Linux Foundation Events</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Meet the Global Winners of DigiEduHack 2024 | European ... (aprile)</title>
       <link>https://education.ec.europa.eu/news/meet-the-global-winners-of-digieduhack-2024</link>
       <description>Meet the Global Winners of DigiEduHack 2024 | European ...</description>
@@ -728,6 +848,24 @@
       <link>https://www.issapulire.com/en/events/hackathon.html</link>
       <description>HACKATHON</description>
       <pubDate>Thu, 06 Mar 2025 13:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biennale Architettura 2025: GENS Public Programme (marzo)</title>
+      <link>https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme</link>
+      <description>Biennale Architettura 2025: GENS Public Programme</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Foundation Events (marzo)</title>
+      <link>https://events.linuxfoundation.org/</link>
+      <description>Linux Foundation Events</description>
+      <pubDate>Sun, 27 Apr 2025 01:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wikimedia CH/Grant apply/Italian speaking hackathon in Palermo ... (marzo)</title>
+      <link>https://meta.wikimedia.org/wiki/Wikimedia_CH/Grant_apply/Italian_speaking_hackathon_in_Palermo,_March_2025</link>
+      <description>Wikimedia CH/Grant apply/Italian speaking hackathon in Palermo ...</description>
+      <pubDate>Sun, 27 Apr 2025 01:42:57 +0000</pubDate>
     </item>
     <item>
       <title>HACKATHON (marzo)</title>
