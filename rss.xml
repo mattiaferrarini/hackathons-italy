@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 27 Apr 2025 01:44:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 01:49:13 +0000</lastBuildDate>
     <item>
       <title>Linux Foundation Events (dicembre)</title>
       <link>https://events.linuxfoundation.org/</link>
@@ -146,6 +146,12 @@
       <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
       <description>Hackathon - March 2025 (Online / Distributed)</description>
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI FORUM: Hacking AI for Organizational Impact | ITCILO (ottobre)</title>
+      <link>https://www.itcilo.org/events/ai-forum-hacking-ai-organizational-impact</link>
+      <description>AI FORUM: Hacking AI for Organizational Impact | ITCILO</description>
+      <pubDate>Sun, 04 May 2025 01:48:44 +0000</pubDate>
     </item>
     <item>
       <title>Linux Foundation Events (ottobre)</title>
