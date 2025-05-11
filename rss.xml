@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 04 May 2025 01:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 01:47:15 +0000</lastBuildDate>
     <item>
       <title>Linux Foundation Events (dicembre)</title>
       <link>https://events.linuxfoundation.org/</link>
@@ -74,6 +74,12 @@
       <link>https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/</link>
       <description>Expression of Interest – EAA Hackathon 2025, Rome - EAA ...</description>
       <pubDate>Thu, 06 Mar 2025 13:20:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biennale Architettura 2025: GENS Public Programme (Conferences) (novembre)</title>
+      <link>https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme-conferences</link>
+      <description>Biennale Architettura 2025: GENS Public Programme (Conferences)</description>
+      <pubDate>Sun, 11 May 2025 01:46:52 +0000</pubDate>
     </item>
     <item>
       <title>Biennale Architettura 2025: GENS Public Programme (novembre)</title>
@@ -224,6 +230,12 @@
       <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
       <description>Hackathon - March 2025 (Online / Distributed)</description>
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biennale Architettura 2025: GENS Public Programme (Conferences) (settembre)</title>
+      <link>https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme-conferences</link>
+      <description>Biennale Architettura 2025: GENS Public Programme (Conferences)</description>
+      <pubDate>Sun, 11 May 2025 01:46:52 +0000</pubDate>
     </item>
     <item>
       <title>Hack for SDGs - The first ever FAO&amp;FFI Hackathon for Sustainable ... (settembre)</title>
@@ -490,6 +502,18 @@
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
     </item>
     <item>
+      <title>Biennale Architettura 2025: GENS Public Programme (Conferences) (giugno)</title>
+      <link>https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme-conferences</link>
+      <description>Biennale Architettura 2025: GENS Public Programme (Conferences)</description>
+      <pubDate>Sun, 11 May 2025 01:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codemotion Events (giugno)</title>
+      <link>https://events.codemotion.com/</link>
+      <description>Codemotion Events</description>
+      <pubDate>Sun, 11 May 2025 01:46:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Biennale Architettura 2025: GENS Public Programme (giugno)</title>
       <link>https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme</link>
       <description>Biennale Architettura 2025: GENS Public Programme</description>
@@ -560,6 +584,12 @@
       <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
       <description>Hackathon - March 2025 (Online / Distributed)</description>
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biennale Architettura 2025: GENS Public Programme (Conferences) (maggio)</title>
+      <link>https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme-conferences</link>
+      <description>Biennale Architettura 2025: GENS Public Programme (Conferences)</description>
+      <pubDate>Sun, 11 May 2025 01:46:52 +0000</pubDate>
     </item>
     <item>
       <title>Hack for SDGs - The first ever FAO&amp;FFI Hackathon for Sustainable ... (maggio)</title>
