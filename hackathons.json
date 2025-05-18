@@ -171,6 +171,11 @@
       "title": "HACKATHON",
       "href": "https://www.issapulire.com/it/eventi/hackathon.html",
       "scraped_date": "2025-04-20T01:42:33.723072+00:00"
+    },
+    {
+      "title": "Linux Foundation Events",
+      "href": "https://events.linuxfoundation.org/",
+      "scraped_date": "2025-05-18T01:47:53.166257+00:00"
     }
   ],
   "marzo": [
@@ -425,6 +430,11 @@
       "title": "Hack for SDGs - The first ever FAO&FFI Hackathon for Sustainable ...",
       "href": "https://futurefoodinstitute.org/2019/04/11/hack-sdgs-the-first-hackathon-on-united-nations-2030-agenda-sustainable-development-goals/",
       "scraped_date": "2025-04-27T01:44:03.746577+00:00"
+    },
+    {
+      "title": "Artificial Intelligence Student Society: Hackathon 2025 | University of ...",
+      "href": "http://portale.units.it/en/events/artificial-intelligence-student-society-hackathon-2025",
+      "scraped_date": "2025-05-18T01:48:30.696203+00:00"
     }
   ],
   "maggio": [
@@ -567,6 +577,26 @@
       "title": "Biennale Architettura 2025: GENS Public Programme (Conferences)",
       "href": "https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme-conferences",
       "scraped_date": "2025-05-11T01:46:52.690851+00:00"
+    },
+    {
+      "title": "AI Hackathon in Italy | 9-10 May 2025",
+      "href": "https://bhblasted.com/hackathon-ai-2025/",
+      "scraped_date": "2025-05-18T01:47:15.089946+00:00"
+    },
+    {
+      "title": "The Hackathon Platform for Builders - TAIKAI",
+      "href": "https://taikai.network/en/hackathons",
+      "scraped_date": "2025-05-18T01:47:51.903154+00:00"
+    },
+    {
+      "title": "Think Young Hackathons 2025 | eurodesk.it",
+      "href": "https://www.eurodesk.it/notizie/think-young-hackathons-2025",
+      "scraped_date": "2025-05-18T01:48:40.156980+00:00"
+    },
+    {
+      "title": "Appuntamento a Palermo per il Wikimedia Hackathon 2025 ...",
+      "href": "https://www.wikimedia.it/news/appuntamento-a-palermo-per-il-wikimedia-hackathon-2025/",
+      "scraped_date": "2025-05-18T01:48:53.418887+00:00"
     }
   ],
   "giugno": [
@@ -639,6 +669,21 @@
       "title": "Biennale Architettura 2025: GENS Public Programme (Conferences)",
       "href": "https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme-conferences",
       "scraped_date": "2025-05-11T01:46:52.690851+00:00"
+    },
+    {
+      "title": "The Hackathon Platform for Builders - TAIKAI",
+      "href": "https://taikai.network/en/hackathons",
+      "scraped_date": "2025-05-18T01:47:51.903154+00:00"
+    },
+    {
+      "title": "Think Young Hackathons 2025 | eurodesk.it",
+      "href": "https://www.eurodesk.it/notizie/think-young-hackathons-2025",
+      "scraped_date": "2025-05-18T01:48:40.156980+00:00"
+    },
+    {
+      "title": "Vibe Coding Hackathon (June 30, 2025): Overview · Indico",
+      "href": "https://events.cels.anl.gov/event/664/",
+      "scraped_date": "2025-05-18T01:48:57.134856+00:00"
     }
   ],
   "luglio": [
@@ -1061,6 +1106,11 @@
       "title": "Linux Foundation Events",
       "href": "https://events.linuxfoundation.org/",
       "scraped_date": "2025-04-27T01:43:17.902401+00:00"
+    },
+    {
+      "title": "Think Young Hackathons 2025 | eurodesk.it",
+      "href": "https://www.eurodesk.it/notizie/think-young-hackathons-2025",
+      "scraped_date": "2025-05-18T01:48:40.156980+00:00"
     }
   ]
 }
