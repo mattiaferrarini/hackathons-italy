@@ -74,6 +74,11 @@
       "title": "List of gamedev events, conferences (more than 50 events ...",
       "href": "https://ingamejob.com/en/events",
       "scraped_date": "2025-04-13T02:58:13.112480+00:00"
+    },
+    {
+      "title": "Dirac & Rucio mini-workshop and hackathon (16-17 January 2025 ...",
+      "href": "https://indico.cern.ch/event/1443765/overview",
+      "scraped_date": "2025-05-25T01:50:29.379307+00:00"
     }
   ],
   "febbraio": [
@@ -435,6 +440,11 @@
       "title": "Artificial Intelligence Student Society: Hackathon 2025 | University of ...",
       "href": "http://portale.units.it/en/events/artificial-intelligence-student-society-hackathon-2025",
       "scraped_date": "2025-05-18T01:48:30.696203+00:00"
+    },
+    {
+      "title": "EUDIS Defence Hackathon 2025 ITALY – Rete italiana dei Centri di ...",
+      "href": "https://cdeita.it/eudis-defence-hackathon-2025-italy/",
+      "scraped_date": "2025-05-25T01:50:04.669264+00:00"
     }
   ],
   "maggio": [
@@ -597,6 +607,16 @@
       "title": "Appuntamento a Palermo per il Wikimedia Hackathon 2025 ...",
       "href": "https://www.wikimedia.it/news/appuntamento-a-palermo-per-il-wikimedia-hackathon-2025/",
       "scraped_date": "2025-05-18T01:48:53.418887+00:00"
+    },
+    {
+      "title": "SALTO-YOUTH - Social Hackathon Umbria 2025 - SALTO-YOUTH",
+      "href": "https://www.salto-youth.net/tools/european-training-calendar/training/social-hackathon-umbria-2025-3-6-july-in-spello-italy.13479/",
+      "scraped_date": "2025-05-25T01:49:28.335417+00:00"
+    },
+    {
+      "title": "EUDIS Defence Hackathon 2025 ITALY – Rete italiana dei Centri di ...",
+      "href": "https://cdeita.it/eudis-defence-hackathon-2025-italy/",
+      "scraped_date": "2025-05-25T01:50:04.669264+00:00"
     }
   ],
   "giugno": [
@@ -741,6 +761,11 @@
       "title": "#SHU2025 Social Hackathon Umbria 2025 – Digital co-creation ...",
       "href": "https://www.socialhackathonumbria.info/en/",
       "scraped_date": "2025-04-27T01:43:46.800960+00:00"
+    },
+    {
+      "title": "SALTO-YOUTH - Social Hackathon Umbria 2025 - SALTO-YOUTH",
+      "href": "https://www.salto-youth.net/tools/european-training-calendar/training/social-hackathon-umbria-2025-3-6-july-in-spello-italy.13479/",
+      "scraped_date": "2025-05-25T01:49:28.335417+00:00"
     }
   ],
   "agosto": [
@@ -793,6 +818,11 @@
       "title": "Linux Foundation Events",
       "href": "https://events.linuxfoundation.org/",
       "scraped_date": "2025-04-27T01:43:17.902401+00:00"
+    },
+    {
+      "title": "Reserve your spot – ITADATAHack 2025 - Hackathon Online – https ...",
+      "href": "https://www.tickettailor.com/events/opendataplayground/1494183",
+      "scraped_date": "2025-05-25T01:49:45.049299+00:00"
     }
   ],
   "settembre": [
@@ -915,6 +945,11 @@
       "title": "Biennale Architettura 2025: GENS Public Programme (Conferences)",
       "href": "https://www.labiennale.org/en/news/biennale-architettura-2025-gens-public-programme-conferences",
       "scraped_date": "2025-05-11T01:46:52.690851+00:00"
+    },
+    {
+      "title": "Reserve your spot – ITADATAHack 2025 - Hackathon Online – https ...",
+      "href": "https://www.tickettailor.com/events/opendataplayground/1494183",
+      "scraped_date": "2025-05-25T01:49:45.049299+00:00"
     }
   ],
   "ottobre": [
