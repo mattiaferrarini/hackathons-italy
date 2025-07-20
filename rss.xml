@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 13 Jul 2025 02:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 02:02:07 +0000</lastBuildDate>
     <item>
       <title>Think Young Hackathons 2025 | eurodesk.it (dicembre)</title>
       <link>https://www.eurodesk.it/notizie/think-young-hackathons-2025</link>
@@ -496,6 +496,24 @@
       <pubDate>Thu, 06 Mar 2025 13:21:20 +0000</pubDate>
     </item>
     <item>
+      <title>NapulETH - Biggest Web3 Event In Southern Italy (luglio)</title>
+      <link>https://www.napuleth.org/</link>
+      <description>NapulETH - Biggest Web3 Event In Southern Italy</description>
+      <pubDate>Sun, 20 Jul 2025 02:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Materials Hackathon (11-13 July 2025): Overview · Indico (luglio)</title>
+      <link>https://indico.cern.ch/event/1495039/</link>
+      <description>Quantum Materials Hackathon (11-13 July 2025): Overview · Indico</description>
+      <pubDate>Sun, 20 Jul 2025 02:01:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>That's Hackathon: An Opportunity for Young Innovators between ... (luglio)</title>
+      <link>https://spici.eu/en/thats-hackathon-unopportunita-per-giovani-innovatori-tra-italia-e-usa</link>
+      <description>That's Hackathon: An Opportunity for Young Innovators between ...</description>
+      <pubDate>Sun, 20 Jul 2025 02:01:09 +0000</pubDate>
+    </item>
+    <item>
       <title>That's Hackathon: Un'Opportunità per Giovani Innovatori tra Italia e ... (luglio)</title>
       <link>https://spici.eu/thats-hackathon-unopportunita-per-giovani-innovatori-tra-italia-e-usa</link>
       <description>That's Hackathon: Un'Opportunità per Giovani Innovatori tra Italia e ...</description>
@@ -620,6 +638,12 @@
       <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
       <description>Hackathon - March 2025 (Online / Distributed)</description>
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>That's Hackathon: An Opportunity for Young Innovators between ... (giugno)</title>
+      <link>https://spici.eu/en/thats-hackathon-unopportunita-per-giovani-innovatori-tra-italia-e-usa</link>
+      <description>That's Hackathon: An Opportunity for Young Innovators between ...</description>
+      <pubDate>Sun, 20 Jul 2025 02:01:09 +0000</pubDate>
     </item>
     <item>
       <title>That's Hackathon: Un'Opportunità per Giovani Innovatori tra Italia e ... (giugno)</title>
