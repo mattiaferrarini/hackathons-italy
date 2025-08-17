@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 10 Aug 2025 02:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 01:54:34 +0000</lastBuildDate>
     <item>
       <title>Hackathon | Digital meets Culture (dicembre)</title>
       <link>https://www.digitalmeetsculture.net/tag/hackathon/</link>
@@ -292,6 +292,12 @@
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
     </item>
     <item>
+      <title>Future of Food - Hackathon - EIT Food (settembre)</title>
+      <link>https://www.eitfood.eu/events/future-of-food-hackathon</link>
+      <description>Future of Food - Hackathon - EIT Food</description>
+      <pubDate>Sun, 17 Aug 2025 01:53:43 +0000</pubDate>
+    </item>
+    <item>
       <title>FAO Science &amp; Innovation Forum 2025 (settembre)</title>
       <link>https://www.fao.org/science-technology-and-innovation/science-innovation-forum-2025/en</link>
       <description>FAO Science &amp; Innovation Forum 2025</description>
@@ -470,6 +476,18 @@
       <link>https://nf-co.re/events/2025/hackathon-march-2025</link>
       <description>Hackathon - March 2025 (Online / Distributed)</description>
       <pubDate>Thu, 06 Mar 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackathon Open Data 2025: A Resounding Success in Casablanca ... (agosto)</title>
+      <link>https://it.italiatelegraph.com/news-71932</link>
+      <description>Hackathon Open Data 2025: A Resounding Success in Casablanca ...</description>
+      <pubDate>Sun, 17 Aug 2025 01:53:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Future of Food - Hackathon - EIT Food (agosto)</title>
+      <link>https://www.eitfood.eu/events/future-of-food-hackathon</link>
+      <description>Future of Food - Hackathon - EIT Food</description>
+      <pubDate>Sun, 17 Aug 2025 01:53:43 +0000</pubDate>
     </item>
     <item>
       <title>Hackathon | Digital meets Culture (agosto)</title>
@@ -1162,6 +1180,12 @@
       <pubDate>Thu, 06 Mar 2025 13:20:55 +0000</pubDate>
     </item>
     <item>
+      <title>Hackathon Open Data 2025: A Resounding Success in Casablanca ... (aprile)</title>
+      <link>https://it.italiatelegraph.com/news-71932</link>
+      <description>Hackathon Open Data 2025: A Resounding Success in Casablanca ...</description>
+      <pubDate>Sun, 17 Aug 2025 01:53:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Hackathon | Digital meets Culture (aprile)</title>
       <link>https://www.digitalmeetsculture.net/tag/hackathon/</link>
       <description>Hackathon | Digital meets Culture</description>
@@ -1520,6 +1544,12 @@
       <link>https://www.issapulire.com/en/events/hackathon.html</link>
       <description>HACKATHON</description>
       <pubDate>Thu, 06 Mar 2025 13:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Future of Food - Hackathon - EIT Food (febbraio)</title>
+      <link>https://www.eitfood.eu/events/future-of-food-hackathon</link>
+      <description>Future of Food - Hackathon - EIT Food</description>
+      <pubDate>Sun, 17 Aug 2025 01:53:43 +0000</pubDate>
     </item>
     <item>
       <title>Hackathon | Digital meets Culture (febbraio)</title>
