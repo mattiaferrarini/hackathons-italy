@@ -27,6 +27,7 @@ jobs:
       env:
         GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         GOOGLE_CSE_ID: ${{ secrets.GOOGLE_CSE_ID }}
+        MODEL_TOKEN: ${{ secrets.MODEL_TOKEN }}
       run: python scraper.py
 
     - name: Run RSS generator

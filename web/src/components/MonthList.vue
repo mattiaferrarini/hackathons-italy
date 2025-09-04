@@ -33,7 +33,7 @@ export default {
         fetch(`${import.meta.env.BASE_URL}hackathons.json`)
             .then(response => response.json())
             .then(data => {
-                this.hackathonsData = data;
+                this.hackathonsData = this.groupHackathonsByMonth(data);
             })
             .catch(error => {
                 console.error('Error fetching hackathons data:', error);
@@ -75,7 +75,38 @@ export default {
                 console.error('Invalid URL:', url);
                 return url;
             }
-        }
+        },
+        groupHackathonsByMonth(hackathons) {
+            const months = [
+                'gennaio', 'febbraio', 'marzo', 'aprile', 'maggio', 'giugno',
+                'luglio', 'agosto', 'settembre', 'ottobre', 'novembre', 'dicembre'
+            ];
+            const grouped = {};
+            hackathons.forEach(hackathon => {
+                if (!hackathon.starting_date) return;
+                const date = new Date(hackathon.starting_date);
+                const monthIndex = date.getMonth();
+                const year = date.getFullYear();
+                const key = `${months[monthIndex]} ${year}`;
+                if (!grouped[key]) {
+                    grouped[key] = [];
+                }
+                grouped[key].push(hackathon);
+            });
+            // Sort the groups by year and month
+            const sortedKeys = Object.keys(grouped).sort((a, b) => {
+                const [monthA, yearA] = a.split(' ');
+                const [monthB, yearB] = b.split(' ');
+                const dateA = new Date(`${yearA}-${months.indexOf(monthA) + 1}-01`);
+                const dateB = new Date(`${yearB}-${months.indexOf(monthB) + 1}-01`);
+                return dateA - dateB;
+            });
+            const sortedGrouped = {};
+            sortedKeys.forEach(key => {
+                sortedGrouped[key] = grouped[key];
+            });
+            return sortedGrouped;
+        },
     },
     watch: {
         visibleMonth(newMonth) {
