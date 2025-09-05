@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Feed degli hackathon in Italia</title>
+    <link>http://mattiaferrarini.com/hackathons-italy/rss.xml</link>
+    <description>Ultimi hackathon trovati</description>
+    <atom:link href="http://mattiaferrarini.com/hackathons-italy/rss.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>it</language>
+    <lastBuildDate>Fri, 05 Sep 2025 07:12:21 +0000</lastBuildDate>
+    <item>
+      <title>Si aprono le iscrizioni per il primo Hackathon in Italia dedicato a IA e ... (2025-10-25)</title>
+      <link>https://www.fidaf.it/si-aprono-le-iscrizioni-per-il-primo-hackathon-in-italia-dedicato-a-ia-e-neurodivergenza/</link>
+      <description>Inizia il 2025-10-25</description>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Professor Stacy Philpott leads U.S. delegates for “Agri-Young ... (2025-09-26)</title>
+      <link>https://news.ucsc.edu/2024/10/g7-agriculture-meeting/</link>
+      <description>Inizia il 2025-09-26</description>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NOI | HACKATHON | NOI Hackathon SFSCON Edition (2025-11-07)</title>
+      <link>https://hackathon.bz.it/</link>
+      <description>Inizia il 2025-11-07</description>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
