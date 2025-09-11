@@ -82,8 +82,15 @@ export default {
                 'luglio', 'agosto', 'settembre', 'ottobre', 'novembre', 'dicembre'
             ];
             const grouped = {};
+            const noDateKey = 'Data sconosciuta';
             hackathons.forEach(hackathon => {
-                if (!hackathon.starting_date) return;
+                if (!hackathon.starting_date) {
+                    if (!grouped[noDateKey]) {
+                        grouped[noDateKey] = [];
+                    }
+                    grouped[noDateKey].push(hackathon);
+                    return;
+                }
                 const date = new Date(hackathon.starting_date);
                 const monthIndex = date.getMonth();
                 const year = date.getFullYear();
@@ -94,13 +101,18 @@ export default {
                 grouped[key].push(hackathon);
             });
             // Sort the groups by year and month
-            const sortedKeys = Object.keys(grouped).sort((a, b) => {
-                const [monthA, yearA] = a.split(' ');
-                const [monthB, yearB] = b.split(' ');
-                const dateA = new Date(`${yearA}-${months.indexOf(monthA) + 1}-01`);
-                const dateB = new Date(`${yearB}-${months.indexOf(monthB) + 1}-01`);
-                return dateA - dateB;
-            });
+            const sortedKeys = Object.keys(grouped)
+                .filter(key => key !== noDateKey)
+                .sort((a, b) => {
+                    const [monthA, yearA] = a.split(' ');
+                    const [monthB, yearB] = b.split(' ');
+                    const dateA = new Date(`${yearA}-${months.indexOf(monthA) + 1}-01`);
+                    const dateB = new Date(`${yearB}-${months.indexOf(monthB) + 1}-01`);
+                    return dateA - dateB;
+                });
+            if (grouped[noDateKey]) {
+                sortedKeys.push(noDateKey);
+            }
             const sortedGrouped = {};
             sortedKeys.forEach(key => {
                 sortedGrouped[key] = grouped[key];

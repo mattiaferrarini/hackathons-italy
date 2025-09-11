@@ -6,7 +6,7 @@ This project aims to make it easier to discover hackathon opportunities and is n
 
 ## How it works
 
-The `weekly-update` workflow runs weekly to update the data. First, `scraper.py` queries the Custom Search JSON API for "Hackathon Italia", retrieving the first 100 results. The webpages of these results are then fetched and processed by an LLM (`mistral-medium-2505` at the moment) to verify the validity and get the event's starting date. The resulting data is used by `rss_generator.py` to create a `rss.xml` file for the RSS feed. Finally, the Vue website in the `web` directory is built and deployed on GitHub Pages.
+The `weekly-update` workflow runs weekly to update the data. First, `scraper.py` queries the Custom Search JSON API for "Hackathon Italia", retrieving the first 50 results. The webpages of these results are then fetched and processed by an LLM (`mistral-medium-2505` at the moment) to verify the validity and get the event's starting date. The resulting data is used by `rss_generator.py` to create a `rss.xml` file for the RSS feed. Finally, the Vue website in the `web` directory is built and deployed on GitHub Pages.
 
 ## Disclaimers
 

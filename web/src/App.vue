@@ -6,9 +6,9 @@
                 <strong>DISCLAIMER(S):</strong> Questo sito è un semplice 
                 aggregatore automatico di hackathon trovabili online.
                 Il progetto nasce dal desiderio di facilitare la scoperta di eventi e non è in alcun modo affiliato
-                a nessuna organizzazione.
-                Gli eventi elencati sono selezionati dai primi 100 risultati di
-                ricerca con Custom Search JSON API per la query <i>Hackathon Italia</i>
+                ad alcuna organizzazione.
+                Gli eventi sono selezionati dai primi 50 risultati di
+                ricerca con Custom Search JSON API per la query "Hackathon Italia"
                 ed organizzati per mese grazie ad un LLM. 
                 Vista la natura del sistema, ci potrebbero essere errori o omissioni.
             </p>

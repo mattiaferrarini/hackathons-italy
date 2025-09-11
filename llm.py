@@ -9,8 +9,6 @@ token = os.environ.get("MODEL_TOKEN")
 endpoint = "https://models.github.ai/inference"
 model = "mistral-ai/mistral-medium-2505"
 
-client = Mistral(api_key=token, server_url=endpoint)
-
 system_msg = "You are looking for hackathons, competitions and challenges happening in Italy."
 
 user_msg_check = '''
@@ -29,6 +27,8 @@ This is the event's description scraped from the web:
 
 {event}
 '''
+
+client = Mistral(api_key=token, server_url=endpoint)
 
 def is_hackathon_event(event_description):
     response = client.chat.complete(
