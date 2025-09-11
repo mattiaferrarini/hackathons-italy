@@ -10,7 +10,7 @@ import sys
 from llm import extract_hackathon_starting_date
 
 json_file_path = 'web/public/hackathons.json'   # Path to the JSON file where the results are stored
-max_results = 100    # Maximum number of search results to fetch
+max_results = 50    # Maximum number of search results to fetch
 time_cutoff_days = 35  # Number of days to keep hackathons in the JSON file
 current_year = str(datetime.now().year)
 
@@ -109,7 +109,8 @@ def process_results(results):
                     "starting_date": starting_date,
                     "scraped_date": datetime.now(timezone.utc).date().isoformat()
                 })
-        except Exception:
+        except Exception as e:
+            print(f"Could not process {result['href']} because of {e}.")
             not_processed.append(result['title'])
 
     # Return results of processing
