@@ -7,15 +7,16 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 import sys
-from llm import extract_hackathon_starting_date
+from date_extractor import extract_hackathon_starting_date
+from hackathon_checker import is_hackathon_event
 import time
 
 
 JSON_FILE_PATH = 'web/public/hackathons.json'   # Path to the JSON file where the results are stored
-MAX_RESULTS = 50    # Maximum number of search results to fetch
+MAX_RESULTS = 100    # Maximum number of search results to fetch
 TIME_CUTOFF_DAYS = 35  # Number of days to keep hackathons in the JSON file
-REQUEST_PER_MINUTE_LLM = 15 # Number of requests per minute allowed by the LLM API
-
+REQUEST_PER_DAY_LLM = 50  # Number of requests per day allowed by the LLM API
+REQUEST_PER_MINUTE_LLM = 10 # Number of requests per minute allowed by the LLM API
 
 def load_existing_data():
     if os.path.exists(JSON_FILE_PATH):
@@ -108,6 +109,10 @@ def process_results(results):
 
     for index, result in enumerate(results):
         # Respect rate limits of the LLM API
+        if len(hackathons) >= REQUEST_PER_DAY_LLM:
+            print("Reached daily request limit for LLM API.")
+            break
+        
         if index > 0 and index % (REQUEST_PER_MINUTE_LLM // 2 - 1) == 0:
             print("Waiting to respect rate limits...")
             time.sleep(75)
@@ -118,6 +123,12 @@ def process_results(results):
             # Get and parse the hackathon's website
             content = requests.get(result['href'], timeout=20).text
             event_description = parse_hackathon_website(content)
+
+            if not is_hackathon_event(event_description):
+                print("The event is not a hackathon in Italy.")
+                not_processed.append(result['title'])
+                continue
+
             starting_date = extract_hackathon_starting_date(event_description)
             print("The event's starting date is:", starting_date)
 
@@ -161,18 +172,32 @@ if __name__ == '__main__':
         results = fetch_search_results(int(sys.argv[1]))
     else:
         results = fetch_search_results()
+    print(f"Fetched {len(results)} search results.")
+
+    # Load existing data
+    existing_hackathons = load_existing_data()
+    print(f"Loaded {len(existing_hackathons)} existing hackathons from JSON file.")
+
+    # Skip already processed results
+    existing_hrefs = {hackathon['href'] for hackathon in existing_hackathons if hackathon.get('starting_date') is not None}
+    results = [result for result in results if result['href'] not in existing_hrefs]
+    print(f"{len(results)} search results to process after filtering out already processed ones.")
 
     # Process the search results to extract hackathon details
     new_hackathons, not_processed = process_results(results)
-    new_hackathons = filter_old_hackathons(new_hackathons)
 
-    # Load existing data and merge with new data
-    existing_hackathons = load_existing_data()
+    # Merge existing and new data
     all_hackathons = merge_existing_and_new_hackathons(existing_hackathons, new_hackathons)
+
+    # Filter out old hackathons
+    all_hackathons = filter_old_hackathons(all_hackathons)
 
     # Save the updated data back to the JSON file
     with open(JSON_FILE_PATH, 'w') as json_file:
         json.dump(all_hackathons, json_file, indent=2)
 
-    # Print the results
-    print(f"Fetched {len(results)} results, processed {len(results) - len(not_processed)} web pages, added {len(new_hackathons)} new entries to the JSON file.")
+    print(f"Saved {len(all_hackathons)} hackathons to JSON file.")
+    if not_processed:
+        print(f"Could not process {len(not_processed)} events:")
+        for title in not_processed:
+            print(f"- {title}")

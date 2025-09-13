@@ -1,5 +1,6 @@
 annotated-types==0.7.0
 anyio==4.8.0
+azure-ai-inference==1.0.0b9
 azure-core==1.35.0
 beautifulsoup4==4.12.3
 cachetools==5.5.2
