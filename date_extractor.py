@@ -51,7 +51,6 @@ def extract_hackathon_starting_date(event_description):
         json_match = re.search(r'\{[^{}]*"starting_date"[^{}]*\}', content)
         if json_match:
             content = json_match.group(0)
-        print(content)
         result = json.loads(content)
         return result.get("starting_date", None)
     except Exception as e:

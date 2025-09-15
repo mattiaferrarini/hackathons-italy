@@ -43,7 +43,6 @@ def is_hackathon_event(event_description):
         json_match = re.search(r'\{[^{}]*"answer"[^{}]*\}', content)
         if json_match:
             content = json_match.group(0)
-        print(content)
         result = json.loads(content)
         return result.get("answer", False)
     except Exception as e:
