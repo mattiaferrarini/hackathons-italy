@@ -21,7 +21,7 @@
     "title": "HACKATHON",
     "href": "https://www.issapulire.com/en/events/hackathon.html",
     "starting_date": null,
-    "scraped_date": "2025-09-21"
+    "scraped_date": "2025-09-28"
   },
   {
     "title": "Italy, are you ready to hack?! The battle for AI glory begins TODAY at ...",
@@ -39,7 +39,7 @@
     "title": "Italy Code Week Hackathon 2023",
     "href": "https://eventornado.com/event/italy-code-week-hackathon-2023",
     "starting_date": null,
-    "scraped_date": "2025-09-21"
+    "scraped_date": "2025-09-28"
   },
   {
     "title": "andItalia/And_Hackathon: Getting started with Sanbot - GitHub",
@@ -81,12 +81,36 @@
     "title": "#HackCultura2024, l'Hackathon delle studentesse e degli studenti ...",
     "href": "https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
     "starting_date": null,
-    "scraped_date": "2025-09-21"
+    "scraped_date": "2025-09-28"
   },
   {
     "title": "Hackathons - Future Food Institute",
     "href": "https://futurefoodinstitute.org/it/news-events/hackathons/",
     "starting_date": null,
-    "scraped_date": "2025-09-21"
+    "scraped_date": "2025-09-28"
+  },
+  {
+    "title": "Expression of Interest \u2013 EAA Hackathon 2025, Rome - EAA ...",
+    "href": "https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/",
+    "starting_date": null,
+    "scraped_date": "2025-09-28"
+  },
+  {
+    "title": "Home - Italy-Croatia - Regione Veneto",
+    "href": "https://www.italy-croatia.eu/",
+    "starting_date": "2025-10-08",
+    "scraped_date": "2025-09-28"
+  },
+  {
+    "title": "Hackathon e Challenges | Agenzia Spaziale Italiana",
+    "href": "https://www.asi.it/hackathon-challenges/",
+    "starting_date": "2025-09-26",
+    "scraped_date": "2025-09-28"
+  },
+  {
+    "title": "Blockchain Italia team wins ETH Rome - Blockchain Italia",
+    "href": "https://www.blockchainitalia.io/blockchain-italia-team-wins-eth-rome/",
+    "starting_date": null,
+    "scraped_date": "2025-09-28"
   }
 ]
