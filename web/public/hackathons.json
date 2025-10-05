@@ -21,7 +21,7 @@
     "title": "HACKATHON",
     "href": "https://www.issapulire.com/en/events/hackathon.html",
     "starting_date": null,
-    "scraped_date": "2025-09-28"
+    "scraped_date": "2025-10-05"
   },
   {
     "title": "Italy, are you ready to hack?! The battle for AI glory begins TODAY at ...",
@@ -39,7 +39,7 @@
     "title": "Italy Code Week Hackathon 2023",
     "href": "https://eventornado.com/event/italy-code-week-hackathon-2023",
     "starting_date": null,
-    "scraped_date": "2025-09-28"
+    "scraped_date": "2025-10-05"
   },
   {
     "title": "andItalia/And_Hackathon: Getting started with Sanbot - GitHub",
@@ -81,19 +81,13 @@
     "title": "#HackCultura2024, l'Hackathon delle studentesse e degli studenti ...",
     "href": "https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
     "starting_date": null,
-    "scraped_date": "2025-09-28"
+    "scraped_date": "2025-10-05"
   },
   {
     "title": "Hackathons - Future Food Institute",
     "href": "https://futurefoodinstitute.org/it/news-events/hackathons/",
     "starting_date": null,
-    "scraped_date": "2025-09-28"
-  },
-  {
-    "title": "Expression of Interest \u2013 EAA Hackathon 2025, Rome - EAA ...",
-    "href": "https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/",
-    "starting_date": null,
-    "scraped_date": "2025-09-28"
+    "scraped_date": "2025-10-05"
   },
   {
     "title": "Home - Italy-Croatia - Regione Veneto",
@@ -111,6 +105,18 @@
     "title": "Blockchain Italia team wins ETH Rome - Blockchain Italia",
     "href": "https://www.blockchainitalia.io/blockchain-italia-team-wins-eth-rome/",
     "starting_date": null,
-    "scraped_date": "2025-09-28"
+    "scraped_date": "2025-10-05"
+  },
+  {
+    "title": "Appuntamento a Palermo per il Wikimedia Hackathon 2025 ...",
+    "href": "https://www.wikimedia.it/news/appuntamento-a-palermo-per-il-wikimedia-hackathon-2025/",
+    "starting_date": null,
+    "scraped_date": "2025-10-05"
+  },
+  {
+    "title": "HACKATHON IA E NEURODIVERGENZA: potenziare l'efficacia sul ...",
+    "href": "https://www.takethedate.it/tutti-gli-eventi/Eventi/47871-hackathon-ia-e-neurodivergenza-potenziare-l-efficacia-sul-lavoro-con-l-intelligenza-artificiale.html",
+    "starting_date": "2025-10-25",
+    "scraped_date": "2025-10-05"
   }
 ]
