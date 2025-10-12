@@ -21,13 +21,7 @@
     "title": "HACKATHON",
     "href": "https://www.issapulire.com/en/events/hackathon.html",
     "starting_date": null,
-    "scraped_date": "2025-10-05"
-  },
-  {
-    "title": "Italy, are you ready to hack?! The battle for AI glory begins TODAY at ...",
-    "href": "https://www.linkedin.com/posts/lablab-ai_italy-are-you-ready-to-hack-the-battle-activity-7268266114369945601-MKYR",
-    "starting_date": "2025-09-01",
-    "scraped_date": "2025-09-21"
+    "scraped_date": "2025-10-12"
   },
   {
     "title": "Si aprono le iscrizioni per il primo Hackathon in Italia dedicato a IA e ...",
@@ -69,7 +63,7 @@
     "title": "#innovazione #eurocaritalia #hackathon #sdabocconi #mba ...",
     "href": "https://it.linkedin.com/posts/eurocaritalias.r.l_innovazione-eurocaritalia-hackathon-activity-7199038222507638785-RYmf",
     "starting_date": null,
-    "scraped_date": "2025-09-15"
+    "scraped_date": "2025-10-12"
   },
   {
     "title": "EGD Rome, Italy | Changemakers",
@@ -81,13 +75,13 @@
     "title": "#HackCultura2024, l'Hackathon delle studentesse e degli studenti ...",
     "href": "https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
     "starting_date": null,
-    "scraped_date": "2025-10-05"
+    "scraped_date": "2025-10-12"
   },
   {
     "title": "Hackathons - Future Food Institute",
     "href": "https://futurefoodinstitute.org/it/news-events/hackathons/",
     "starting_date": null,
-    "scraped_date": "2025-10-05"
+    "scraped_date": "2025-10-12"
   },
   {
     "title": "Home - Italy-Croatia - Regione Veneto",
@@ -118,5 +112,41 @@
     "href": "https://www.takethedate.it/tutti-gli-eventi/Eventi/47871-hackathon-ia-e-neurodivergenza-potenziare-l-efficacia-sul-lavoro-con-l-intelligenza-artificiale.html",
     "starting_date": "2025-10-25",
     "scraped_date": "2025-10-05"
+  },
+  {
+    "title": "EUDIS Hackathon and Mentorship - ITALY Autumn by EUDIS ...",
+    "href": "https://taikai.network/en/eudisITALY/hackathons/italy/overview",
+    "starting_date": "2025-10-17",
+    "scraped_date": "2025-10-12"
+  },
+  {
+    "title": "Italy, are you ready to hack?! The battle for AI glory begins TODAY at ...",
+    "href": "https://www.linkedin.com/posts/lablab-ai_italy-are-you-ready-to-hack-the-battle-activity-7268266114369945601-MKYR",
+    "starting_date": null,
+    "scraped_date": "2025-10-12"
+  },
+  {
+    "title": "Join MLSysOps Project Hackathon in Italy for AI and systems ...",
+    "href": "https://www.linkedin.com/posts/mlsysops_september-rende-innovation-activity-7353327205248036865-ybhm",
+    "starting_date": "2025-09-26",
+    "scraped_date": "2025-10-12"
+  },
+  {
+    "title": "XRPL Hackathons | XRPL Commons",
+    "href": "https://xrpl-commons.org/build/hackathons",
+    "starting_date": "2025-10-16",
+    "scraped_date": "2025-10-12"
+  },
+  {
+    "title": "XRPL Hackathons | XRPL Commons",
+    "href": "https://xrpl-commons.org/build/hackathons",
+    "starting_date": "2025-10-16",
+    "scraped_date": "2025-10-12"
+  },
+  {
+    "title": "EIT Health i-Days 2025: l'Hackathon di SYNLAB - Synlab Italia",
+    "href": "https://www.synlab.it/news/novit%C3%A0/idays2025.html",
+    "starting_date": "2025-11-05",
+    "scraped_date": "2025-10-12"
   }
 ]
