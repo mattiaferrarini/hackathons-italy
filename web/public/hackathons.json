@@ -21,7 +21,7 @@
     "title": "HACKATHON",
     "href": "https://www.issapulire.com/en/events/hackathon.html",
     "starting_date": null,
-    "scraped_date": "2025-10-12"
+    "scraped_date": "2025-10-19"
   },
   {
     "title": "Si aprono le iscrizioni per il primo Hackathon in Italia dedicato a IA e ...",
@@ -33,7 +33,7 @@
     "title": "Italy Code Week Hackathon 2023",
     "href": "https://eventornado.com/event/italy-code-week-hackathon-2023",
     "starting_date": null,
-    "scraped_date": "2025-10-05"
+    "scraped_date": "2025-10-19"
   },
   {
     "title": "andItalia/And_Hackathon: Getting started with Sanbot - GitHub",
@@ -75,13 +75,13 @@
     "title": "#HackCultura2024, l'Hackathon delle studentesse e degli studenti ...",
     "href": "https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
     "starting_date": null,
-    "scraped_date": "2025-10-12"
+    "scraped_date": "2025-10-19"
   },
   {
     "title": "Hackathons - Future Food Institute",
     "href": "https://futurefoodinstitute.org/it/news-events/hackathons/",
     "starting_date": null,
-    "scraped_date": "2025-10-12"
+    "scraped_date": "2025-10-19"
   },
   {
     "title": "Home - Italy-Croatia - Regione Veneto",
@@ -105,7 +105,7 @@
     "title": "Appuntamento a Palermo per il Wikimedia Hackathon 2025 ...",
     "href": "https://www.wikimedia.it/news/appuntamento-a-palermo-per-il-wikimedia-hackathon-2025/",
     "starting_date": null,
-    "scraped_date": "2025-10-05"
+    "scraped_date": "2025-10-19"
   },
   {
     "title": "HACKATHON IA E NEURODIVERGENZA: potenziare l'efficacia sul ...",
@@ -138,15 +138,21 @@
     "scraped_date": "2025-10-12"
   },
   {
-    "title": "XRPL Hackathons | XRPL Commons",
-    "href": "https://xrpl-commons.org/build/hackathons",
-    "starting_date": "2025-10-16",
-    "scraped_date": "2025-10-12"
-  },
-  {
     "title": "EIT Health i-Days 2025: l'Hackathon di SYNLAB - Synlab Italia",
     "href": "https://www.synlab.it/news/novit%C3%A0/idays2025.html",
     "starting_date": "2025-11-05",
     "scraped_date": "2025-10-12"
+  },
+  {
+    "title": "Expression of Interest \u2013 EAA Hackathon 2025, Rome - EAA ...",
+    "href": "https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/",
+    "starting_date": null,
+    "scraped_date": "2025-10-19"
+  },
+  {
+    "title": "2nd AI-INFN Advanced Hackathon (24-27 November 2025 ...",
+    "href": "https://agenda.infn.it/event/47736/",
+    "starting_date": "2025-11-24",
+    "scraped_date": "2025-10-19"
   }
 ]
