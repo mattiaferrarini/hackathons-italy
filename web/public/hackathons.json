@@ -21,7 +21,7 @@
     "title": "HACKATHON",
     "href": "https://www.issapulire.com/en/events/hackathon.html",
     "starting_date": null,
-    "scraped_date": "2025-10-19"
+    "scraped_date": "2025-10-26"
   },
   {
     "title": "Si aprono le iscrizioni per il primo Hackathon in Italia dedicato a IA e ...",
@@ -39,12 +39,6 @@
     "title": "andItalia/And_Hackathon: Getting started with Sanbot - GitHub",
     "href": "https://github.com/andItalia/And_Hackathon",
     "starting_date": null,
-    "scraped_date": "2025-09-15"
-  },
-  {
-    "title": "TIGER Service Hackathons for Senior & Remote Care Solutions",
-    "href": "https://tigerpath.eu/hackathon/",
-    "starting_date": "2025-09-16",
     "scraped_date": "2025-09-15"
   },
   {
@@ -75,13 +69,13 @@
     "title": "#HackCultura2024, l'Hackathon delle studentesse e degli studenti ...",
     "href": "https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
     "starting_date": null,
-    "scraped_date": "2025-10-19"
+    "scraped_date": "2025-10-26"
   },
   {
     "title": "Hackathons - Future Food Institute",
     "href": "https://futurefoodinstitute.org/it/news-events/hackathons/",
     "starting_date": null,
-    "scraped_date": "2025-10-19"
+    "scraped_date": "2025-10-26"
   },
   {
     "title": "Home - Italy-Croatia - Regione Veneto",
@@ -144,15 +138,45 @@
     "scraped_date": "2025-10-12"
   },
   {
-    "title": "Expression of Interest \u2013 EAA Hackathon 2025, Rome - EAA ...",
-    "href": "https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/",
-    "starting_date": null,
-    "scraped_date": "2025-10-19"
-  },
-  {
     "title": "2nd AI-INFN Advanced Hackathon (24-27 November 2025 ...",
     "href": "https://agenda.infn.it/event/47736/",
     "starting_date": "2025-11-24",
     "scraped_date": "2025-10-19"
+  },
+  {
+    "title": "TIGER Service Hackathons for Senior & Remote Care Solutions",
+    "href": "https://tigerpath.eu/hackathon/",
+    "starting_date": "2026-03-01",
+    "scraped_date": "2025-10-26"
+  },
+  {
+    "title": "lorenzopalaia/Euro-Hackathons: An up-to-date platform ... - GitHub",
+    "href": "https://github.com/lorenzopalaia/Euro-Hackathons",
+    "starting_date": null,
+    "scraped_date": "2025-10-26"
+  },
+  {
+    "title": "NASA International Space Apps Challenge 2025 - Turin, Italy | ESA ...",
+    "href": "https://www.esabic-turin.it/news-and-events/nasa-international-space-apps-challenge-2025-turin-italy",
+    "starting_date": "2025-10-04",
+    "scraped_date": "2025-10-26"
+  },
+  {
+    "title": "EIT Health i-Days 2025: l'Hackathon di SYNLAB - Synlab Italia",
+    "href": "https://synlab.it/news/novit%C3%A0/idays2025.html",
+    "starting_date": "2025-11-05",
+    "scraped_date": "2025-10-26"
+  },
+  {
+    "title": "Hack For Food, Hack For Good \u2013 Milan, Italy | FEAST",
+    "href": "https://feast2030.eu/research-activities/hackathon/milan",
+    "starting_date": null,
+    "scraped_date": "2025-10-26"
+  },
+  {
+    "title": "Hackathon in Italia",
+    "href": "https://it.allhackathons.com/",
+    "starting_date": null,
+    "scraped_date": "2025-10-26"
   }
 ]
