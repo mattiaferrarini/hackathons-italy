@@ -12,16 +12,10 @@
     "scraped_date": "2025-09-15"
   },
   {
-    "title": "Professor Stacy Philpott leads U.S. delegates for \u201cAgri-Young ...",
-    "href": "https://news.ucsc.edu/2024/10/g7-agriculture-meeting/",
-    "starting_date": "2025-09-26",
-    "scraped_date": "2025-09-15"
-  },
-  {
     "title": "HACKATHON",
     "href": "https://www.issapulire.com/en/events/hackathon.html",
     "starting_date": null,
-    "scraped_date": "2025-10-26"
+    "scraped_date": "2025-11-02"
   },
   {
     "title": "Si aprono le iscrizioni per il primo Hackathon in Italia dedicato a IA e ...",
@@ -69,24 +63,18 @@
     "title": "#HackCultura2024, l'Hackathon delle studentesse e degli studenti ...",
     "href": "https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
     "starting_date": null,
-    "scraped_date": "2025-10-26"
+    "scraped_date": "2025-11-02"
   },
   {
     "title": "Hackathons - Future Food Institute",
     "href": "https://futurefoodinstitute.org/it/news-events/hackathons/",
     "starting_date": null,
-    "scraped_date": "2025-10-26"
+    "scraped_date": "2025-11-02"
   },
   {
     "title": "Home - Italy-Croatia - Regione Veneto",
     "href": "https://www.italy-croatia.eu/",
     "starting_date": "2025-10-08",
-    "scraped_date": "2025-09-28"
-  },
-  {
-    "title": "Hackathon e Challenges | Agenzia Spaziale Italiana",
-    "href": "https://www.asi.it/hackathon-challenges/",
-    "starting_date": "2025-09-26",
     "scraped_date": "2025-09-28"
   },
   {
@@ -120,12 +108,6 @@
     "scraped_date": "2025-10-12"
   },
   {
-    "title": "Join MLSysOps Project Hackathon in Italy for AI and systems ...",
-    "href": "https://www.linkedin.com/posts/mlsysops_september-rende-innovation-activity-7353327205248036865-ybhm",
-    "starting_date": "2025-09-26",
-    "scraped_date": "2025-10-12"
-  },
-  {
     "title": "XRPL Hackathons | XRPL Commons",
     "href": "https://xrpl-commons.org/build/hackathons",
     "starting_date": "2025-10-16",
@@ -152,8 +134,8 @@
   {
     "title": "lorenzopalaia/Euro-Hackathons: An up-to-date platform ... - GitHub",
     "href": "https://github.com/lorenzopalaia/Euro-Hackathons",
-    "starting_date": null,
-    "scraped_date": "2025-10-26"
+    "starting_date": "2025-11-01",
+    "scraped_date": "2025-11-02"
   },
   {
     "title": "NASA International Space Apps Challenge 2025 - Turin, Italy | ESA ...",
@@ -171,12 +153,36 @@
     "title": "Hack For Food, Hack For Good \u2013 Milan, Italy | FEAST",
     "href": "https://feast2030.eu/research-activities/hackathon/milan",
     "starting_date": null,
-    "scraped_date": "2025-10-26"
+    "scraped_date": "2025-11-02"
   },
   {
     "title": "Hackathon in Italia",
     "href": "https://it.allhackathons.com/",
     "starting_date": null,
-    "scraped_date": "2025-10-26"
+    "scraped_date": "2025-11-02"
+  },
+  {
+    "title": "Expression of Interest \u2013 EAA Hackathon 2025, Rome - EAA ...",
+    "href": "https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/",
+    "starting_date": null,
+    "scraped_date": "2025-11-02"
+  },
+  {
+    "title": "Teams hacked. Mentors guided. Visions took shape. On Day 2, the ...",
+    "href": "https://www.facebook.com/fondazioneamaldi/videos/-teams-hacked-mentors-guided-visions-took-shapeon-day-2-the-eudis-hackathon-turn/1136981654728092/",
+    "starting_date": null,
+    "scraped_date": "2025-11-02"
+  },
+  {
+    "title": "Hackathon e Challenges | Agenzia Spaziale Italiana",
+    "href": "https://www.asi.it/hackathon-challenges/",
+    "starting_date": null,
+    "scraped_date": "2025-11-02"
+  },
+  {
+    "title": "#hack2grow #hackathon #accenture #innovation #talent | Accenture ...",
+    "href": "https://it.linkedin.com/posts/accenture-italia_hack2grow-hackathon-accenture-activity-6524670845703512064-v_P2",
+    "starting_date": null,
+    "scraped_date": "2025-11-02"
   }
 ]
