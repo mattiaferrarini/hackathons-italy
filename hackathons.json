@@ -15,7 +15,7 @@
     "title": "HACKATHON",
     "href": "https://www.issapulire.com/en/events/hackathon.html",
     "starting_date": null,
-    "scraped_date": "2025-11-09"
+    "scraped_date": "2025-11-16"
   },
   {
     "title": "Si aprono le iscrizioni per il primo Hackathon in Italia dedicato a IA e ...",
@@ -63,19 +63,13 @@
     "title": "#HackCultura2024, l'Hackathon delle studentesse e degli studenti ...",
     "href": "https://www.diculther.it/hackcultura2023-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
     "starting_date": null,
-    "scraped_date": "2025-11-02"
+    "scraped_date": "2025-11-16"
   },
   {
     "title": "Hackathons - Future Food Institute",
     "href": "https://futurefoodinstitute.org/it/news-events/hackathons/",
     "starting_date": null,
-    "scraped_date": "2025-11-09"
-  },
-  {
-    "title": "Home - Italy-Croatia - Regione Veneto",
-    "href": "https://www.italy-croatia.eu/",
-    "starting_date": "2025-10-08",
-    "scraped_date": "2025-09-28"
+    "scraped_date": "2025-11-16"
   },
   {
     "title": "Blockchain Italia team wins ETH Rome - Blockchain Italia",
@@ -147,13 +141,13 @@
     "title": "Hack For Food, Hack For Good \u2013 Milan, Italy | FEAST",
     "href": "https://feast2030.eu/research-activities/hackathon/milan",
     "starting_date": null,
-    "scraped_date": "2025-11-09"
+    "scraped_date": "2025-11-16"
   },
   {
     "title": "Hackathon in Italia",
     "href": "https://it.allhackathons.com/",
     "starting_date": null,
-    "scraped_date": "2025-11-09"
+    "scraped_date": "2025-11-16"
   },
   {
     "title": "Teams hacked. Mentors guided. Visions took shape. On Day 2, the ...",
@@ -165,7 +159,7 @@
     "title": "Hackathon e Challenges | Agenzia Spaziale Italiana",
     "href": "https://www.asi.it/hackathon-challenges/",
     "starting_date": null,
-    "scraped_date": "2025-11-02"
+    "scraped_date": "2025-11-16"
   },
   {
     "title": "#hack2grow #hackathon #accenture #innovation #talent | Accenture ...",
@@ -183,6 +177,24 @@
     "title": "HackCultura2025, l'hackathon delle studentesse e degli studenti per ...",
     "href": "https://www.diculther.it/hackcultura2025-lhackathon-delle-studentesse-e-degli-studenti-per-la-titolarita-culturale/",
     "starting_date": null,
-    "scraped_date": "2025-11-09"
+    "scraped_date": "2025-11-16"
+  },
+  {
+    "title": "Wikimedia Hackathon 2026",
+    "href": "https://pretix.eu/wikimedia/Hackathon-2026/",
+    "starting_date": "2026-05-01",
+    "scraped_date": "2025-11-16"
+  },
+  {
+    "title": "EU Code Week Hackathon Italy 2025 is here! / \u00c8 arrivato l'EU Code ...",
+    "href": "https://www.facebook.com/codeEU/posts/-eu-code-week-hackathon-italy-2025-is-here-%C3%A8-arrivato-leu-code-week-hackathon-it/1139069891696356/",
+    "starting_date": null,
+    "scraped_date": "2025-11-16"
+  },
+  {
+    "title": "Expression of Interest \u2013 EAA Hackathon 2025, Rome - EAA ...",
+    "href": "https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/",
+    "starting_date": null,
+    "scraped_date": "2025-11-16"
   }
 ]
