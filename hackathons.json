@@ -15,7 +15,7 @@
     "title": "HACKATHON",
     "href": "https://www.issapulire.com/en/events/hackathon.html",
     "starting_date": null,
-    "scraped_date": "2025-11-16"
+    "scraped_date": "2025-11-23"
   },
   {
     "title": "Si aprono le iscrizioni per il primo Hackathon in Italia dedicato a IA e ...",
@@ -69,7 +69,7 @@
     "title": "Hackathons - Future Food Institute",
     "href": "https://futurefoodinstitute.org/it/news-events/hackathons/",
     "starting_date": null,
-    "scraped_date": "2025-11-16"
+    "scraped_date": "2025-11-23"
   },
   {
     "title": "Blockchain Italia team wins ETH Rome - Blockchain Italia",
@@ -90,21 +90,9 @@
     "scraped_date": "2025-10-05"
   },
   {
-    "title": "EUDIS Hackathon and Mentorship - ITALY Autumn by EUDIS ...",
-    "href": "https://taikai.network/en/eudisITALY/hackathons/italy/overview",
-    "starting_date": "2025-10-17",
-    "scraped_date": "2025-10-12"
-  },
-  {
     "title": "Italy, are you ready to hack?! The battle for AI glory begins TODAY at ...",
     "href": "https://www.linkedin.com/posts/lablab-ai_italy-are-you-ready-to-hack-the-battle-activity-7268266114369945601-MKYR",
     "starting_date": null,
-    "scraped_date": "2025-10-12"
-  },
-  {
-    "title": "XRPL Hackathons | XRPL Commons",
-    "href": "https://xrpl-commons.org/build/hackathons",
-    "starting_date": "2025-10-16",
     "scraped_date": "2025-10-12"
   },
   {
@@ -147,7 +135,7 @@
     "title": "Hackathon in Italia",
     "href": "https://it.allhackathons.com/",
     "starting_date": null,
-    "scraped_date": "2025-11-16"
+    "scraped_date": "2025-11-23"
   },
   {
     "title": "Teams hacked. Mentors guided. Visions took shape. On Day 2, the ...",
@@ -159,7 +147,7 @@
     "title": "Hackathon e Challenges | Agenzia Spaziale Italiana",
     "href": "https://www.asi.it/hackathon-challenges/",
     "starting_date": null,
-    "scraped_date": "2025-11-16"
+    "scraped_date": "2025-11-23"
   },
   {
     "title": "#hack2grow #hackathon #accenture #innovation #talent | Accenture ...",
@@ -189,12 +177,18 @@
     "title": "EU Code Week Hackathon Italy 2025 is here! / \u00c8 arrivato l'EU Code ...",
     "href": "https://www.facebook.com/codeEU/posts/-eu-code-week-hackathon-italy-2025-is-here-%C3%A8-arrivato-leu-code-week-hackathon-it/1139069891696356/",
     "starting_date": null,
-    "scraped_date": "2025-11-16"
+    "scraped_date": "2025-11-23"
   },
   {
     "title": "Expression of Interest \u2013 EAA Hackathon 2025, Rome - EAA ...",
     "href": "https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/",
     "starting_date": null,
-    "scraped_date": "2025-11-16"
+    "scraped_date": "2025-11-23"
+  },
+  {
+    "title": "Opening Ceremony: Hackathon Competition \"BluesLinks\" Project",
+    "href": "https://en.ecomondo.com/en/event-detail/Opening%20Ceremony%20Hackathon%20Competition%20BluesLinks%20Project?eventId=4818941",
+    "starting_date": "2025-11-06",
+    "scraped_date": "2025-11-23"
   }
 ]
