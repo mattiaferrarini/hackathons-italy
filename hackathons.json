@@ -1,17 +1,5 @@
 [
   {
-    "title": "NOI | HACKATHON | NOI Hackathon SFSCON Edition",
-    "href": "https://hackathon.bz.it/",
-    "starting_date": "2025-11-07",
-    "scraped_date": "2025-09-15"
-  },
-  {
-    "title": "10th CASSINI Hackathon | Italy | EU Space for Consumer Experience",
-    "href": "https://www.cassini.eu/hackathons/Italy",
-    "starting_date": "2025-11-07",
-    "scraped_date": "2025-09-15"
-  },
-  {
     "title": "HACKATHON",
     "href": "https://www.issapulire.com/en/events/hackathon.html",
     "starting_date": null,
@@ -72,12 +60,6 @@
     "scraped_date": "2025-10-12"
   },
   {
-    "title": "EIT Health i-Days 2025: l'Hackathon di SYNLAB - Synlab Italia",
-    "href": "https://www.synlab.it/news/novit%C3%A0/idays2025.html",
-    "starting_date": "2025-11-05",
-    "scraped_date": "2025-10-12"
-  },
-  {
     "title": "2nd AI-INFN Advanced Hackathon (24-27 November 2025 ...",
     "href": "https://agenda.infn.it/event/47736/",
     "starting_date": "2025-11-24",
@@ -87,12 +69,6 @@
     "title": "TIGER Service Hackathons for Senior & Remote Care Solutions",
     "href": "https://tigerpath.eu/hackathon/",
     "starting_date": "2026-03-01",
-    "scraped_date": "2025-10-26"
-  },
-  {
-    "title": "EIT Health i-Days 2025: l'Hackathon di SYNLAB - Synlab Italia",
-    "href": "https://synlab.it/news/novit%C3%A0/idays2025.html",
-    "starting_date": "2025-11-05",
     "scraped_date": "2025-10-26"
   },
   {
@@ -142,12 +118,6 @@
     "href": "https://eaa-online.org/congress-2025/expression-of-interest-eaa-hackathon-2025-rome/",
     "starting_date": null,
     "scraped_date": "2025-11-30"
-  },
-  {
-    "title": "Opening Ceremony: Hackathon Competition \"BluesLinks\" Project",
-    "href": "https://en.ecomondo.com/en/event-detail/Opening%20Ceremony%20Hackathon%20Competition%20BluesLinks%20Project?eventId=4818941",
-    "starting_date": "2025-11-06",
-    "scraped_date": "2025-11-23"
   },
   {
     "title": "Join the Hackathon: Inclusive Tourism for Everyone",
