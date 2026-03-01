@@ -28,7 +28,7 @@ mistralai==1.9.10
 mypy-extensions==1.0.0
 primp==0.9.2
 proto-plus==1.26.0
-protobuf==5.29.5
+protobuf==5.29.6
 pyasn1==0.6.2
 pyasn1_modules==0.4.1
 pydantic==2.10.6
