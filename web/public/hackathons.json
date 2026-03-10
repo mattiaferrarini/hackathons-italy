@@ -118,5 +118,77 @@
     "href": "https://xrpl-commons.org/build/hackathons",
     "starting_date": null,
     "scraped_date": "2025-11-30"
+  },
+  {
+    "title": "NOI | HACKATHON",
+    "href": "https://hackathon.bz.it/",
+    "starting_date": "2026-07-31",
+    "scraped_date": "2026-03-10"
+  },
+  {
+    "title": "11th CASSINI Hackathon | Italy | EU Space for Water",
+    "href": "https://www.cassini.eu/hackathons/Italy",
+    "starting_date": "2026-04-24",
+    "scraped_date": "2026-03-10"
+  },
+  {
+    "title": "EUDIS Hackathon and Mentorship - ITALY Autumn - Taikai.network",
+    "href": "https://taikai.network/en/eudisITALY/hackathons/italy/overview",
+    "starting_date": "2026-09-01",
+    "scraped_date": "2026-03-10"
+  },
+  {
+    "title": "Discover Hackathon Events & Activities in Italy - Eventbrite",
+    "href": "https://www.eventbrite.com/d/italy/hackathon/",
+    "starting_date": "2026-03-24",
+    "scraped_date": "2026-03-10"
+  },
+  {
+    "title": "EUDIS Hackathon Sparks Innovation in Europe's Defence Sector",
+    "href": "https://defence-industry-space.ec.europa.eu/eudis-hackathon-sparks-innovation-europes-defence-sector-2024-06-26_en",
+    "starting_date": "2026-05-31",
+    "scraped_date": "2026-03-10"
+  },
+  {
+    "title": "Award winners at Microsoft Italy's AI for Inclusion Hackathon",
+    "href": "https://cloudiaresearch.com/award-winners-at-microsoft-italys-ai-for-inclusion-hackathon/?lang=en",
+    "starting_date": "2026-05-30",
+    "scraped_date": "2026-03-10"
+  },
+  {
+    "title": "Lara S\u00f6zer's Post - LinkedIn",
+    "href": "https://www.linkedin.com/posts/larasozer_this-weekend-i-participated-in-a-hackathon-activity-7388542228790648832-NjCf",
+    "starting_date": null,
+    "scraped_date": "2026-03-10"
+  },
+  {
+    "title": "Professor Stacy Philpott leads U.S. delegates for \u201cAgri-Young ...",
+    "href": "https://news.ucsc.edu/2024/10/g7-agriculture-meeting/",
+    "starting_date": "2026-09-26",
+    "scraped_date": "2026-03-10"
+  },
+  {
+    "title": "GitHub - lorenzopalaia/HackTrack-EU: An up-to-date platform listing ...",
+    "href": "https://github.com/lorenzopalaia/HackTrack-EU",
+    "starting_date": "2026-03-11",
+    "scraped_date": "2026-03-10"
+  },
+  {
+    "title": "Il Wikimedia Hackathon 2026 arriva a Milano",
+    "href": "https://www.wikimedia.it/news/il-wikimedia-hackathon-2026-arriva-a-milano/",
+    "starting_date": null,
+    "scraped_date": "2026-03-10"
+  },
+  {
+    "title": "#Progettiamo un Hackathon nella storia e nelle piazze - Scuola futura",
+    "href": "https://scuolafutura.pubblica.istruzione.it/-progettiamo-un-hackathon-nella-storia-e-nelle-piazze",
+    "starting_date": "2026-02-26",
+    "scraped_date": "2026-03-10"
+  },
+  {
+    "title": "Un hackathon per dare vita alle idee - Media INAF",
+    "href": "https://www.media.inaf.it/2021/05/11/eu-code-week-hackathon/",
+    "starting_date": "2026-05-07",
+    "scraped_date": "2026-03-10"
   }
 ]
