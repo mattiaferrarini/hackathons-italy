@@ -132,12 +132,13 @@ def process_results(results):
             starting_date = extract_hackathon_starting_date(event_description)
             print("The event's starting date is:", starting_date)
 
-            hackathons.append({
-                "title": result['title'],
-                "href": result['href'],
-                "starting_date": starting_date,
-                "scraped_date": datetime.now(timezone.utc).date().isoformat()
-            })
+            if starting_date is not None:
+                hackathons.append({
+                    "title": result['title'],
+                    "href": result['href'],
+                    "starting_date": starting_date,
+                    "scraped_date": datetime.now(timezone.utc).date().isoformat()
+                })
         except Exception as e:
             print(f"Could not process {result['href']} because of {e}.")
             not_processed.append(result['title'])
