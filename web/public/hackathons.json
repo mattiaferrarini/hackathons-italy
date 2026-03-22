@@ -214,5 +214,17 @@
     "href": "https://www.leonardo.com/en/careers/students-and-graduates",
     "starting_date": "2026-04-18",
     "scraped_date": "2026-03-15"
+  },
+  {
+    "title": "Hackathon in Italia",
+    "href": "https://it.allhackathons.com/",
+    "starting_date": "2026-05-08",
+    "scraped_date": "2026-03-22"
+  },
+  {
+    "title": "NEED NEXT HACKATHON - Master Italy",
+    "href": "https://www.masteritaly.com/need-next-hackathon-innoviamo-e-costruiamo-le-finestre-del-futuro/",
+    "starting_date": "2026-10-23",
+    "scraped_date": "2026-03-22"
   }
 ]
