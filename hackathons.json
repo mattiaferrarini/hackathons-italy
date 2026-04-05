@@ -60,12 +60,6 @@
     "scraped_date": "2025-10-12"
   },
   {
-    "title": "TIGER Service Hackathons for Senior & Remote Care Solutions",
-    "href": "https://tigerpath.eu/hackathon/",
-    "starting_date": "2026-03-01",
-    "scraped_date": "2025-10-26"
-  },
-  {
     "title": "Hack For Food, Hack For Good \u2013 Milan, Italy | FEAST",
     "href": "https://feast2030.eu/research-activities/hackathon/milan",
     "starting_date": null,
@@ -180,12 +174,6 @@
     "scraped_date": "2026-03-10"
   },
   {
-    "title": "#Progettiamo un Hackathon nella storia e nelle piazze - Scuola futura",
-    "href": "https://scuolafutura.pubblica.istruzione.it/-progettiamo-un-hackathon-nella-storia-e-nelle-piazze",
-    "starting_date": "2026-02-26",
-    "scraped_date": "2026-03-10"
-  },
-  {
     "title": "Un hackathon per dare vita alle idee - Media INAF",
     "href": "https://www.media.inaf.it/2021/05/11/eu-code-week-hackathon/",
     "starting_date": "2026-05-07",
@@ -250,5 +238,35 @@
     "href": "https://www.socialhackathonumbria.info/en/",
     "starting_date": "2026-07-16",
     "scraped_date": "2026-03-29"
+  },
+  {
+    "title": "TIGER Service Hackathons for Senior & Remote Care Solutions",
+    "href": "https://tigerpath.eu/hackathon/",
+    "starting_date": "2026-05-01",
+    "scraped_date": "2026-04-05"
+  },
+  {
+    "title": "Sioi ZeroHackathon",
+    "href": "https://www.sioi.org/attivita/eventi-speciali/zerohackathon-modelun/",
+    "starting_date": "2026-10-02",
+    "scraped_date": "2026-04-05"
+  },
+  {
+    "title": "Hack for Italy - H-FARM College",
+    "href": "https://college.h-farm.com/en/news/news-hack-for-italy/",
+    "starting_date": "2026-03-27",
+    "scraped_date": "2026-04-05"
+  },
+  {
+    "title": "AET Hackathon 15-16 May 2026 Rome, Italy",
+    "href": "https://www.tftp-training.co.uk/single-post/aet-hackathon-15-16-may-2026-rome-italy",
+    "starting_date": "2026-05-15",
+    "scraped_date": "2026-04-05"
+  },
+  {
+    "title": "Clicode Winners - Fondazione Mondo Digitale",
+    "href": "https://mondodigitale.org/en/news/clicode-winners",
+    "starting_date": "2026-03-04",
+    "scraped_date": "2026-04-05"
   }
 ]
