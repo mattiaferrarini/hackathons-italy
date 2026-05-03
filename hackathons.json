@@ -132,12 +132,6 @@
     "scraped_date": "2026-03-10"
   },
   {
-    "title": "Discover Hackathon Events & Activities in Italy - Eventbrite",
-    "href": "https://www.eventbrite.com/d/italy/hackathon/",
-    "starting_date": "2026-03-24",
-    "scraped_date": "2026-03-10"
-  },
-  {
     "title": "EUDIS Hackathon Sparks Innovation in Europe's Defence Sector",
     "href": "https://defence-industry-space.ec.europa.eu/eudis-hackathon-sparks-innovation-europes-defence-sector-2024-06-26_en",
     "starting_date": "2026-05-31",
@@ -172,12 +166,6 @@
     "href": "https://www.media.inaf.it/2021/05/11/eu-code-week-hackathon/",
     "starting_date": "2026-05-07",
     "scraped_date": "2026-03-10"
-  },
-  {
-    "title": "Scopri Hackathon eventi e attivit\u00e0 a Italia - Eventbrite",
-    "href": "https://www.eventbrite.it/d/italy/hackathon/",
-    "starting_date": "2026-03-24",
-    "scraped_date": "2026-03-15"
   },
   {
     "title": "HSIL Hackathon 2026 \u2013 Building High-Value Health Systems",
@@ -216,12 +204,6 @@
     "scraped_date": "2026-03-29"
   },
   {
-    "title": "Chiusa la prima edizione internazionale dell'Hackathon per il Clima ...",
-    "href": "https://www.unicef.it/media/chiusa-la-prima-edizione-internazionale-dell-hackathon-per-il-clima-organizzata-da-unicef-italia-e-iaia-italia/",
-    "starting_date": "2026-03-26",
-    "scraped_date": "2026-03-29"
-  },
-  {
     "title": "How to reduce our digital carbon footprint by 50%",
     "href": "https://escp.eu/news/how-reduce-our-digital-carbon-footprint-50-escp-green-hackathon-solutions",
     "starting_date": "2026-11-09",
@@ -246,12 +228,6 @@
     "scraped_date": "2026-04-05"
   },
   {
-    "title": "Hack for Italy - H-FARM College",
-    "href": "https://college.h-farm.com/en/news/news-hack-for-italy/",
-    "starting_date": "2026-03-27",
-    "scraped_date": "2026-04-05"
-  },
-  {
     "title": "AET Hackathon 15-16 May 2026 Rome, Italy",
     "href": "https://www.tftp-training.co.uk/single-post/aet-hackathon-15-16-may-2026-rome-italy",
     "starting_date": "2026-05-15",
@@ -264,9 +240,15 @@
     "scraped_date": "2026-04-12"
   },
   {
-    "title": "CASSINI Hackathon Italia awards the FEMMAN project to solve the ...",
-    "href": "https://www.iamb.ciheam.org/news-events/cassini-hackathon-italia-awards-the-femman-project-to-solve-the-challenge-of-illegal-fishing/",
-    "starting_date": "2026-03-24",
-    "scraped_date": "2026-04-19"
+    "title": "GitHub - lorenzopalaia/HackTrack-EU: An up-to-date platform listing ...",
+    "href": "https://github.com/lorenzopalaia/HackTrack-EU",
+    "starting_date": "2026-05-07",
+    "scraped_date": "2026-05-03"
+  },
+  {
+    "title": "GDG AI HACK 2026",
+    "href": "https://gdgaihack.com/",
+    "starting_date": "2026-05-08",
+    "scraped_date": "2026-05-03"
   }
 ]
