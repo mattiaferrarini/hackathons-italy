@@ -250,5 +250,17 @@
     "href": "https://gdgaihack.com/",
     "starting_date": "2026-05-08",
     "scraped_date": "2026-05-03"
+  },
+  {
+    "title": "ING Italia hiring Join Our Tech Hackathon! in Milan, Lombardy, Italy",
+    "href": "https://www.linkedin.com/jobs/view/4402486510/",
+    "starting_date": "2026-05-21",
+    "scraped_date": "2026-05-10"
+  },
+  {
+    "title": "Sioi ZeroHackathon",
+    "href": "https://www.sioi.org/attivita/eventi-speciali/zerohackathon-modelun/?lang=en",
+    "starting_date": "2026-10-02",
+    "scraped_date": "2026-05-10"
   }
 ]
