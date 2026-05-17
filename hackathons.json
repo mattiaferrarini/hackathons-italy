@@ -168,12 +168,6 @@
     "scraped_date": "2026-03-10"
   },
   {
-    "title": "HSIL Hackathon 2026 \u2013 Building High-Value Health Systems",
-    "href": "https://humantechnopole.it/en/trainings/hsil-hackathon-2026-building-high-value-health-systems-leveraging-ai/",
-    "starting_date": "2026-04-10",
-    "scraped_date": "2026-03-15"
-  },
-  {
     "title": "Hackathon2026 - Copernicus Italia",
     "href": "https://www.copernicus-italia.it/?page_id=1715",
     "starting_date": "2026-05-08",
@@ -262,5 +256,23 @@
     "href": "https://www.sioi.org/attivita/eventi-speciali/zerohackathon-modelun/?lang=en",
     "starting_date": "2026-10-02",
     "scraped_date": "2026-05-10"
+  },
+  {
+    "title": "Discover Hackathon Events & Activities in Italy - Eventbrite",
+    "href": "https://www.eventbrite.com/d/italy/hackathon/",
+    "starting_date": "2026-06-11",
+    "scraped_date": "2026-05-17"
+  },
+  {
+    "title": "Scopri Hackathon eventi e attivit\u00e0 a Italia - Eventbrite",
+    "href": "https://www.eventbrite.it/d/italy/hackathon/",
+    "starting_date": "2026-05-28",
+    "scraped_date": "2026-05-17"
+  },
+  {
+    "title": "NOI Hackathon Open Data Hub Edition - Italia Open Gov",
+    "href": "https://open.gov.it/eventi/hackathon-open-data-hub-edition",
+    "starting_date": "2026-05-13",
+    "scraped_date": "2026-05-17"
   }
 ]
