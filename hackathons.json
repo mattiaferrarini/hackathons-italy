@@ -174,12 +174,6 @@
     "scraped_date": "2026-03-15"
   },
   {
-    "title": "Students and graduates' opportunities - careers - Leonardo",
-    "href": "https://www.leonardo.com/en/careers/students-and-graduates",
-    "starting_date": "2026-04-18",
-    "scraped_date": "2026-03-15"
-  },
-  {
     "title": "Hackathon in Italia",
     "href": "https://it.allhackathons.com/",
     "starting_date": "2026-05-08",
@@ -190,12 +184,6 @@
     "href": "https://www.masteritaly.com/need-next-hackathon-innoviamo-e-costruiamo-le-finestre-del-futuro/",
     "starting_date": "2026-10-23",
     "scraped_date": "2026-03-22"
-  },
-  {
-    "title": "Hackathon Leonardo - Space Edition - Telespazio",
-    "href": "https://www.telespazio.com/it/carriere/hackathon-space-edition",
-    "starting_date": "2026-04-18",
-    "scraped_date": "2026-03-29"
   },
   {
     "title": "How to reduce our digital carbon footprint by 50%",
@@ -274,5 +262,23 @@
     "href": "https://open.gov.it/eventi/hackathon-open-data-hub-edition",
     "starting_date": "2026-05-13",
     "scraped_date": "2026-05-17"
+  },
+  {
+    "title": "Students and graduates' opportunities - careers - Leonardo S.p.A.",
+    "href": "https://www.leonardo.com/en/careers/students-and-graduates",
+    "starting_date": "2026-09-01",
+    "scraped_date": "2026-05-24"
+  },
+  {
+    "title": "ActInSpace 2022, the winning team of the Turin hackathon ... - I3P",
+    "href": "https://www.i3p.it/en/news/actinspace-2022-winning-team-turin-hackathon-ranks-among-world-top-5",
+    "starting_date": "2026-11-01",
+    "scraped_date": "2026-05-24"
+  },
+  {
+    "title": "Hackathon Archives | Arduino Blog",
+    "href": "https://blog.arduino.cc/category/hackathon/",
+    "starting_date": "2026-06-01",
+    "scraped_date": "2026-05-24"
   }
 ]
