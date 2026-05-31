@@ -120,12 +120,6 @@
     "scraped_date": "2026-03-10"
   },
   {
-    "title": "11th CASSINI Hackathon | Italy | EU Space for Water",
-    "href": "https://www.cassini.eu/hackathons/Italy",
-    "starting_date": "2026-04-24",
-    "scraped_date": "2026-03-10"
-  },
-  {
     "title": "EUDIS Hackathon and Mentorship - ITALY Autumn - Taikai.network",
     "href": "https://taikai.network/en/eudisITALY/hackathons/italy/overview",
     "starting_date": "2026-09-01",
@@ -280,5 +274,23 @@
     "href": "https://blog.arduino.cc/category/hackathon/",
     "starting_date": "2026-06-01",
     "scraped_date": "2026-05-24"
+  },
+  {
+    "title": "HILL Hackathon Alto Vicentino Youth - ALDA Europe",
+    "href": "https://www.alda-europe.eu/events/hill-hackathon-alto-vicentino-2026/",
+    "starting_date": "2026-05-29",
+    "scraped_date": "2026-05-31"
+  },
+  {
+    "title": "Hackathon Events in Italy - 10Times",
+    "href": "https://10times.com/italy/hackathon",
+    "starting_date": "2026-06-08",
+    "scraped_date": "2026-05-31"
+  },
+  {
+    "title": "The Hackathon of \u201cThe AFAM Roadshow\u201d \u2013 Open Call - RUFA",
+    "href": "https://www.unirufa.it/en/2026/02/23/lhackathon-di-the-afam-roadshow-open-call/",
+    "starting_date": "2026-04-27",
+    "scraped_date": "2026-05-31"
   }
 ]
