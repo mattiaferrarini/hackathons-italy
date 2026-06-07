@@ -90,12 +90,6 @@
     "scraped_date": "2025-11-16"
   },
   {
-    "title": "Wikimedia Hackathon 2026",
-    "href": "https://pretix.eu/wikimedia/Hackathon-2026/",
-    "starting_date": "2026-05-01",
-    "scraped_date": "2025-11-16"
-  },
-  {
     "title": "EU Code Week Hackathon Italy 2025 is here! / \u00c8 arrivato l'EU Code ...",
     "href": "https://www.facebook.com/codeEU/posts/-eu-code-week-hackathon-italy-2025-is-here-%C3%A8-arrivato-leu-code-week-hackathon-it/1139069891696356/",
     "starting_date": null,
@@ -192,12 +186,6 @@
     "scraped_date": "2026-03-29"
   },
   {
-    "title": "TIGER Service Hackathons for Senior & Remote Care Solutions",
-    "href": "https://tigerpath.eu/hackathon/",
-    "starting_date": "2026-05-01",
-    "scraped_date": "2026-04-05"
-  },
-  {
     "title": "Sioi ZeroHackathon",
     "href": "https://www.sioi.org/attivita/eventi-speciali/zerohackathon-modelun/",
     "starting_date": "2026-10-02",
@@ -285,12 +273,6 @@
     "title": "Hackathon Events in Italy - 10Times",
     "href": "https://10times.com/italy/hackathon",
     "starting_date": "2026-06-08",
-    "scraped_date": "2026-05-31"
-  },
-  {
-    "title": "The Hackathon of \u201cThe AFAM Roadshow\u201d \u2013 Open Call - RUFA",
-    "href": "https://www.unirufa.it/en/2026/02/23/lhackathon-di-the-afam-roadshow-open-call/",
-    "starting_date": "2026-04-27",
     "scraped_date": "2026-05-31"
   }
 ]
