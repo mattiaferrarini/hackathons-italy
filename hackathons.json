@@ -174,12 +174,6 @@
     "scraped_date": "2026-05-10"
   },
   {
-    "title": "Discover Hackathon Events & Activities in Italy - Eventbrite",
-    "href": "https://www.eventbrite.com/d/italy/hackathon/",
-    "starting_date": "2026-06-11",
-    "scraped_date": "2026-05-17"
-  },
-  {
     "title": "Students and graduates' opportunities - careers - Leonardo S.p.A.",
     "href": "https://www.leonardo.com/en/careers/students-and-graduates",
     "starting_date": "2026-09-01",
@@ -190,11 +184,5 @@
     "href": "https://www.i3p.it/en/news/actinspace-2022-winning-team-turin-hackathon-ranks-among-world-top-5",
     "starting_date": "2026-11-01",
     "scraped_date": "2026-05-24"
-  },
-  {
-    "title": "Hackathon Events in Italy - 10Times",
-    "href": "https://10times.com/italy/hackathon",
-    "starting_date": "2026-06-08",
-    "scraped_date": "2026-05-31"
   }
 ]
